@@ -78,8 +78,8 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     if not corpus or not query_tokens or top_k <= 0:
         return []
 
-    index, token_sets = _get_index(corpus)
-    scores = index.get_scores(query_tokens)
+    bm25, token_sets = _get_index(corpus)
+    scores = bm25.get_scores(query_tokens)
     query_set = set(query_tokens)
 
     # Chỉ giữ chunk thực sự chứa ít nhất một token của query. Không lọc bằng
@@ -88,17 +88,17 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     # và sẽ bị loại oan. Lọc theo token overlap đúng ý đồ hơn và không phụ
     # thuộc kích thước corpus; score âm (idf bị floor) vẫn bị bỏ.
     scored = [
-        (float(score), index_)
-        for index_, score in enumerate(scores)
-        if float(score) >= 0 and query_set & token_sets[index_]
+        (float(score), position)
+        for position, score in enumerate(scores)
+        if float(score) >= 0 and query_set & token_sets[position]
     ]
     # Tie-break bằng ID để kết quả tái lập được giữa các lần chạy.
     scored.sort(key=lambda pair: (-pair[0], corpus[pair[1]]["id"]))
 
     results: list[dict] = []
     seen: set[str] = set()
-    for score, index in scored:
-        item = corpus[index]
+    for score, position in scored:
+        item = corpus[position]
         if item["id"] in seen:
             continue
         seen.add(item["id"])
