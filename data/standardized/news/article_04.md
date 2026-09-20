@@ -1,0 +1,90 @@
+# Nhiều học bổng, miễn giảm học phí tại Trường Đại học Kiên Giang năm 2026
+
+**Source:** https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html
+
+**Crawled:** 2026-09-20T16:29:28.153530
+
+---
+
+Chủ Nhật, 20/09/2026 - 16:29
+Đường dây nóng: **096.733.5089**
+Email:  gdtddientu@gmail.com
+
+#  Nhiều học bổng và miễn giảm học phí tại Trường Đại học Kiên Giang năm 2026
+Yến Phương - Như Ý 13/07/2026 14:37 (GMT+7)
+GD&TĐ - Năm 2026, Trường Đại học Kiên Giang triển khai hàng loạt chính sách học bổng và hỗ trợ tài chính dành cho tân sinh viên nhằm thu hút người học.
+| --- |
+| Trường Đại học Kiên Giang tọa lạc tại số 320A, Quốc lộ 61, xã Châu Thành, tỉnh An Giang.  |
+Nhằm giảm bớt gánh nặng chi phí cho người học, năm 2026, Trường ĐH Kiên Giang tiếp tục mở rộng các chính sách hỗ trợ người học với quy mô lớn; hướng đến nhiều nhóm đối tượng khác nhau, từ sinh viên các ngành sư phạm đến thí sinh có thành tích học tập nổi bật và những ngành đào tạo ưu tiên.
+**Chính sách đặc thù cho sinh viên sư phạm**
+Đào tạo giáo viên luôn là một trong những thế mạnh của Trường ĐH Kiên Giang. Năm 2026, nhà trường dự kiến có 291 suất hỗ trợ theo Nghị định số 116/2020/NĐ-CP; gồm 30 chỉ tiêu ngành Sư phạm Toán học, 77 chỉ tiêu ngành Sư phạm Tiếng Anh, 104 chỉ tiêu ngành Giáo dục Tiểu học và 80 chỉ tiêu ngành Giáo dục Mầm non.
+Sinh viên thuộc diện được hưởng chính sách sẽ được hỗ trợ 100% học phí trong toàn khóa học, đồng thời hỗ trợ chi phí sinh hoạt 3,63 triệu đồng/tháng theo quy định. Chính sách này không chỉ góp phần giảm gánh nặng tài chính cho người học mà còn tạo động lực để học sinh có năng lực lựa chọn ngành sư phạm, đáp ứng nhu cầu phát triển đội ngũ giáo viên trong thời gian tới.
+**Hàng trăm suất học bổng dành cho tân sinh viên**
+Đối với 24 ngành đào tạo còn lại, Trường ĐH Kiên Giang triển khai nhiều chương trình học bổng với tiêu chí đa dạng.
+Nhà trường dành 20 suất học bổng toàn phần cho thí sinh đạt giải tại các kỳ thi học sinh giỏi cấp tỉnh, quốc gia hoặc quốc tế. Người học được miễn 100% học phí và miễn phí ký túc xá trong toàn khóa học.
+Bên cạnh đó là 100 suất học bổng bán phần dành cho thí sinh đạt học lực Tốt, Giỏi hoặc Xuất sắc trong cả ba năm THPT hoặc đạt giải tại cuộc thi khoa học, kỹ thuật cấp tỉnh. Sinh viên được giảm 50% học phí toàn khóa và miễn phí ký túc xá.
+Đối với những thí sinh có kết quả cao trong Kỳ thi tốt nghiệp THPT năm 2026, Trường ĐH Kiên Giang dành 20 suất học bổng cho thí sinh đạt từ 26 điểm trở lên; với mức hỗ trợ miễn 100% học phí năm học thứ nhất và miễn phí ký túc xá toàn khóa.
+Một điểm đáng chú ý trong chính sách tuyển sinh năm nay là 200 suất học bổng dành cho sinh viên nhập học các ngành Khoa học cây trồng, Chăn nuôi, Công nghệ sinh học và Công nghệ kỹ thuật môi trường.
+Theo đó, sinh viên được miễn 100% học phí học kỳ I và giảm 50% phí ký túc xá trong toàn khóa học. Đây đều là những ngành có vai trò quan trọng trong phát triển nông nghiệp, bảo vệ môi trường và phát triển bền vững của khu vực ĐBSCL.
+**Đồng hành cùng sinh viên từ tuyển sinh đến việc làm**
+Không chỉ triển khai các chương trình học bổng, Trường ĐH Kiên Giang còn duy trì nhiều chính sách đồng hành cùng người học trong suốt quá trình đào tạo. Sau khi nhập học, sinh viên được hướng dẫn tiếp cận các chương trình học bổng, chính sách hỗ trợ theo quy định và các nguồn hỗ trợ khác của nhà trường.
+Năm 2026, Trường ĐH Kiên Giang tuyển sinh 2.230 chỉ tiêu đại học chính quy ở 28 ngành đào tạo, đồng thời mở mới ba ngành gồm: Trí tuệ nhân tạo, Thú y, Quản trị nhà hàng và dịch vụ ăn uống; đáp ứng nhu cầu nguồn nhân lực trong các lĩnh vực công nghệ, nông nghiệp và dịch vụ.
+Nhà trường tiếp tục áp dụng 6 phương thức xét tuyển, gồm: xét học bạ THPT; xét điểm thi tốt nghiệp THPT; xét tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ Giáo dục và Đào tạo; xét điểm kỳ thi Đánh giá năng lực của ĐH Quốc gia TPHCM; xét kết quả kỳ thi V-SAT; và xét kết quả học tập trình độ trung cấp, cao đẳng, đại học đối với hệ liên thông.
+Bên cạnh chất lượng đào tạo, nhà trường có mức học phí phù hợp khoảng 7,5 - 8,5 triệu đồng/học kỳ, ký túc xá từ 150.000 đồng/tháng, góp phần giúp sinh viên giảm đáng kể chi phí học tập và sinh hoạt. Hiệu quả đào tạo cũng được thể hiện qua tỷ lệ 82% sinh viên có việc làm ngay sau khi tốt nghiệp và 95% có việc làm sau một năm, khẳng định định hướng đào tạo gắn với nhu cầu của thị trường lao động.
+Thí sinh và phụ huynh có thể xem thông tin tuyển sinh năm 2026 tại tuyensinh.vnkgu.edu.vn, Fanpage Trường Đại học Kiên Giang hoặc liên hệ 0297 396 8888 để được tư vấn.
+###  Tin liên quan
+Chia sẻ
+Gửi bình luận
+### Bình luận
+Gửi bình luận
+XEM THÊM BÌNH LUẬN
+6 giờ trước
+###  Tin tiêu điểm
+GD&TĐ - Những xe bọc thép chở quân sử dụng khung gầm xe tăng chiến đấu chủ lực có lẽ là phương tiện cần thiết với Quân đội Nga hiện nay.
+GD&TĐ - Các nguồn thông tin mở cho biết đến năm 2018, Nga có thể vẫn lưu giữ tới 130 tiêm kích MiG-31 trong các kho dự trữ.
+GD&TĐ - Quân đội Nga có kho vũ khí pháo lớn nhất và cũng có nguồn cung cấp đạn dược ổn định – Tạp chí Forbes tuyên bố ngày 16/7.
+GD&TĐ - Xe tăng chiến đấu chủ lực T-90M do Nga sản xuất đã trở thành một trong những phương tiện chủ chốt trong chiến dịch quân sự đặc biệt ở Ukraine.
+GD&TĐ - Cấu hình mới của tàu đổ bộ Dự án 11711 mang lại khả năng tác chiến cao hơn cho Hải quân Nga.
+GD&TĐ - Dù điều kiện học tập có phần hạn chế nhưng, Dương Đình Thanh người dân tộc Tày vẫn sở hữu điểm số ba môn Toán, Vật lí và tiếng Anh vô cùng ấn tượng.
+GD&TĐ - Trong ngày, tình trạng ngừng hoạt động của các thiết bị máy tính chạy Windows được báo cáo ở nhiều quốc gia khác nhau.
+###  Tin nổi bật
+###  Đừng bỏ lỡ
+1 giờ trước
+GD&TĐ - Phó Thủ tướng Lê Tiến Châu nhấn mạnh đại học cần tiên phong phát hiện vấn đề từ thực tiễn, đề xuất giải pháp mới, hiệu quả và sáng tạo.
+3 giờ trước
+GD&TĐ - 150 tân sinh viên trúng tuyển khóa tuyển sinh đầu tiên của Phân hiệu Học viện Tài chính tại TPHCM.
+3 giờ trước
+GD&TĐ - Ngày 19/9, tại xã Vân Sơn, tỉnh Phú Thọ, CLB Tình nguyện viên Thủ đô phối hợp cùng Đoàn Thanh niên Bộ Giáo dục và Đào tạo, cấp ủy chính quyền – Đoàn Thanh niên xã Vân Sơn và các đơn vị đồng hành, tài trợ tổ chức thành công chương trình “Trung thu cho em 2026”.
+
+3 giờ trước
+GD&TĐ - Bộ Quốc phòng Nga cho biết đã tập kích 2 trạm tác chiến điện tử 35D6 và P-18 của Ukraine, kiểm soát thêm 5 khu định cư trong ngày.
+3 giờ trước
+GD&TĐ - Người mắc khe hở môi, hàm ếch và một số dị tật bẩm sinh có thể đăng ký khám sàng lọc, phẫu thuật miễn phí tại Đắk Lắk.
+3 giờ trước
+GD&TĐ - Đại diện đội Singapore xuất sắc giành giải Nhất bảng triển vọng tại Chung kết Cuộc thi Tìm kiếm tài năng An toàn thông tin 2026 diễn ra tại Đà Nẵng.
+3 giờ trước
+GD&TĐ - Ông Mohammad Baqer Ghalibaf cho biết kỷ nguyên "săn lùng" F-35 và F-15 của Mỹ bắt đầu khi cuộc chiến chống Iran bước sang tháng thứ 7.
+4 giờ trước
+GD&TĐ - Không chỉ nghe phổ biến pháp luật, 300 sinh viên tại Đắk Lắk còn kiểm tra kiến thức và thực hành kỹ năng lái xe an toàn.
+4 giờ trước
+GD&TĐ - Ngày 20/9, tỉnh Cà Mau tổ chức khai mạc Đại hội thể dục thể thao tỉnh lần thứ I năm 2026, với chủ đề “Khỏe để cống hiến - Đoàn kết để phát triển”.
+4 giờ trước
+GD&TĐ - Chiều 19/9, Trường ĐH Luật Huế tổ chức buổi lễ trao học bổng đến các sinh viên có hoàn cảnh khó khăn.
+5 giờ trước
+Ngày 20/9/2026, Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Phiên thảo luận cấp cao Đại hội đồng Liên hợp quốc khóa 81, hoạt động song phương tại Hoa Kỳ và thăm cấp Nhà nước tới Canada.
+5 giờ trước
+GD&TĐ - Bộ Nông nghiệp và Môi trường phối hợp với UBND TP. Hà Nội tổ chức Lễ phát động hưởng ứng Chiến dịch Làm cho thế giới sạch hơn năm 2026.
+Xem thêm
+
+###  BÁO GIÁO DỤC & THỜI ĐẠI
+CƠ QUAN CỦA BỘ GIÁO DỤC VÀ ĐÀO TẠO - DIỄN ĐÀN TOÀN XÃ HỘI VÌ SỰ NGHIỆP GIÁO DỤC
+Cơ quan chủ quản: BỘ GIÁO DỤC VÀ ĐÀO TẠO
+Số giấy phép 479/GP-BTTTT, cấp ngày 29/10/2020, ISSN 1859-2945.
+Tổng Biên tập: Triệu Ngọc Lâm
+Phó Tổng Biên tập: Dương Thanh Hương - Nguyễn Đức Tuân
+® Ghi rõ nguồn "Báo Giáo dục & Thời đại" khi phát hành lại thông tin từ website.
+###  TRỤ SỞ CHÍNH
+Tòa soạn: 15 Hai Bà Trưng - P.Cửa Nam - Hà Nội.
+Email : gdtddientu@gmail.com
+###  LIÊN HỆ QUẢNG CÁO, TRUYỀN THÔNG VÀ ĐẶT BÁO
+Phòng Truyền thông và Dự án

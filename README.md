@@ -1,6 +1,46 @@
-# Day 8 — RAG Pipeline
+# Chatbot RAG — Dịch vụ đại học (K4-L3A)
 
-## Mục tiêu
+Chatbot hỏi đáp về **học phí, ký túc xá, học bổng và quy chế đào tạo đại học**, trả lời chỉ từ bộ tài liệu nhóm thu thập và luôn kèm trích dẫn nguồn.
+
+Thành viên và phân công: [`TEAMMATES.md`](TEAMMATES.md) — chi tiết phần việc ở [`group_project/WORK_DIVISION.md`](group_project/WORK_DIVISION.md).
+
+## Kiến trúc
+
+```
+PDF chính sách  ─┐
+                 ├─> Markdown chuẩn hoá ─> chunk ─> bge-m3 ─> ChromaDB ─┬─> dense search ─┐
+Bài viết crawl  ─┘                                    └─> BM25 ─────────┘                 ├─> RRF ─> LLM + citation
+                                                                                          │
+                                       dense score < threshold ─> PageIndex fallback ──────┘
+```
+
+- **Corpus:** 7 tài liệu chính sách (PDF) + 9 bài viết/thông báo (crawl) — xem `data/landing/`.
+- **Embedding:** `BAAI/bge-m3` (1024 chiều), chạy local qua `sentence-transformers`.
+- **Retrieval:** dense (ChromaDB, cosine) + BM25, hợp nhất bằng Reciprocal Rank Fusion.
+- **Fallback:** so ngưỡng với cosine score gốc của dense — không dùng RRF score, vì RRF chỉ phản ánh thứ hạng.
+- **Generation:** trả lời kèm citation đối chiếu được; thiếu evidence thì từ chối an toàn thay vì bịa.
+
+## Chạy lại từ đầu
+
+```bash
+python -m src.task1_collect_legal_docs   # tải PDF chính sách
+python -m src.task2_crawl_news           # crawl bài viết -> JSON
+python -m src.task3_convert_markdown     # chuẩn hoá sang Markdown
+python -m src.task4_chunking_indexing    # chunk + embed + index ChromaDB
+streamlit run app.py                     # chatbot
+```
+
+Đánh giá A/B (dense-only vs hybrid + RRF):
+
+```bash
+python -m group_project.evaluation.run_evaluation
+```
+
+Kết quả: [`group_project/evaluation/RESULT.md`](group_project/evaluation/RESULT.md).
+
+---
+
+## Yêu cầu gốc của đề
 
 Mỗi nhóm xây dựng một chatbot RAG trả lời câu hỏi từ bộ tài liệu do nhóm thu thập. Sản phẩm phải có hybrid retrieval, citation, giao diện chat và báo cáo đánh giá.
 
