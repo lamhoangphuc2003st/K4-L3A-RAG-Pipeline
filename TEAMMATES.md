@@ -18,11 +18,11 @@ Chi tiết nhiệm vụ, lịch chạy song song và các điểm đồng bộ: 
 
 ## Báo cáo cá nhân
 
-Mỗi thành viên copy `group_project/ịndividual/INDIVIDUAL_REPORT.md` thành `reports/<mã-học-viên>-<tên-ngắn>.md` và tự điền.
+Mỗi thành viên copy `group_project/ịndividual/INDIVIDUAL_REPORT.md` thành `reports/K4-L3A-<MSSV>-<Name>.md` và tự điền bằng file, commit, PR, test hoặc kết quả evaluation đối chiếu được.
 
 | Thành viên | File báo cáo cá nhân |
 |---|---|
-| Nguyễn Văn Tài | `reports/2A202603004-tai.md` |
-| Nguyễn Đăng Thực | `reports/2A202603014-thuc.md` |
-| Nguyễn Đức Minh | `reports/2A202602891-minh.md` |
-| Lâm Hoàng Phúc | `reports/2A202602582-phuc.md` |
+| Nguyễn Văn Tài | `reports/K4-L3A-2A202603004-NguyenVanTai.md` |
+| Nguyễn Đăng Thực | `reports/K4-L3A-2A202603014-NguyenDangThuc.md` |
+| Nguyễn Đức Minh | `reports/K4-L3A-2A202602891-NguyenDucMinh.md` |
+| Lâm Hoàng Phúc | `reports/K4-L3A-2A202602582-LamHoangPhuc.md` |
