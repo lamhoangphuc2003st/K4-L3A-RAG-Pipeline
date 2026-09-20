@@ -18,6 +18,16 @@ out-of-domain — xem ``calibrate_threshold()`` và mục Fallback trong
 ``group_project/evaluation/RESULT.md``.
 """
 
+import sys
+
+# Console Windows mac dinh cp1252 -> print tieng Viet nem UnicodeEncodeError.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        try:
+            _stream.reconfigure(encoding="utf-8")
+        except (AttributeError, ValueError):
+            pass
+
 import os
 
 from dotenv import load_dotenv

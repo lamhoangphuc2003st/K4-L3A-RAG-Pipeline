@@ -1,0 +1,1025 @@
+{
+  "evaluation_date": "2026-09-20",
+  "top_k": 5,
+  "dataset_size": 22,
+  "llm_provider": "openai",
+  "generator_model": "gpt-4o-mini",
+  "embedding_model": "BAAI/bge-m3",
+  "score_threshold": "0.618",
+  "config_a": {
+    "label": "dense-only",
+    "scores": {
+      "faithfulness": 0.837121212121212,
+      "answer_relevance": 0.4713276855789372,
+      "context_recall": 0.7348484848484848,
+      "context_precision": 0.7395202019894718
+    },
+    "rows": [
+      {
+        "question": "Quỹ học bổng khuyến khích học tập được bố trí tối thiểu bằng bao nhiêu phần trăm nguồn thu học phí?",
+        "answer": "Quỹ học bổng khuyến khích học tập được bố trí tối thiểu bằng 8% nguồn thu học phí hệ giáo dục chính quy của nhà trường [Document 5].",
+        "contexts": [
+          "Dự thảo nghị định Luật Giáo dục yêu cầu các trường đại học trích tối thiểu 3% học phí cho học bổng, đồng thời điều chỉnh nhiều chính sách liên quan.\n**Trở thành người đầu tiên tặng sao cho bài viết** 0 0 0\nTặng sao cho bài viết hay\nChia sẻ\nCHIA SẺ\nTặng sao\nChuyển sao tặng cho thành viên\n  * x1\n  * x5\n  * x10",
+          "2\nTC Tín chỉ\nP.ĐTĐH Phòng Đào tạo Đại học\nP.CTSV Phòng Công tác Sinh viên\nP.KHTC Phòng Kế hoạch Tài chính\nChương II\nQUỸ HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP, HỘI ĐỒNG XÉT CẤP\nHỌC BỔNG KHUYẾN KHÍCH HỌC TẬP\nĐiều 4. Quỹ học bổng khuyến khích học tập\nQuỹ học bổng khuyến khích học tập được bố trí tối thiểu bằng 8% nguồn thu học\nphí hệ giáo dục chính quy của nhà trường.\nĐiều 5. Hội đồng xét cấp học bổng khuyến khích học tập:\n1. Thẩm quyền thành lập:",
+          ". Bên cạnh đó, học bổng khuyến khích học tập có thể đạt mức tối đa 120% học phí.",
+          "3.3. Nguồn học bổng: Học bổng KKHT được bố trí tối thiểu 8% nguồn thu học phí.\n\n3.4. Trình tự xét, cấp học bổng:\n\na) Hiệu trưởng căn cứ vào nguồn học bổng khuyến khích học tập xác định số lượng suất học\nbổng cho từng khóa học, ngành học. Trong trường hợp số lượng sinh viên thuộc diện được xét,\ncấp học bổng nhiều hơn số suất học bổng thì việc xét, cấp học bổng do Hiệu trưởng quyết định;",
+          "cấp học bổng khuyến khích học tập trong phạm vi quỹ học bổng từng học kỳ theo các mức\nKhá, Giỏi và Xuất sắc. Tiêu chuẩn cụ thể:\n120"
+        ],
+        "reference": "Tối thiểu bằng 8% nguồn thu học phí. Quy định này xuất hiện cả trong quy định xét cấp học bổng của Trường Đại học Quốc tế và quy định quản lý, sử dụng học bổng của UET.",
+        "expected_context": "Quỹ học bổng khuyến khích học tập được bố trí tối thiểu bằng 8% nguồn thu học phí.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "news/article_01.md::chunk-23",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-12",
+          "news/article_05.md::chunk-6",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-4",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-540"
+        ]
+      },
+      {
+        "question": "Mức học bổng Loại I và Loại II bằng bao nhiêu phần trăm mức học bổng Loại III?",
+        "answer": "Mức học bổng Loại II tương đương 110% mức học bổng Loại III, và mức học bổng Loại I tương đương 120% mức học bổng Loại III [Document 1].",
+        "contexts": [
+          "Điều 8. Mức xét cấp HBHT:\nMức\n|     | Điểm học tập  | Điểm rèn luyện  |\nHBHT\nLoại II (Giỏi)\n| Loại I (Xuất sắc)  | Xuất sắc  | Xuất sắc  |\nTrong đó:\n1. Mức học bổng Loại III (mức học bổng chuẩn): do Hội đồng xét cấp HBKKHT\ntham mưu cho Hiệu trưởng ban hành quyết định theo năm học.\n2. Mức học bổng Loại II: mức học bổng tương đương 110% mức học bổng Loại\nIII.\n3. Mức học bổng Loại I: mức học bổng tương đương 120% mức học bổng Loại\nIII.\nĐiều 9. Nguyên tắc phân bổ HBHT",
+          "III.\nĐiều 9. Nguyên tắc phân bổ HBHT\n1. Số suất HBHT của từng ngành học được phân bổ theo phần trăm tỷ lệ tổng số\nsinh viên của từng ngành, khoa và khóa học.\n2. Phân bổ số suất HBHT:\na) Học bổng Loại I: tối đa 10% số suất\nb) Học bổng Loại II: tối đa 30% số suất\nc) Học bổng Loại III: tối đa 60% số suất\n3. Sinh viên được xét cấp HBHT trong học kỳ được xếp theo thứ tự ưu tiên như\nsau:\na) Điểm trung bình học kỳ\nb) Điểm rèn luyện học kỳ",
+          "a) Học bổng loại khá: Dành cho sinh viên có điểm trung bình chung học tập và điểm rèn luyện\ntrong học kỳ đều đạt loại khá trở lên. Mức học bổng bằng hoặc cao hơn mức trần học phí hiện\nhành của ngành, chuyên ngành mà sinh viên đó phải đóng tại đơn vị theo quy định.\n\nb) Học bổng loại giỏi: Dành cho sinh viên trong học kỳ xét, cấp học bổng có điểm trung bình\nchung học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại tốt trở lên. Mức học bổng cao hơn\nloại khá, cụ thể do hiệu trưởng quyết định.",
+          "6\nc) Tổng số tín chỉ tích lũy trong học kỳ\nd) Điểm trung bình tích lũy\nđ) Tổng số tín chỉ tích lũy\n4. Sinh viên đủ điều kiện xét cấp HBHT được phân bổ các học bổng Loại I, II, III\nlần lượt theo thứ tự từ trên xuống cho đến hết số suất học bổng đã được xác định.\n5. Nếu số lượng sinh viên thuộc diện được cấp học bổng nhiều hơn số suất học\nbổng được cấp cho ngành, khóa học thì sẽ tiến hành xét cấp học bổng theo thứ tự từ trên\nxuống cho đến hết số suất HBHT được xác định cho mỗi ngành, khóa học.",
+          "Dự thảo nghị định Luật Giáo dục yêu cầu các trường đại học trích tối thiểu 3% học phí cho học bổng, đồng thời điều chỉnh nhiều chính sách liên quan.\n**Trở thành người đầu tiên tặng sao cho bài viết** 0 0 0\nTặng sao cho bài viết hay\nChia sẻ\nCHIA SẺ\nTặng sao\nChuyển sao tặng cho thành viên\n  * x1\n  * x5\n  * x10"
+        ],
+        "reference": "Học bổng Loại II tương đương 110% mức học bổng Loại III, còn học bổng Loại I tương đương 120% mức học bổng Loại III. Loại III là mức học bổng chuẩn.",
+        "expected_context": "Mức học bổng Loại II: mức học bổng tương đương 110% mức học bổng Loại III. Mức học bổng Loại I: mức học bổng tương đương 120% mức học bổng Loại III.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-26",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-27",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-2",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-28",
+          "news/article_01.md::chunk-23"
+        ]
+      },
+      {
+        "question": "Số suất học bổng khuyến khích học tập được phân bổ theo tỷ lệ nào giữa ba loại?",
+        "answer": "Số suất học bổng khuyến khích học tập (HBHT) được phân bổ theo tỷ lệ giữa ba loại như sau: \n\n- Học bổng Loại I: tối đa 10% số suất\n- Học bổng Loại II: tối đa 30% số suất\n- Học bổng Loại III: tối đa 60% số suất [Document 5].",
+        "contexts": [
+          "cấp học bổng khuyến khích học tập trong phạm vi quỹ học bổng từng học kỳ theo các mức\nKhá, Giỏi và Xuất sắc. Tiêu chuẩn cụ thể:\n120",
+          "III.\nĐiều 9. Nguyên tắc phân bổ HBHT\n1. Số suất HBHT của từng ngành học được phân bổ theo phần trăm tỷ lệ tổng số\nsinh viên của từng ngành, khoa và khóa học.\n2. Phân bổ số suất HBHT:\na) Học bổng Loại I: tối đa 10% số suất\nb) Học bổng Loại II: tối đa 30% số suất\nc) Học bổng Loại III: tối đa 60% số suất\n3. Sinh viên được xét cấp HBHT trong học kỳ được xếp theo thứ tự ưu tiên như\nsau:\na) Điểm trung bình học kỳ\nb) Điểm rèn luyện học kỳ",
+          "6\nc) Tổng số tín chỉ tích lũy trong học kỳ\nd) Điểm trung bình tích lũy\nđ) Tổng số tín chỉ tích lũy\n4. Sinh viên đủ điều kiện xét cấp HBHT được phân bổ các học bổng Loại I, II, III\nlần lượt theo thứ tự từ trên xuống cho đến hết số suất học bổng đã được xác định.\n5. Nếu số lượng sinh viên thuộc diện được cấp học bổng nhiều hơn số suất học\nbổng được cấp cho ngành, khóa học thì sẽ tiến hành xét cấp học bổng theo thứ tự từ trên\nxuống cho đến hết số suất HBHT được xác định cho mỗi ngành, khóa học.",
+          "của Bộ trưởng Bộ Giáo dục và Đào tạo.\n- Căn cứ Quyết định số 2257/QĐ-HVN ngày 17/5/2021 về việc điều chỉnh mức học\nbổng khuyến khích học tập cho sinh viên từ năm học 2020-2021.\nII. Đối tượng, tiêu chuẩn để được xét cấp học bổng khuyến khích học tập\nSinh viên đại học, cao đẳng hệ chính quy có kết quả học tập, rèn luyện từ loại khá trở\nlên, không bị kỷ luật từ mức khiển trách trở lên trong kỳ xét học bổng sẽ được tham dự xét",
+          "Dự thảo nghị định Luật Giáo dục yêu cầu các trường đại học trích tối thiểu 3% học phí cho học bổng, đồng thời điều chỉnh nhiều chính sách liên quan.\n**Trở thành người đầu tiên tặng sao cho bài viết** 0 0 0\nTặng sao cho bài viết hay\nChia sẻ\nCHIA SẺ\nTặng sao\nChuyển sao tặng cho thành viên\n  * x1\n  * x5\n  * x10"
+        ],
+        "reference": "Học bổng Loại I tối đa 10% số suất, Loại II tối đa 30% số suất và Loại III tối đa 60% số suất.",
+        "expected_context": "Phân bổ số suất HBHT: a) Học bổng Loại I: tối đa 10% số suất; b) Học bổng Loại II: tối đa 30% số suất; c) Học bổng Loại III: tối đa 60% số suất.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-540",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-27",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-28",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-539",
+          "news/article_01.md::chunk-23"
+        ]
+      },
+      {
+        "question": "Sinh viên cần đạt điểm tối thiểu bao nhiêu ở tất cả các môn trong học kỳ để được xét học bổng?",
+        "answer": "Sinh viên cần đạt điểm tối thiểu 50/100 ở tất cả các môn trong học kỳ để được xét học bổng, bao gồm cả môn Giáo dục thể chất và Giáo dục quốc phòng [Document 1].",
+        "contexts": [
+          "d) Điểm tất cả các môn trong học kỳ ≥ 50/100 (kể cả môn Giáo dục thể chất, Giáo\ndục quốc phòng – An ninh và các môn không tính điểm trung bình).\nđ) SV phải tích lũy tối thiểu 15 tín chỉ trong học kỳ dùng để xét HBHT (không\nbao gồm các môn tại điểm c khoản 1 Điều này).\ne) Không xét HBHT cho sinh viên có xin điểm hoãn thi (điểm I) tại học kỳ dùng\nđể xét học bổng. Riêng đối với trường hợp sinh viên có quyết định do nhà trường cử",
+          "- Điểm trung bình chung học kỳ (ĐTBCHK) đạt từ 2.50 trở lên; không có học phần\nbị điểm F; tích luỹ tối thiểu 15 tín chỉ/học kỳ (không tính học phần Giáo dục Thể chất và\nGiáo dục Quốc phòng);\n- Kết quả rèn luyện (ĐRL) đạt từ loại Khá trở lên.\nLưu ý: Học kỳ đầu tiên của sinh viên khóa mới sẽ xét học bổng theo số tín chỉ do Học\nviện đăng ký.\nIII. Quỹ học bổng khuyến khích học tập và các mức học bổng\nQuỹ HBKKHT từng học kỳ được bố trí tối thiểu bằng 8% nguồn thu học phí hệ chính",
+          "b) Hiệu trưởng căn cứ vào kết quả học tập, rèn luyện của sinh viên thực hiện xét, cấp học bổng\ntheo thứ tự từ loại suất sắc trở xuống đến hết số suất học bổng đã được xác định;\n\nc) Học bổng được cấp theo từng học kỳ và cấp 10 tháng trong năm học. Tại học kỳ xét học\nbổng, sinh viên được xét, cấp học bổng phải hoàn thành ít nhất 15 tín chỉ. Trường hợp đặc biệt\ndo Hiệu trưởng đơn vị đào tạo quyết định.",
+          "cấp học bổng khuyến khích học tập trong phạm vi quỹ học bổng từng học kỳ theo các mức\nKhá, Giỏi và Xuất sắc. Tiêu chuẩn cụ thể:\n120",
+          "08 học kỳ chính và 03 học kỳ hè theo đúng tiến độ chương trình đào tạo chuẩn của khóa\ntrúng tuyển.\n- Các ngành có thời gian đào tạo 4,5 năm: mỗi sinh viên được xét học bổng tối đa\n09 học kỳ chính và 04 học kỳ hè theo đúng tiến độ chương trình đào tạo chuẩn của khóa\ntrúng tuyển.\nb) Đối với sinh viên học các chương trình liên kết do trường Đại học nước ngoài\ncấp bằng:\n- Mô hình liên kết 2+1; 2+2; 2.5+1.5; 3+1; 4+0: sinh viên được xét học bổng tối"
+        ],
+        "reference": "Điểm tất cả các môn trong học kỳ phải từ 50/100 trở lên, kể cả môn Giáo dục thể chất, Giáo dục quốc phòng - An ninh và các môn không tính điểm trung bình.",
+        "expected_context": "Điểm tất cả các môn trong học kỳ ≥ 50/100 (kể cả môn Giáo dục thể chất, Giáo dục quốc phòng – An ninh và các môn không tính điểm trung bình).",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-18",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-541",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-5",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-540",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-48"
+        ]
+      },
+      {
+        "question": "Sinh viên phải hoàn thành tối thiểu bao nhiêu tín chỉ trong học kỳ để được xét cấp học bổng khuyến khích học tập?",
+        "answer": "Sinh viên phải hoàn thành tối thiểu 15 tín chỉ trong học kỳ để được xét cấp học bổng khuyến khích học tập [Document 2].",
+        "contexts": [
+          "- Điểm trung bình chung học kỳ (ĐTBCHK) đạt từ 2.50 trở lên; không có học phần\nbị điểm F; tích luỹ tối thiểu 15 tín chỉ/học kỳ (không tính học phần Giáo dục Thể chất và\nGiáo dục Quốc phòng);\n- Kết quả rèn luyện (ĐRL) đạt từ loại Khá trở lên.\nLưu ý: Học kỳ đầu tiên của sinh viên khóa mới sẽ xét học bổng theo số tín chỉ do Học\nviện đăng ký.\nIII. Quỹ học bổng khuyến khích học tập và các mức học bổng\nQuỹ HBKKHT từng học kỳ được bố trí tối thiểu bằng 8% nguồn thu học phí hệ chính",
+          "của Bộ trưởng Bộ Giáo dục và Đào tạo.\n- Căn cứ Quyết định số 2257/QĐ-HVN ngày 17/5/2021 về việc điều chỉnh mức học\nbổng khuyến khích học tập cho sinh viên từ năm học 2020-2021.\nII. Đối tượng, tiêu chuẩn để được xét cấp học bổng khuyến khích học tập\nSinh viên đại học, cao đẳng hệ chính quy có kết quả học tập, rèn luyện từ loại khá trở\nlên, không bị kỷ luật từ mức khiển trách trở lên trong kỳ xét học bổng sẽ được tham dự xét",
+          "b) Hiệu trưởng căn cứ vào kết quả học tập, rèn luyện của sinh viên thực hiện xét, cấp học bổng\ntheo thứ tự từ loại suất sắc trở xuống đến hết số suất học bổng đã được xác định;\n\nc) Học bổng được cấp theo từng học kỳ và cấp 10 tháng trong năm học. Tại học kỳ xét học\nbổng, sinh viên được xét, cấp học bổng phải hoàn thành ít nhất 15 tín chỉ. Trường hợp đặc biệt\ndo Hiệu trưởng đơn vị đào tạo quyết định.",
+          "cấp học bổng khuyến khích học tập trong phạm vi quỹ học bổng từng học kỳ theo các mức\nKhá, Giỏi và Xuất sắc. Tiêu chuẩn cụ thể:\n120",
+          "kể học phần GDTC và GDQP) trong học kỳ mới được xếp vào diện được xét cấp học bổng\nkhuyến khích học tập (trừ kỳ đầu tiên của khóa học; kỳ học GDQP theo lịch của Học viện\nxếp cố định theo lớp của sinh viên; sinh viên đi thực tập tốt nghiệp ở chương trình 1).\n8. Sinh viên khóa 68 trở về trước đăng ký học cùng lúc hai chương trình được phép\nđăng ký tối đa 30 tín chỉ trong mỗi học kỳ (kể cả học phần Giáo dục thể chất và Giáo dục"
+        ],
+        "reference": "Phải hoàn thành ít nhất 15 tín chỉ trong học kỳ xét học bổng. Học bổng được cấp theo từng học kỳ và cấp 10 tháng trong năm học; trường hợp đặc biệt do Hiệu trưởng đơn vị đào tạo quyết định.",
+        "expected_context": "Học bổng được cấp theo từng học kỳ và cấp 10 tháng trong năm học. Tại học kỳ xét học bổng, sinh viên được xét, cấp học bổng phải hoàn thành ít nhất 15 tín chỉ.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-541",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-539",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-5",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-540",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-75"
+        ]
+      },
+      {
+        "question": "Học bổng loại giỏi yêu cầu điểm học tập và điểm rèn luyện như thế nào?",
+        "answer": "Học bổng loại giỏi yêu cầu sinh viên có điểm trung bình chung học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại tốt trở lên trong học kỳ xét cấp học bổng. Mức học bổng này cao hơn loại khá và cụ thể do hiệu trưởng quyết định [Document 1].",
+        "contexts": [
+          "c) Học bổng loại xuất sắc: Dành cho sinh viên có điểm trung bình chung học tập và điểm rèn\nluyện trong học kỳ đều đạt loại xuất sắc. Mức học bổng cao hơn loại giỏi, cụ thể do hiệu trưởng\nquyết định.\n\nd) Điểm trung bình chung học tập và điểm rèn luyện quy định tại các điểm a, b và c khoản này\nđược xác định theo quy định hiện hành của ĐHQGHN; trong đó điểm trung bình chung học\ntập để xét học bổng cho sinh viên được tính từ điểm thi, kiểm tra hết môn học lần thứ nhất.",
+          "a) Học bổng loại khá: Dành cho sinh viên có điểm trung bình chung học tập và điểm rèn luyện\ntrong học kỳ đều đạt loại khá trở lên. Mức học bổng bằng hoặc cao hơn mức trần học phí hiện\nhành của ngành, chuyên ngành mà sinh viên đó phải đóng tại đơn vị theo quy định.\n\nb) Học bổng loại giỏi: Dành cho sinh viên trong học kỳ xét, cấp học bổng có điểm trung bình\nchung học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại tốt trở lên. Mức học bổng cao hơn\nloại khá, cụ thể do hiệu trưởng quyết định.",
+          "+ Đạt danh hiệu Sinh viên Giỏi nếu xếp loại học tập từ Giỏi trở lên và xếp loại rèn\nluyện từ Tốt trở lên;\n+ Đạt danh hiệu Sinh viên Xuất sắc nếu xếp loại học tập và rèn luyện Xuất sắc.\nXếp loại học tập và rèn luyện được xác định theo quy định dạy và học đại học và quy\nđịnh về đánh giá kết quả rèn luyện áp dụng cho hệ chính quy đào tạo theo học chế tín chỉ\ncủa Học viện và quy chế của Bộ GD&ĐT.\n- Nếu sinh viên có kết quả xếp loại học tập và xếp loại rèn luyện không cùng bậc thì",
+          "4\ng) Trong cùng một học kỳ, nếu sinh viên vừa đạt HBTS và HBHT, sinh viên sẽ\nđược nhận suất học bổng có giá trị cao hơn.\n2. Về điểm rèn luyện và học vụ:\na) Điểm rèn luyện của học kỳ được dùng để xét cấp học bổng: xếp loại từ loại Khá\ntrở lên. Kết quả rèn luyện của sinh viên được xác định theo tiêu chí đánh giá và khung\nđiểm rèn luyện trong Quy chế Công tác sinh viên hiện hành của trường ĐHQT.\nb) Sinh viên không vi phạm quy chế, quy định của nhà trường, không bị kỷ luật",
+          "cấp học bổng khuyến khích học tập trong phạm vi quỹ học bổng từng học kỳ theo các mức\nKhá, Giỏi và Xuất sắc. Tiêu chuẩn cụ thể:\n120"
+        ],
+        "reference": "Học bổng loại giỏi dành cho sinh viên trong học kỳ xét cấp có điểm trung bình chung học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại tốt trở lên. Mức học bổng cao hơn loại khá, cụ thể do hiệu trưởng quyết định.",
+        "expected_context": "Học bổng loại giỏi: Dành cho sinh viên trong học kỳ xét, cấp học bổng có điểm trung bình chung học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại tốt trở lên.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-3",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-2",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-403",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-20",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-540"
+        ]
+      },
+      {
+        "question": "Cơ sở giáo dục đại học được thu học phí tối đa bao nhiêu tháng trong một năm?",
+        "answer": "Cơ sở giáo dục đại học được thu học phí tối đa 10 tháng trong một năm học [Document 4].",
+        "contexts": [
+          "## Học phí tiếp tục tăng ra sao?\nTheo quy định của Chính phủ về cơ chế thu và quản lý học phí, các trường đại học công lập được phép điều chỉnh mức thu theo từng năm nhưng phải nằm trong khung trần quy định. Với các trường chưa tự chủ chi thường xuyên, mức học phí tối đa năm học 2026-2027 khoảng 17-35 triệu đồng/năm học (10 tháng), tăng khoảng 1-4 triệu đồng so với năm trước.",
+          "Điều 12. Thu học phí\n1. Học phí được thu định kỳ hàng tháng; nếu người học tự nguyện, nhà\ntrường có thể thu một lần cho cả học kỳ hoặc cả năm học. Đối với cơ sở giáo dục\nthường xuyên, đào tạo thường xuyên và các khóa đào tạo, bồi dưỡng ngắn hạn, học\nphí được thu theo số tháng thực học. Đối với cơ sở giáo dục mầm non, giáo dục\nphổ thông, học phí được thu tối đa 9 tháng/năm. Đối với cơ sở giáo dục đại học,\ngiáo dục nghề nghiệp học phí được thu tối đa 10 tháng/năm.",
+          "Nghị định cũng quy định rõ cơ chế đối với các cơ sở giáo dục đại học đã thực hiện tự chủ. Theo đó, trường tự bảo đảm chi thường xuyên được thu học phí tối đa bằng 2 lần mức trần tương ứng của cơ sở chưa tự bảo đảm chi thường xuyên.\nĐối với trường tự bảo đảm cả chi thường xuyên và chi đầu tư, mức học phí tối đa bằng 2,5 lần mức trần. Đây là cơ sở pháp lý để các trường xây dựng đề án tài chính phù hợp với thực tế đầu tư và phát triển.",
+          "19\nhọc và chi phí phát sinh cần thiết để tổ chức dạy học nhưng không vượt quá tổng\nthu học phí tính theo số tháng tối đa của 01 năm học (tối đa 9 tháng/năm đối với cơ\nsở giáo dục mầm non, phổ thông và tối đa 10 tháng/năm đối với cơ sở giáo dục đại\nhọc, cơ sở giáo dục nghề nghiệp) và công khai từ đầu năm học trong các cơ sở giáo\ndục. Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân quyết định cụ thể thời gian\nthu, mức học phí đối với giáo dục mầm non, giáo dục phổ thông công lập trên địa",
+          "Đối với cơ sở [giáo dục đại học](https://tuoitre.vn/giao-duc-dai-hoc.html \"giáo dục đại học\") công lập tự bảo đảm chi thường xuyên, mức học phí tối đa được xác định không quá hai lần mức trần học phí tương ứng với từng khối ngành và từng năm học. Với cơ sở giáo dục đại học công lập tự bảo đảm cả chi thường xuyên và chi đầu tư, mức học phí tối đa không quá 2,5 lần mức trần học phí theo quy định."
+        ],
+        "reference": "Tối đa 10 tháng/năm đối với cơ sở giáo dục đại học và giáo dục nghề nghiệp. Cơ sở giáo dục mầm non và giáo dục phổ thông thu tối đa 9 tháng/năm.",
+        "expected_context": "Đối với cơ sở giáo dục mầm non, giáo dục phổ thông, học phí được thu tối đa 9 tháng/năm. Đối với cơ sở giáo dục đại học, giáo dục nghề nghiệp học phí được thu tối đa 10 tháng/năm.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "news/article_01.md::chunk-4",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-96",
+          "news/article_02.md::chunk-4",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-98",
+          "news/article_01.md::chunk-6"
+        ]
+      },
+      {
+        "question": "Nghị định 81/2021/NĐ-CP đã được sửa đổi, bổ sung bởi những nghị định nào?",
+        "answer": "Nghị định 81/2021/NĐ-CP đã được sửa đổi, bổ sung bởi Nghị định số 97/2023/NĐ-CP ngày 31 tháng 12 năm 2023 [Document 2], [Document 3], [Document 4].",
+        "contexts": [
+          "Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ chế thu,\nquản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn,\ngiảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 31\ntháng 12 năm 2023.\n8 Điểm này được sửa đổi theo quy định tại điểm b khoản 3 Điều 1 của Nghị định số\n97/2023/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8",
+          "theo quy định tại điểm b khoản 7 Điều 1 của Nghị định số 97/2023/NĐ-CP sửa đổi, bổ sung một số\nđiều của Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ\nchế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách\nmiễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, có hiệu lực kể từ\nngày 31 tháng 12 năm 2023.\n18 Điều 15 của Nghị định số 104/2022/NĐ-CP sửa đổi, bổ sung một số điều của các nghị",
+          "2. Nghị định số 97/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ\nsửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8\nnăm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở\ngiáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ\ntrợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo, có hiệu lực kể từ\nngày 31 tháng 12 năm 2023.\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi,",
+          "Căn cứ Pháp lệnh Ưu đãi người có công với cách mạng ngày 09 tháng 12 năm 2020;\nTheo đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo;\nChính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-\nCP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ\nsở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí\nhọc tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo.”",
+          "dịch vụ công.”\nNghị định số 97/2023/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-\nCP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ\nsở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí\nhọc tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo có căn cứ ban hành như sau:\n“Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung"
+        ],
+        "reference": "Nghị định số 81/2021/NĐ-CP ngày 27/8/2021 được sửa đổi, bổ sung bởi Nghị định số 104/2022/NĐ-CP ngày 21/12/2022 và Nghị định số 97/2023/NĐ-CP ngày 31/12/2023 của Chính phủ.",
+        "expected_context": "Nghị định số 104/2022/NĐ-CP ngày 21 tháng 12 năm 2022 của Chính phủ; Nghị định số 97/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-80",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-216",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-3",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-11",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-9"
+        ]
+      },
+      {
+        "question": "Học phí được thu định kỳ như thế nào, trường có được thu một lần cho cả năm không?",
+        "answer": "Học phí được thu định kỳ hàng tháng. Tuy nhiên, nếu người học tự nguyện, nhà trường có thể thu một lần cho cả học kỳ hoặc cả năm học [Document 1].",
+        "contexts": [
+          "Điều 12. Thu học phí\n1. Học phí được thu định kỳ hàng tháng; nếu người học tự nguyện, nhà\ntrường có thể thu một lần cho cả học kỳ hoặc cả năm học. Đối với cơ sở giáo dục\nthường xuyên, đào tạo thường xuyên và các khóa đào tạo, bồi dưỡng ngắn hạn, học\nphí được thu theo số tháng thực học. Đối với cơ sở giáo dục mầm non, giáo dục\nphổ thông, học phí được thu tối đa 9 tháng/năm. Đối với cơ sở giáo dục đại học,\ngiáo dục nghề nghiệp học phí được thu tối đa 10 tháng/năm.",
+          "2. Trường hợp xảy ra thiên tai, dịch bệnh, các sự kiện bất khả kháng thì học\nphí được thu theo số tháng học thực tế (bao gồm cả thời gian tổ chức dạy học trực\ntuyến hoặc bố trí thời gian học bù tại trường); không thu học phí trong thời gian\nkhông tổ chức dạy học. Mức thu học phí đảm bảo nguyên tắc theo số tháng thực",
+          "## Học phí tiếp tục tăng ra sao?\nTheo quy định của Chính phủ về cơ chế thu và quản lý học phí, các trường đại học công lập được phép điều chỉnh mức thu theo từng năm nhưng phải nằm trong khung trần quy định. Với các trường chưa tự chủ chi thường xuyên, mức học phí tối đa năm học 2026-2027 khoảng 17-35 triệu đồng/năm học (10 tháng), tăng khoảng 1-4 triệu đồng so với năm trước.",
+          "9\n3.2 Học phí từ năm học 2023 - 2024:\na) Đối với cơ sở giáo dục chưa tự bảo đảm chi thường xuyên: Giữ ổn định\nmức thu học phí từ năm học 2023 - 2024 bằng mức thu học phí của năm học 2021 -\n2022 do Hội đồng nhân dân tỉnh đã ban hành áp dụng tại địa phương.\nb) Đối với cơ sở giáo dục tự bảo đảm chi thường xuyên, cơ sở giáo dục tự\nbảo đảm chi thường xuyên và chi đầu tư: Cơ sở giáo dục xây dựng mức thu học\nphí trên cơ sở định mức kinh tế - kỹ thuật, định mức chi phí, trình Ủy ban nhân dân",
+          "Các trường công lập trước đây chủ yếu thu theo một mức trần chung, hiện nay mức thu đã đa dạng hơn theo chương trình và cơ chế tự chủ. Trong khi đó các đại học tư thục được tự xác định mức học phí. Năm học gần đây mức thu dao động khá rộng, khoảng 20-180 triệu đồng mỗi năm học tùy chương trình."
+        ],
+        "reference": "Học phí được thu định kỳ hàng tháng. Nếu người học tự nguyện, nhà trường có thể thu một lần cho cả học kỳ hoặc cả năm học.",
+        "expected_context": "Học phí được thu định kỳ hàng tháng; nếu người học tự nguyện, nhà trường có thể thu một lần cho cả học kỳ hoặc cả năm học.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-96",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-97",
+          "news/article_01.md::chunk-4",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-45",
+          "news/article_01.md::chunk-13"
+        ]
+      },
+      {
+        "question": "Khi xảy ra thiên tai hoặc dịch bệnh thì việc thu học phí được xử lý ra sao?",
+        "answer": "Khi xảy ra thiên tai, dịch bệnh hoặc các sự kiện bất khả kháng, học phí sẽ được thu theo số tháng học thực tế, bao gồm cả thời gian tổ chức dạy học trực tuyến hoặc bố trí thời gian học bù tại trường. Trong thời gian không tổ chức dạy học, sẽ không thu học phí [Document 1].",
+        "contexts": [
+          "2. Trường hợp xảy ra thiên tai, dịch bệnh, các sự kiện bất khả kháng thì học\nphí được thu theo số tháng học thực tế (bao gồm cả thời gian tổ chức dạy học trực\ntuyến hoặc bố trí thời gian học bù tại trường); không thu học phí trong thời gian\nkhông tổ chức dạy học. Mức thu học phí đảm bảo nguyên tắc theo số tháng thực",
+          "bàn; Thủ trưởng các cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp quy định\nthời gian thu, mức học phí trong trường hợp xảy ra thiên tai, dịch bệnh, các sự kiện\nbất khả kháng.\n3. Trong trường hợp tổ chức giảng dạy, học tập theo học chế tín chỉ, cơ sở\ngiáo dục có thể quy đổi để thu học phí theo tín chỉ, tuy nhiên tổng số học phí thu\ntheo tín chỉ của cả khóa học không được vượt quá mức học phí quy định cho khóa\nhọc nếu thu theo năm học.",
+          "thẩm quyền công bố; tùy theo mức độ và phạm vi thiệt hại, Ủy ban nhân dân cấp\ntỉnh trình Hội đồng nhân dân cấp tỉnh xem xét, quyết định không thu học phí trong",
+          "2\nQuốc hội về tiếp tục thực hiện các Nghị quyết của Quốc hội về giám sát chuyên đề,\nchất vấn trong nhiệm kỳ khóa XIV và một số Nghị quyết trong nhiệm kỳ khóa XIII;\nTheo đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo, Bộ trưởng Bộ Lao\nđộng - Thương binh và Xã hội;\nChính phủ ban hành Nghị định quy định về cơ chế thu, quản lý học phí đối\nvới cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học\nphí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo.1",
+          "hoặc mức thu học phí năm học 2023 - 2024 theo quy định tại Nghị định số 81/2021/NĐ-CP với\nmức học phí tăng so với năm học 2021 - 2022 thì ngân sách địa phương đảm bảo phần chênh\nlệch tăng thêm so với số thu học phí năm học 2021 - 2022. Mức hỗ trợ cho từng cơ sở giáo dục\ndo địa phương xem xét quyết định.\nTrường hợp Hội đồng nhân dân các tỉnh và các cơ sở giáo dục đã ban hành khung học phí\nhoặc mức thu học phí năm học 2023 - 2024 theo quy định tại Nghị định số 81/2021/NĐ-CP với"
+        ],
+        "reference": "Học phí được thu theo số tháng học thực tế, bao gồm cả thời gian dạy học trực tuyến hoặc học bù tại trường; không thu học phí trong thời gian không tổ chức dạy học. Tổng mức thu không vượt quá tổng học phí tính theo số tháng tối đa của một năm học và phải công khai từ đầu năm học.",
+        "expected_context": "Trường hợp xảy ra thiên tai, dịch bệnh, các sự kiện bất khả kháng thì học phí được thu theo số tháng học thực tế (bao gồm cả thời gian tổ chức dạy học trực tuyến hoặc bố trí thời gian học bù tại trường); không thu học phí trong thời gian không tổ chức dạy học.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-97",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-99",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-120",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-6",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-221"
+        ]
+      },
+      {
+        "question": "Giờ nghỉ tại ký túc xá được quy định vào những khung giờ nào?",
+        "answer": "Giờ nghỉ tại ký túc xá được quy định vào các khung giờ sau: Buổi trưa từ 12 giờ đến 13 giờ và buổi tối từ 23 giờ đến 5 giờ sáng hôm sau [Document 1].",
+        "contexts": [
+          "riêng.\nĐiều 3. Quy định về sinh họat\n1. SV nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy\nđịnh.\n2. Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ\n12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau).\n3. Không được qua khu vực KTX SV khác giới; Không tiếp khách trong phòng ở\n(kể cả SV nội trú ở phòng khác).\n4. Không hút thuốc trong phòng ở và khu vực công cộng.\n5. Không treo màn che (ri-đô) quanh giường ngủ; Quần áo, đồ dùng cá nhân,",
+          "Hiệu trưởng ban hành “Quy định quản lý khu ký túc xá và sinh viên nội trú” áp dụng\n\ntrong nội bộ Trường.\n\nĐiều 1. Quy định chung\n\n1. Quy định này quy định về Ký túc xá; đối tượng được ở trong Ký túc xá; đối tượng được\nxét vào ở trong Ký túc xá; quyền và nghĩa vụ của Trung tâm dịch vụ trường học và sinh viên nội\ntrú; quản lý Ký túc xá và sinh viên nội trú.\n\n2. Ký túc xá (KTX) của Trường bao gồm toàn bộ đất đai, cơ sở hạ tầng và các công",
+          "phần bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày. Ban Quản lý đào tạo lập Thời khóa\nbiểu dự kiến của học kỳ sau để sinh viên đăng ký, sau khi có Thời khóa biểu chính thức sẽ\ngửi cho các khoa, bộ môn và đưa lên website cho sinh viên biết chậm nhất hai tuần lễ trước\nkhi kết thúc học kỳ.\n4. Trong từng học kỳ, Ban Quản lý đào tạo làm việc với các bộ môn để xây dựng kế\nhoạch thực hành, thực tập các môn học, đồng thời quy định số nhóm thực hành, thực tập,\nseminar của từng lớp.",
+          "- Phòng số: …….. - Ký túc xá: Trư nờ g Đại học\n- Địa chỉ: Số 1, Tôn Thất T ùng, Phư nờ g Trung Tự, Quận Đống Đa, H à Nội .\nĐiều 2: Bên B có trách nhiệm thực hiện đầy đủ và chịu các h ình thức xử lý khi vi\nphạm Quy chế công tác Sinh vi ên, Học vi ên nội trú KTX Đại học Y H à Nội và quy\n| định khác của |                 | Trư                   | nờ g Đại học Y H | à Nội. |                |     |        |     |",
+          "chuyên nghiệp hệ chính quy Ban hành kèm theo Thông tư s ố 10/ 2016/ TT –\nBGDĐT ngày 05/4/2016 của Bộ tr ư ởng Bộ Giáo dục v à Đào tạo .\nHiệu tr ư nở g Trư ờng Đại học Y H à Nội ban hành “Quy chế công tác Sinh\nviên, Học vi ên nội trú Ký túc xá Đại học Y H à Nội ” áp dụng trong nội bộ tr ư nờ g.\n1. Ký túc xá (viết tắt l à KTX) của Đại học Y H à Nội bao gồm to àn bộ đất đai,\nc ơ s  ở hạ tầng v à các công trình xây dựng trong khuôn vi ên dành làm nơi ở"
+        ],
+        "reference": "Sinh viên không được làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ: buổi trưa từ 12 giờ đến 13 giờ và buổi tối từ 23 giờ đến 5 giờ sáng hôm sau.",
+        "expected_context": "Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ 12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau).",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/noi-quy-ktx-ctu.md::chunk-5",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-2",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-61",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-34",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-3"
+        ]
+      },
+      {
+        "question": "Sinh viên gửi xe tại nhà xe ký túc xá có phải trả phí không?",
+        "answer": "Sinh viên gửi xe đạp tại nhà xe ký túc xá được miễn phí. Tuy nhiên, đối với xe mô tô và xe đạp điện, sinh viên phải nộp phí theo quy định. Nếu sinh viên không nộp phí gửi xe, họ sẽ phải trả theo mức phí vãng lai sau mỗi lần gửi [Document 1].",
+        "contexts": [
+          "động hoặc tham gia ký đơn tập thể.\nĐiều 7. Quy định về sử dụng nhà xe KTX\n1. Nhà xe KTX chủ yếu để phục vụ SV nội trú. SV gởi xe đạp được miễn phí; Xe\nmô tô, xe đạp điện nộp phí theo quy định (SV không nộp phí gởi xe thì trả theo mức\nphí vãng lai sau mỗi lần gởi).\n2. Mỗi SV chỉ đăng ký gởi 1 phương tiện (xe đạp, hoặc mô tô, hoặc xe đạp điện)\nđể được hưởng ưu đãi như ở khoản 1 - Điều 7 Nội quy này. Nếu mỗi SV gởi hơn 1",
+          "phương tiện thì từ phương tiện thứ 2 trở đi, SV phải nộp theo mức phí vãng lại.\n3. Nhà xe phục vụ giữ xe cho SV theo học kỳ. Thời gian nghỉ Tết Nguyên đán và\nthời gian nghỉ Hè, SV phải lấy xe ra khỏi nhà xe để thực hiện công tác vệ sinh, bảo trì,\nsắp xếp nhà xe. SV có nhu cầu gởi lại xe trong thời gian này thì làm thủ tục và nộp phí\ntheo quy định.\n4. Sau mỗi năm học, các xe vô chủ, xe gởi quá thời hạn TT. PVSV sẽ đề xuất nhà",
+          "trường xử lý (thanh lý). Thẻ giữ xe, phiếu giữ xe quá hạn sau mỗi học kỳ xem như\nkhông còn giá trị, nhà xe không chịu trách nhiệm về hư hỏng, mất mát. Các trường\nhợp lấy xe quá thời hạn, SV phải chi trả phí vãng lai thời gian lấy trễ.\nĐiều 8. Quy định về sử dụng điện, nước và chi trả phí điện, nước\n1. Mỗi phòng ở SV được lắp đặt đồng hồ đo chỉ số điện và nước (trừ các dãy nhà\ncó cấu trúc đặc biệt). Hàng tháng, SV chi trả phí điện, nước theo chỉ số sử dụng thực",
+          "và có giá trị trong năm học. Năm học tiếp theo, nếu có nhu cầu ở nội trú, SV phải\nthực hiện lại các thủ tục và được sắp xếp lại chỗ ở mới.\n3. SV phải tuân theo sự quản lý, điều động, sắp xếp chỗ ở của TT. PVSV; Nếu có\nnhu cầu thay đổi chỗ ở phải được sự đồng ý của TT. PVSV.\n4. Phí KTX nộp theo học kỳ (vào đầu mỗi học kỳ). Quá thời gian quy định, nếu\nSV không nộp phí KTX, xem như SV không có nhu cầu ở, hệ thống sẽ hủy bỏ chỗ ở",
+          "Tân sinh viên cần thực hiện đầy đủ các bước theo hướng dẫn, đồng thời kiểm tra kỹ thông tin trước khi hoàn tất đăng ký. Một số lưu ý khi đăng ký phòng ở KTX:\n  * Chức năng đăng ký KTX chỉ hiển thị đối với những thời điểm và trường hợp KTX còn chỉ tiêu.\n  * Sau khi hoàn thành nghĩa vụ tài chính theo quy định, Trung tâm Ký túc xá sẽ thực hiện xếp phòng và gửi tin nhắn SMS thông báo cho sinh viên về thời gian, địa điểm nhận phòng."
+        ],
+        "reference": "Sinh viên gửi xe đạp được miễn phí; xe mô tô và xe đạp điện phải nộp phí theo quy định. Mỗi sinh viên chỉ được đăng ký gửi một phương tiện để hưởng ưu đãi, từ phương tiện thứ hai trở đi phải nộp theo mức phí vãng lai.",
+        "expected_context": "Nhà xe KTX chủ yếu để phục vụ SV nội trú. SV gởi xe đạp được miễn phí; Xe mô tô, xe đạp điện nộp phí theo quy định. Mỗi SV chỉ đăng ký gởi 1 phương tiện để được hưởng ưu đãi.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/noi-quy-ktx-ctu.md::chunk-16",
+          "legal/noi-quy-ktx-ctu.md::chunk-17",
+          "legal/noi-quy-ktx-ctu.md::chunk-18",
+          "legal/noi-quy-ktx-ctu.md::chunk-3",
+          "news/article_08.md::chunk-2"
+        ]
+      },
+      {
+        "question": "Sinh viên nội trú rời khỏi ký túc xá bao nhiêu ngày thì phải báo cáo, và báo cho ai?",
+        "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+        "contexts": [
+          "- Sinh viên nội trú vi phạm quy định KTX, tuỳ theo mức độ sẽ bị xử lý kỷ luật từ hình\nthức khiển trách, cảnh cáo, đưa ra khỏi KTX, đình chỉ học tập, buộc thôi học đến truy cứu\ntrách nhiệm hình sự.\n\nĐiều 7. Điều khoản thi hành\n\nTrưởng các đơn vị có trách nhiệm phố biến Quy định này đến toàn thể cán bộ viên chức\n\nđể thống nhất thực hiện trong toàn Trường. Các đơn vị và cá nhân phải nghiêm chỉnh thực hiện,\n\nnếu vi phạm sẽ bị xử lý theo pháp luật và theo quy định của Nhà trường.",
+          "riêng.\nĐiều 3. Quy định về sinh họat\n1. SV nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy\nđịnh.\n2. Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ\n12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau).\n3. Không được qua khu vực KTX SV khác giới; Không tiếp khách trong phòng ở\n(kể cả SV nội trú ở phòng khác).\n4. Không hút thuốc trong phòng ở và khu vực công cộng.\n5. Không treo màn che (ri-đô) quanh giường ngủ; Quần áo, đồ dùng cá nhân,",
+          "không có SV trong phòng.\n* Lưu ý:  SV bị buộc ra khỏi KTX sẽ không giải quyết cho đăng ký KTX ở học kỳ\ntiếp theo.\n Nội quy về công tác nội trú tại KTX và hình thức xử lý được phát cho từng\nphòng ở của SV đầu mỗi năm học. SV có trách nhiệm nghiên cứu kỹ và nghiêm túc\nthực hiện Nội quy này./.\n                                                                      TRUNG TÂM PHỤC VỤ SINH VIÊN",
+          "2. Ðối viớ  ng ư iờ  đ ã đư cợ  bố trí nội trú KTX khi hpợ  đồng nội trú KTX hết thiờ\nhạn phải làm thủ tục ký lại hpợ  đồng nội trú KTX cho năm học hoặc họ c kỳ\nsau.\n3. Sau khi nhận đủ hồ s  ơ h pợ  lệ đă ng ký nội trú KTX của SVHV, trong thiờ hạn\ntối đa l à 7 ngày, Ban quản lý KTX – ĐSSV sẽ phản hồi thông tin về việc nội\ntrú KTX.\n4. Trong thời hạn tối đa 7 ngày kể từ khi SVHV đư cợ duyệt ở , SVHV phải ký\nhpợ  đồng nội trú KTX viớ Trư nở g ban (theo biểu mẫu 2 tại p hụ lục 3).",
+          "5. Một tháng trước  khi hợp đồng hết hạn, Trung tâm dịch  vụ trường học thông báo\n\ncho  sinh viên nội trú biết.\n\nKhi hợp đồng hết hiệu lực, HSSV thực hiện thủ tục thanh toán tại bộ phận kế toán và\n\nchuyển ra khỏi KTX.\n\nĐiều 3. Quyền và nghĩa vụ của  sinh viên ở nội trú\n\n1. Quyền hạn của sinh viên nội trú\n\n- Sinh viên nội trú được quyền ở, tự học và sinh hoạt trong KTX theo đúng hợp đồng\n\nđã ký;\n\n- Được sử dụng các trang thiết bị do KTX cung cấp để phục vụ cho việc ăn, ở, tự học,\n\nsinh hoạt;"
+        ],
+        "reference": "Rời khỏi ký túc xá dưới 05 ngày thì phải báo với Phòng trưởng. Nếu rời khỏi từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với Giám thị. Không tính những ngày nghỉ được Trường quy định.",
+        "expected_context": "SV khi rời khỏi KTX dưới 05 ngày (trừ những ngày nghỉ được Trường quy định) phải báo với Phòng trưởng; Nếu rời khỏi KTX từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với Giám thị.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-17",
+          "legal/noi-quy-ktx-ctu.md::chunk-5",
+          "legal/noi-quy-ktx-ctu.md::chunk-37",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-8",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-6"
+        ]
+      },
+      {
+        "question": "Tiền điện nước của phòng ở ký túc xá được tính như thế nào?",
+        "answer": "Tiền điện nước của phòng ở ký túc xá được tính dựa trên chỉ số sử dụng thực tế. Đầu mỗi học kỳ, đại diện sinh viên tại phòng ở sẽ ký Biên bản xác nhận chỉ số điện, nước của phòng ở để làm cơ sở theo dõi. Hàng tháng, vào thời điểm cụ thể do Giám thị thông báo, đại diện sinh viên sẽ ghi chỉ số điện nước vào bảng theo dõi, và Giám thị sẽ ghi nhận để tính chi phí mà sinh viên phải chi trả hàng tháng. Nếu sinh viên chậm trễ trong việc ghi chỉ số hàng tháng, Giám thị sẽ áp chỉ số bình quân hàng tháng để tạm tính [Document 1].",
+        "contexts": [
+          "tế. Đầu mỗi học kỳ, đại diện SV tại phòng ở sẽ ký Biên bản xác nhận chỉ số điện, nước\ncủa phòng ở (ghi nhận chỉ số đầu học kỳ), làm cơ sở theo dõi và đối soát số liệu cuối\nhọc kỳ.\n2. Hàng tháng (thời điểm cụ thể ngày giờ do Giám thị thông báo), đại diện SV\nphòng ở ghi chỉ số điện nước vào bảng theo dõi, Giám thị ghi nhận để tính chi phí SV\nphải chi trả hàng tháng. Trường hợp SV chậm trễ trong công tác ghi chỉ số hàng tháng,\nGiám thị sẽ áp chỉ số bình quân hàng tháng để tạm tính.",
+          "trường xử lý (thanh lý). Thẻ giữ xe, phiếu giữ xe quá hạn sau mỗi học kỳ xem như\nkhông còn giá trị, nhà xe không chịu trách nhiệm về hư hỏng, mất mát. Các trường\nhợp lấy xe quá thời hạn, SV phải chi trả phí vãng lai thời gian lấy trễ.\nĐiều 8. Quy định về sử dụng điện, nước và chi trả phí điện, nước\n1. Mỗi phòng ở SV được lắp đặt đồng hồ đo chỉ số điện và nước (trừ các dãy nhà\ncó cấu trúc đặc biệt). Hàng tháng, SV chi trả phí điện, nước theo chỉ số sử dụng thực",
+          "### Chi phí ngoài học phí\nNgoài học phí chính thức, sinh viên cần cân đối các khoản chi phí sinh hoạt dự kiến:\n  * **Ký túc xá:** Khoảng 3.200.000 - 4.000.000 VNĐ/tháng.\n  * **Tài liệu & Thiết bị:** Giáo trình, áo blouse (cho ngành Y) và thiết bị công nghệ hỗ trợ.\n  * **Sinh hoạt phí:** Ăn uống tại căng tin và các hoạt động ngoại khóa.",
+          "**6.1. Lệ phí phòng ở**\nCăn cứ Quyết định số 1193/QĐ-ĐHQG ngày 10/08/2026 của ĐHQG-HCM về “Về việc phê duyệt Đề án Định mức kinh tế-kỹ thuật xác định giá phòng ở tại Trung tâm Quản lý Ký túc xá và Khu đô thị ĐHQG-HCM giai đoạn 2026-2030”. Trung tâm áp dụng thu lệ phí phòng ở và đơn giá dịch vụ tăng thêm từ ngày 01/9/2026 (xem chi tiết tại phụ lục IV).\n**6.2. Phương thức, thời gian thanh toán**",
+          "Bên cạnh chất lượng đào tạo, nhà trường có mức học phí phù hợp khoảng 7,5 - 8,5 triệu đồng/học kỳ, ký túc xá từ 150.000 đồng/tháng, góp phần giúp sinh viên giảm đáng kể chi phí học tập và sinh hoạt. Hiệu quả đào tạo cũng được thể hiện qua tỷ lệ 82% sinh viên có việc làm ngay sau khi tốt nghiệp và 95% có việc làm sau một năm, khẳng định định hướng đào tạo gắn với nhu cầu của thị trường lao động."
+        ],
+        "reference": "Mỗi phòng được lắp đồng hồ đo chỉ số điện và nước, sinh viên chi trả hàng tháng theo chỉ số sử dụng thực tế. Đầu mỗi học kỳ đại diện phòng ký biên bản xác nhận chỉ số. Nếu sinh viên chậm ghi chỉ số hàng tháng, Giám thị sẽ áp chỉ số bình quân để tạm tính.",
+        "expected_context": "Mỗi phòng ở SV được lắp đặt đồng hồ đo chỉ số điện và nước. Hàng tháng, SV chi trả phí điện, nước theo chỉ số sử dụng thực tế. Trường hợp SV chậm trễ trong công tác ghi chỉ số hàng tháng, Giám thị sẽ áp chỉ số bình quân hàng tháng để tạm tính.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/noi-quy-ktx-ctu.md::chunk-19",
+          "legal/noi-quy-ktx-ctu.md::chunk-18",
+          "news/article_03.md::chunk-9",
+          "news/article_06.md::chunk-8",
+          "news/article_04.md::chunk-11"
+        ]
+      },
+      {
+        "question": "Quy định về quản lý khu ký túc xá và sinh viên nội trú được ban hành kèm theo quyết định số nào?",
+        "answer": "Quy định về quản lý khu ký túc xá và sinh viên nội trú được ban hành kèm theo Quyết định số 3684/QĐ-ĐHYHN, ngày 16/9/2016 của Hiệu trưởng Trường Đại học Y Hà Nội [Document 2].",
+        "contexts": [
+          "Hiệu trưởng ban hành “Quy định quản lý khu ký túc xá và sinh viên nội trú” áp dụng\n\ntrong nội bộ Trường.\n\nĐiều 1. Quy định chung\n\n1. Quy định này quy định về Ký túc xá; đối tượng được ở trong Ký túc xá; đối tượng được\nxét vào ở trong Ký túc xá; quyền và nghĩa vụ của Trung tâm dịch vụ trường học và sinh viên nội\ntrú; quản lý Ký túc xá và sinh viên nội trú.\n\n2. Ký túc xá (KTX) của Trường bao gồm toàn bộ đất đai, cơ sở hạ tầng và các công",
+          "Căn cứ Quy chế công tác học sinh, sinh viên nội trú tại các cơ sở giáo dục thuộc hệ\nthống  giáo  dục  quốc  dân  ban  hành  kèm  theo  Thông  tư  số  27/2011/TT-BGD&ĐT  ngày\n27/6/2011 của Bộ trưởng  Bộ Giáo dục và Đào tạo;\n\nCăn cứ Quy chế công tác học sinh, sinh viên các trường ĐH, CĐ và THCN hệ chính\nquy  ban  hành  kèm  theo  Quyết  định  số  42/2007/QĐ-BGD&ĐT  ngày  13/8/2007  của  Bộ\ntrưởng  Bộ Giáo dục và Đào tạo;",
+          "|     |                 | BỘ Y TẾ |     |     |       |     | CỘNG H | ÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |     |                    |     |\n| TRƯ | ỜNG ĐẠI HỌC Y H |         |     |     | À NỘI |     |        | Độc lập                      |     | - Tự do - Hạnh phú | c   |\nQUY ĐỊNH\nVề công tác quản lý Sinh vi ên, Học vi ên nội trú Ký túc xá Đại học Y H à Nội\n(Ban hành kèm theo Quyết định số 3684/QĐ-ĐHYHN, ngày 16/9/2016",
+          "Ðối t | ư nợ | g ưu tiên (n | | ếu có):\nTôi đã nghiên cứu bản Quy chế công tác học sinh, sinh vi ên nội trú tại các c ơ\ns ở giáo dục thuộc hệ thống giáo dục quốc dân k èm theo Thông tư s ố 27/2 011/TT-\nBDGĐT ngày 27/06/2011 của Bộ tr ư nở g Bộ Giáo dục & Đ ào tạo và Quy chế công\ntác SVHV nội trú KTX Đại học Y H à Nội ban hành ngày ..../..../……… của Hiệu\n| trư | nở g Tr | ư nờ g Đại học Y H |     |     | à Nội. |     |     |     |     |     |     |",
+          "chuyên nghiệp hệ chính quy Ban hành kèm theo Thông tư s ố 10/ 2016/ TT –\nBGDĐT ngày 05/4/2016 của Bộ tr ư ởng Bộ Giáo dục v à Đào tạo .\nHiệu tr ư nở g Trư ờng Đại học Y H à Nội ban hành “Quy chế công tác Sinh\nviên, Học vi ên nội trú Ký túc xá Đại học Y H à Nội ” áp dụng trong nội bộ tr ư nờ g.\n1. Ký túc xá (viết tắt l à KTX) của Đại học Y H à Nội bao gồm to àn bộ đất đai,\nc ơ s  ở hạ tầng v à các công trình xây dựng trong khuôn vi ên dành làm nơi ở"
+        ],
+        "reference": "Ban hành kèm theo Quyết định số 02/QĐ-NNH ngày 02 tháng 01 năm 2013 của Hiệu trưởng Trường Đại học Nông nghiệp Hà Nội.",
+        "expected_context": "QUY ĐỊNH VỀ QUẢN LÝ KHU KÝ TÚC XÁ VÀ SINH VIÊN NỘI TRÚ (Ban hành kèm theo Quyết định số 02/QĐ-NNH ngày 02 tháng 01 năm 2013 của Hiệu trưởng Trường Đại học Nông nghiệp Hà Nội).",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-2",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-1",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-1",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-28",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-3"
+        ]
+      },
+      {
+        "question": "Sau khi nộp hồ sơ đăng ký ở nội trú, trong bao lâu sinh viên được trả lời kết quả?",
+        "answer": "Sau khi nộp hồ sơ đăng ký ở nội trú, sinh viên sẽ được trả lời kết quả trong thời hạn tối đa là 3 ngày đối với Trung tâm dịch vụ trường học [Document 1].",
+        "contexts": [
+          "hợp đồng ở nội trú cho năm học hoặc học kỳ sau.\n\n3. Sau khi nhận đủ hồ sơ hợp lệ đăng ký ở nội trú của HSSV, trong thời hạn tối đa là\n3 ngày, Trung tâm dịch vụ trường học phải trả lời cho HSSV về việc chấp nhận, trường hợp\nkhông chấp nhận cần giải thích rõ lý do.\n\n4. Việc ký hợp đồng nội trú được thực hiện trong thời hạn tối đa là 3 ngày kể từ khi\nHSSV được chấp nhận ở nội trú, Trung tâm dịch vụ trường học và sinh viên nội trú phải ký\nhợp đồng nội trú (Theo mẫu).",
+          "- Mục 2: Đăng ký ở KTX dành cho người học đăng ký miễn giảm giá phòng ở.\n**4.2. Phản hồi kết quả đăng ký**\nTrung tâm phản hồi kết quả qua địa chỉ email người học đã đăng ký trên phần mềm trong vòng 24 giờ kể từ khi hệ thống xác nhận đăng ký thành công (Chú ý: email sử dụng để đăng ký chính là email nhận được kết quả duyệt phòng ở, cần kiểm tra email ở hộp thư đến, spam, rác trong vòng 24 giờ từ khi đăng ký thành công).\n**5. Hồ sơ, thủ tục đăng ký và nhận phòng ở**\n**5.1. Hồ sơ đăng ký**",
+          "Điều 2. Thủ tục ở nội trú\n\n1. SV có nguyện vọng ở nội trú mới xin ở nội trú lần đầu, phải nộp hồ sơ đăng ký với\n\nTrung tâm dịch vụ trường học (mẫu Phụ lục).\n\n Đối với SV hồ sơ bao gồm:\n\n- Đơn xin vào nội trú (mẫu Phụ lục)\n\n\f- Các giấy tờ chứng nhận là đối tượng ưu tiên (nếu có)\n\n- Giấy nhập học (nếu là SV năm thứ nhất) hoặc thẻ Học viên, sinh viên (nếu là sinh\n\nviên từ năm thứ 2 trở lên)\n\n2 Đối với SV đã được bố trí ở nội trú khi hợp đồng nội trú hết thời hạn phải ký lại",
+          "2. Sau khi xem xét thấy đủ điều kiện nhập học, Ban Quản lý đào tạo trình Giám đốc\nHọc viện ký Quyết định công nhận người đến học là sinh viên chính thức của Học viện và\ncấp cho sinh viên: Thẻ sinh viên, Sổ tay sinh viên và Danh mục chương trình đào tạo.\n3. Mọi thủ tục đăng ký nhập học phải được hoàn thành trong thời hạn 15 ngày kể từ\nngày nhập học ghi trong giấy triệu tập trúng tuyển. Nếu đến chậm do ốm đau, tai nạn, có",
+          "2. Ðối viớ  ng ư iờ  đ ã đư cợ  bố trí nội trú KTX khi hpợ  đồng nội trú KTX hết thiờ\nhạn phải làm thủ tục ký lại hpợ  đồng nội trú KTX cho năm học hoặc họ c kỳ\nsau.\n3. Sau khi nhận đủ hồ s  ơ h pợ  lệ đă ng ký nội trú KTX của SVHV, trong thiờ hạn\ntối đa l à 7 ngày, Ban quản lý KTX – ĐSSV sẽ phản hồi thông tin về việc nội\ntrú KTX.\n4. Trong thời hạn tối đa 7 ngày kể từ khi SVHV đư cợ duyệt ở , SVHV phải ký\nhpợ  đồng nội trú KTX viớ Trư nở g ban (theo biểu mẫu 2 tại p hụ lục 3)."
+        ],
+        "reference": "Trong thời hạn tối đa 3 ngày kể từ khi nhận đủ hồ sơ hợp lệ, Trung tâm dịch vụ trường học phải trả lời về việc chấp nhận; nếu không chấp nhận phải giải thích rõ lý do. Việc ký hợp đồng nội trú cũng được thực hiện trong tối đa 3 ngày kể từ khi sinh viên được chấp nhận.",
+        "expected_context": "Sau khi nhận đủ hồ sơ hợp lệ đăng ký ở nội trú của HSSV, trong thời hạn tối đa là 3 ngày, Trung tâm dịch vụ trường học phải trả lời cho HSSV về việc chấp nhận, trường hợp không chấp nhận cần giải thích rõ lý do.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-5",
+          "news/article_06.md::chunk-4",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-4",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-64",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-8"
+        ]
+      },
+      {
+        "question": "Sinh viên được thông báo trước bao lâu khi hợp đồng nội trú sắp hết hạn?",
+        "answer": "Sinh viên được thông báo trước một tháng khi hợp đồng nội trú sắp hết hạn [Document 1].",
+        "contexts": [
+          "5. Một tháng trước  khi hợp đồng hết hạn, Trung tâm dịch  vụ trường học thông báo\n\ncho  sinh viên nội trú biết.\n\nKhi hợp đồng hết hiệu lực, HSSV thực hiện thủ tục thanh toán tại bộ phận kế toán và\n\nchuyển ra khỏi KTX.\n\nĐiều 3. Quyền và nghĩa vụ của  sinh viên ở nội trú\n\n1. Quyền hạn của sinh viên nội trú\n\n- Sinh viên nội trú được quyền ở, tự học và sinh hoạt trong KTX theo đúng hợp đồng\n\nđã ký;\n\n- Được sử dụng các trang thiết bị do KTX cung cấp để phục vụ cho việc ăn, ở, tự học,\n\nsinh hoạt;",
+          "hợp đồng ở nội trú cho năm học hoặc học kỳ sau.\n\n3. Sau khi nhận đủ hồ sơ hợp lệ đăng ký ở nội trú của HSSV, trong thời hạn tối đa là\n3 ngày, Trung tâm dịch vụ trường học phải trả lời cho HSSV về việc chấp nhận, trường hợp\nkhông chấp nhận cần giải thích rõ lý do.\n\n4. Việc ký hợp đồng nội trú được thực hiện trong thời hạn tối đa là 3 ngày kể từ khi\nHSSV được chấp nhận ở nội trú, Trung tâm dịch vụ trường học và sinh viên nội trú phải ký\nhợp đồng nội trú (Theo mẫu).",
+          "- Việc thanh lý hợp đồ ng trư cớ  hạn áp dụng theo quy định hiện h ành của Nh à\n- Đóng tiền nội trú KTX theo quy định tại quyết định số /TCKT - ĐHYHN\ncủa Hiệu tr ư nở g ký ngày / / về việc thu phí nội trú Ký túc xá Đại\n+\nHọc vi ên dài hạn (trên 6 tháng): đóng tiền l àm 02 lần / năm, ngay khi ký và gia\n+\nHọc vi ên ngắn hạn (dư iớ  6 tháng): đóng tiền một lần ngay khi ký hợp đồng.",
+          "2. Ðối viớ  ng ư iờ  đ ã đư cợ  bố trí nội trú KTX khi hpợ  đồng nội trú KTX hết thiờ\nhạn phải làm thủ tục ký lại hpợ  đồng nội trú KTX cho năm học hoặc họ c kỳ\nsau.\n3. Sau khi nhận đủ hồ s  ơ h pợ  lệ đă ng ký nội trú KTX của SVHV, trong thiờ hạn\ntối đa l à 7 ngày, Ban quản lý KTX – ĐSSV sẽ phản hồi thông tin về việc nội\ntrú KTX.\n4. Trong thời hạn tối đa 7 ngày kể từ khi SVHV đư cợ duyệt ở , SVHV phải ký\nhpợ  đồng nội trú KTX viớ Trư nở g ban (theo biểu mẫu 2 tại p hụ lục 3).",
+          "|     | +       | Sinh viên: đóng tiền  |                 |                        | vào đầu học kỳ | (02 kỳ / năm).     |\n|     | Điều 4: | Hợp đồng hết hiệu lực |                 |                        | khi:           |                    |\n|     | -       | Thiờ  hạn             | trên hợp đồng đ |                        | ã kết thúc.    |                    |\n|     | -       | SVHV                  | nội trú         | KTX đã tốt nghiệp hoặc |                | kết thúc khóa học. |"
+        ],
+        "reference": "Một tháng trước khi hợp đồng hết hạn, Trung tâm dịch vụ trường học thông báo cho sinh viên nội trú biết. Khi hợp đồng hết hiệu lực, sinh viên làm thủ tục thanh toán tại bộ phận kế toán và chuyển ra khỏi ký túc xá.",
+        "expected_context": "Một tháng trước khi hợp đồng hết hạn, Trung tâm dịch vụ trường học thông báo cho sinh viên nội trú biết. Khi hợp đồng hết hiệu lực, HSSV thực hiện thủ tục thanh toán tại bộ phận kế toán và chuyển ra khỏi KTX.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-6",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-5",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-38",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-8",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-39"
+        ]
+      },
+      {
+        "question": "Một tín chỉ được quy định bằng bao nhiêu tiết học lý thuyết và bao nhiêu tiết thực hành?",
+        "answer": "Một tín chỉ được quy định bằng 15 tiết học lý thuyết và 30 tiết thực hành, thí nghiệm, thực tập tại cơ sở. Một tiết học được tính bằng 50 phút [Document 1].",
+        "contexts": [
+          "viên được tự chọn nhằm mở rộng kiến thức chuyên môn hoặc để tích lũy đủ số tín chỉ\nquy định cho mỗi chương trình.\n4. Tín chỉ được sử dụng để tính khối lượng học tập của sinh viên. Một tín chỉ được\nquy định bằng 15 tiết học lý thuyết; 30 tiết thực hành, thí nghiệm, thực tập tại cơ sở (một\ntiết học được tính bằng 50 phút); hoặc 45 giờ làm tiểu luận, đồ án, khóa luận tốt nghiệp.\n10",
+          "Đối với những học phần lý thuyết hoặc thực hành, thí nghiệm để tiếp thu được một\ntín chỉ sinh viên phải dành ít nhất 30 giờ chuẩn bị cá nhân (tự nghiên cứu, làm bài tập theo\nyêu cầu của giảng viên).\n5. Việc tính số giờ giảng dạy của giảng viên cho các học phần trên cơ sở số giờ giảng\ndạy trên lớp, số giờ thực hành, thực tập (theo danh mục chương trình đào đạo được phát\nhành hằng năm), số giờ chuẩn bị khối lượng tự học cho sinh viên, đánh giá kết quả tự học",
+          "5. Chương trình được thực hiện với khối lượng kiến thức tối thiểu tích lũy 150-180\ntín chỉ đối với khóa đại học 5 năm; 120-146 tín chỉ đối với khóa đại học 4 năm, không bao\ngồm khối lượng các học phần Giáo dục thể chất và Giáo dục quốc phòng - an ninh. Số tín\nchỉ cụ thể của từng chương trình đào tạo được quy định trong cuốn Danh mục chương trình\nđào tạo được Học viện ban hành trước mỗi khóa học.\n6. Kế hoạch học tập chuẩn toàn khóa của chương trình trong Học viện đối với hình",
+          "phần bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày. Ban Quản lý đào tạo lập Thời khóa\nbiểu dự kiến của học kỳ sau để sinh viên đăng ký, sau khi có Thời khóa biểu chính thức sẽ\ngửi cho các khoa, bộ môn và đưa lên website cho sinh viên biết chậm nhất hai tuần lễ trước\nkhi kết thúc học kỳ.\n4. Trong từng học kỳ, Ban Quản lý đào tạo làm việc với các bộ môn để xây dựng kế\nhoạch thực hành, thực tập các môn học, đồng thời quy định số nhóm thực hành, thực tập,\nseminar của từng lớp.",
+          "2.00. (c). Đối với khóa học 3 năm (bậc cao đẳng): 1.00; 1.25; 1.50. (d). Đối với khóa học\n1,5-2 năm (bậc liên thông): 1.75; 2,00. (đ). Sinh viên học kéo dài: Các học kỳ kéo dài thời\ngian học tập so với khóa học, hệ số tính là 1,50 đối với bậc cao đẳng và hệ số tính là 2,0\nđối với bậc đại học.\n7. Điểm rèn luyện của học kỳ là tổng điểm đạt được của 5 nội dung đánh giá chi tiết\ncủa trường. Điểm rèn luyện của năm học là trung bình cộng của điểm rèn luyện các học kỳ"
+        ],
+        "reference": "Một tín chỉ được quy định bằng 15 tiết học lý thuyết, 30 tiết thực hành, thí nghiệm hoặc thực tập tại cơ sở, hoặc 45 giờ làm tiểu luận, đồ án, khóa luận tốt nghiệp. Một tiết học được tính bằng 50 phút. Để tiếp thu một tín chỉ, sinh viên phải dành ít nhất 30 giờ chuẩn bị cá nhân.",
+        "expected_context": "Một tín chỉ được quy định bằng 15 tiết học lý thuyết; 30 tiết thực hành, thí nghiệm, thực tập tại cơ sở (một tiết học được tính bằng 50 phút); hoặc 45 giờ làm tiểu luận, đồ án, khóa luận tốt nghiệp.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-37",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-38",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-27",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-61",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-471"
+        ]
+      },
+      {
+        "question": "Chương trình đại học 4 năm và 5 năm yêu cầu tích lũy tối thiểu bao nhiêu tín chỉ?",
+        "answer": "Chương trình đại học 4 năm yêu cầu tích lũy tối thiểu 120-146 tín chỉ, trong khi chương trình đại học 5 năm yêu cầu tối thiểu 150-180 tín chỉ. Số tín chỉ cụ thể của từng chương trình đào tạo được quy định trong cuốn Danh mục chương trình đào tạo do Học viện ban hành trước mỗi khóa học [Document 1].",
+        "contexts": [
+          "5. Chương trình được thực hiện với khối lượng kiến thức tối thiểu tích lũy 150-180\ntín chỉ đối với khóa đại học 5 năm; 120-146 tín chỉ đối với khóa đại học 4 năm, không bao\ngồm khối lượng các học phần Giáo dục thể chất và Giáo dục quốc phòng - an ninh. Số tín\nchỉ cụ thể của từng chương trình đào tạo được quy định trong cuốn Danh mục chương trình\nđào tạo được Học viện ban hành trước mỗi khóa học.\n6. Kế hoạch học tập chuẩn toàn khóa của chương trình trong Học viện đối với hình",
+          "08 học kỳ chính và 03 học kỳ hè theo đúng tiến độ chương trình đào tạo chuẩn của khóa\ntrúng tuyển.\n- Các ngành có thời gian đào tạo 4,5 năm: mỗi sinh viên được xét học bổng tối đa\n09 học kỳ chính và 04 học kỳ hè theo đúng tiến độ chương trình đào tạo chuẩn của khóa\ntrúng tuyển.\nb) Đối với sinh viên học các chương trình liên kết do trường Đại học nước ngoài\ncấp bằng:\n- Mô hình liên kết 2+1; 2+2; 2.5+1.5; 3+1; 4+0: sinh viên được xét học bổng tối",
+          "Khóa học: (Từ năm 20 đến năm 20 ).\nHệ đào tạo (chính quy, VLVH, liên thông …):\nTheo khoản 3, Điều 6, Quyết định số 43/2007/QĐ-BGDĐT ngày 15/8/2007 của Bộ\nGiáo dục và Đào tạo ban hành Quy chế đào tạo đại học và cao đẳng hệ chính quy theo hệ\nthống tín chỉ, đối với sinh viên đào tạo khóa học từ 3 năm đến dưới 5 năm sẽ được kéo dài\n4 học kỳ, đối với khóa học từ 5 năm đến 6 năm sẽ được kéo dài 6 học kì.\n\n  Hà Nội, ngày…… tháng …… năm 202…\nTL. GIÁM ĐỐC\nTRƯỞNG BAN CTCT VÀ CTSV\n131",
+          "đào tạo đại học theo hệ thống tín chỉ hiện hành tại trường Đại học Quốc tế.\nb) Điểm tất cả các môn trong học kỳ ≥ 50/100 (kể cả môn Giáo dục thể chất, Giáo\ndục quốc phòng – An ninh và các môn không tính điểm trung bình).\nc) Sinh viên phải tích lũy tối thiểu 15 tín chỉ trong học kỳ dùng để xét duy trì\nHBTS (không bao gồm các môn tại điểm a khoản 1 Điều này). Trường hợp ngành có\nsố tín chỉ đào tạo trong học kỳ thấp hơn tiêu chuẩn do thiết kế của chương trình đào tạo,",
+          "c. Sinh viên năm thứ ba: Nếu khối lượng kiến thức tích lũy từ 66 tín chỉ đến dưới 99 tín chỉ;\nd. Sinh viên năm thứ tư: Nếu khối lượng kiến thức tích lũy từ 99 tín chỉ đến dưới 132 tín chỉ;\nđ. Sinh viên năm thứ năm: Nếu khối lượng kiến thức tích lũy từ 132 tín chỉ đến dưới 164 tín chỉ;\ne. Sinh viên năm thứ sáu: Nếu khối lượng kiến thức tích lũy từ 164 tín chỉ trở lên."
+        ],
+        "reference": "Khối lượng kiến thức tối thiểu tích lũy là 120-146 tín chỉ đối với khóa đại học 4 năm và 150-180 tín chỉ đối với khóa đại học 5 năm, không bao gồm các học phần Giáo dục thể chất và Giáo dục quốc phòng - an ninh.",
+        "expected_context": "Chương trình được thực hiện với khối lượng kiến thức tối thiểu tích lũy 150-180 tín chỉ đối với khóa đại học 5 năm; 120-146 tín chỉ đối với khóa đại học 4 năm, không bao gồm khối lượng các học phần Giáo dục thể chất và Giáo dục quốc phòng - an ninh.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-27",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-48",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-575",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-39",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-120"
+        ]
+      },
+      {
+        "question": "Sinh viên có được nấu ăn trong phòng ở ký túc xá không?",
+        "answer": "Sinh viên không được nấu ăn trong phòng ở và khu vực ký túc xá, trừ các dãy nhà có thiết kế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A [Document 1].",
+        "contexts": [
+          "8. Không được nấu ăn trong phòng ở và khu vực KTX (Trừ các dãy nhà có thiết\nkế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A); Không để thức ăn, thực phẩm\nvào tủ đựng đồ.\n9. SV khi rời khỏi KTX dưới 05 ngày (trừ những ngày nghỉ được Trường quy\nđịnh) phải báo với Phòng trưởng (người đại diện của mỗi phòng, được chỉ định hay do\nSV cử ra); Nếu rời khỏi KTX từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với\nGiám thị.\nĐiều 4. Quy định về sử dụng phòng ở",
+          "## Nội quy công tác sinh viên nội trú tại Ký túc xá Đại học Quốc gia TP. HCM\n28/08/2025 Tiêu điểm nổi bật 2636\n**Nội quy công tác sinh viên nội trú tại Ký túc xá Đại học Quốc gia TP. HCM**\n## Tin nổi bật\n  * [ Tăng cường năng lực phòng cháy, chữa cháy, đảm bảo an ninh, an toàn cho sinh viên nội trú](https://www.ktxhcm.edu.vn/news/su-kien/tang-cuong-nang-luc-phong-chay-chua-chay-dam-bao-an-ninh-an-toan-cho-sinh-vien-noi-tru)",
+          "Hiệu trưởng ban hành “Quy định quản lý khu ký túc xá và sinh viên nội trú” áp dụng\n\ntrong nội bộ Trường.\n\nĐiều 1. Quy định chung\n\n1. Quy định này quy định về Ký túc xá; đối tượng được ở trong Ký túc xá; đối tượng được\nxét vào ở trong Ký túc xá; quyền và nghĩa vụ của Trung tâm dịch vụ trường học và sinh viên nội\ntrú; quản lý Ký túc xá và sinh viên nội trú.\n\n2. Ký túc xá (KTX) của Trường bao gồm toàn bộ đất đai, cơ sở hạ tầng và các công",
+          "- Bếp ăn chia sẻ sinh viên: Hỗ trợ người học có hoàn cảnh khó khăn tại tầng trệt nhà C05, KTX Khu B.\n- Đóng lệ phí nội trú từng học kỳ: Người học có hoàn cảnh khó khăn (hộ nghèo, hộ cận nghèo hoặc gia đình khó khăn có xác nhận của cơ quan có thẩm quyền) đăng ký ở KTX cả năm nhưng có nhu cầu đóng lệ phí theo từng học kỳ (áp dụng với loại hình phòng 4, 6, 8 không có máy lạnh) thực hiện đăng ký trên phần mềm Một cửa tại website: [myktx.ktxhcm.edu.vn.](https://myktx.ktxhcm.edu.vn/#/login)",
+          "được phép nấu ăn).\n| 07  | Tổ chức nấu ăn trong phòng ở |        |      |      |       | Buộc ra  |     |     |\n|     | (Trừ                         | những  | dãy  | nhà  | được  | khỏi KTX |     |     |\nphép nấu ăn).\n| 08  | Tự ý di chuyển chỗ ở, không    |     |     |     |     | Cảnh cáo  | Buộc ra khỏi  |     |\n|     | chấp hành sự bố trí chỗ ở của  |     |     |     |     | toàn KTX  | KTX           |     |\nTT. PVSV."
+        ],
+        "reference": "Không được nấu ăn trong phòng ở và khu vực ký túc xá, trừ các dãy nhà có thiết kế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A. Ngoài ra không được để thức ăn, thực phẩm vào tủ đựng đồ.",
+        "expected_context": "Không được nấu ăn trong phòng ở và khu vực KTX (Trừ các dãy nhà có thiết kế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A); Không để thức ăn, thực phẩm vào tủ đựng đồ.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/noi-quy-ktx-ctu.md::chunk-7",
+          "news/article_07.md::chunk-11",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-2",
+          "news/article_06.md::chunk-12",
+          "legal/noi-quy-ktx-ctu.md::chunk-28"
+        ]
+      },
+      {
+        "question": "Tỷ giá đồng đô la Mỹ hôm nay là bao nhiêu?",
+        "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+        "contexts": [
+          "| 815.850.000 (~ 35.000 USD)\n | 30 - 35\n |\n|  **Khoa học Xã hội và Hành vi (Tâm lý học, Truyền thông, Kinh tế)**\n | 815.850.000 (~ 35.000 USD)\n | 30 - 35\n |\n|  **Kỹ thuật và Khoa học Máy tính**\n | 815.850.000 (~ 35.000 USD)\n | 30 - 35\n |\n|  **Y khoa**\n | 815.850.000 (~ 35.000 USD)\n | 30 - 35\n |\n|  **Khoa học và Giáo dục khai phóng**\n | 815.850.000 (~ 35.000 USD)\n | 30 - 35\n |",
+          "###  Tuổi Trẻ Online Newsletters\n### Đăng ký ngay để nhận gói tin tức mới\nTuổi Trẻ Online sẽ gởi đến bạn những tin tức nổi bật nhất\nTuổi Trẻ Sao\n**Thông tin tài khoản ngày**\nTài khoản được sử dụng đến ngày  | Bạn đang có 0 trong tài khoản\n1 sao = 1000đ. Mua thêm sao để tham gia hoạt động tương tác trên Tuổi Trẻ như: Đổi quà lưu niệm, Tặng sao cho tác giả, Shopping\nTổng số tiền thanh toán: 0đ\nSố sao có thêm 0\nThanh toán\nBình luận (0)\nTối đa: **1500 ký tự**\nGửi bình luận",
+          "4 giờ trước\nGD&TĐ - Chiều 19/9, Trường ĐH Luật Huế tổ chức buổi lễ trao học bổng đến các sinh viên có hoàn cảnh khó khăn.\n5 giờ trước\nNgày 20/9/2026, Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Phiên thảo luận cấp cao Đại hội đồng Liên hợp quốc khóa 81, hoạt động song phương tại Hoa Kỳ và thăm cấp Nhà nước tới Canada.\n5 giờ trước\nGD&TĐ - Bộ Nông nghiệp và Môi trường phối hợp với UBND TP. Hà Nội tổ chức Lễ phát động hưởng ứng Chiến dịch Làm cho thế giới sạch hơn năm 2026.\nXem thêm",
+          "* [Marketing](https://tuyensinh.ufm.edu.vn/vi/thong-tin-tuyen-sinh-dai-hoc-chinh-quy/thong-bao-dang-ky-o-ky-tuc-xa-danh-cho-tan-sinh-vien-2026)\n        * [Ngôn ngữ Anh](https://tuyensinh.ufm.edu.vn/vi/ngon-ngu-anh)\n        * [Quản trị kinh doanh](https://tuyensinh.ufm.edu.vn/vi/thong-tin-tuyen-sinh-dai-hoc-chinh-quy/thong-bao-dang-ky-o-ky-tuc-xa-danh-cho-tan-sinh-vien-2026)\n        * [Tài chính - Ngân hàng](https://tuyensinh.ufm.edu.vn/vi/tai-chinh-ngan-hang)",
+          "Chính phủ xem xét, quyết định điều chỉnh mức vốn cho vay\nLãi suất cho vay đối với sinh viên hiện nay là 0,55%/tháng (theo Quyết định 750/QĐ-\nTTg ngày 01/06/2015 của Thủ tướng Chính phủ về Điều chỉnh giảm lãi suất cho vay đối\nvới một số chương trình tín dụng chính sách tại Ngân hàng Chính sách xã hội).\nH. QUẢN LÝ HỒ SƠ SINH VIÊN\n1. Căn cứ Thông tư số 03/TT-BGDĐT ngày 26/02/2015 của Bộ trưởng Bộ Giáo dục\nvà Đào tạo ban hành Quy chế tuyển sinh Đại học, Cao đẳng hệ chính quy;"
+        ],
+        "reference": "Tôi không thể xác minh thông tin này từ nguồn hiện có. Bộ tài liệu chỉ gồm quy định về học phí, ký túc xá, học bổng và đào tạo, không có thông tin về tỷ giá ngoại tệ.",
+        "expected_context": "Không có trong corpus. Câu hỏi nằm ngoài phạm vi tài liệu, hệ thống phải từ chối an toàn thay vì bịa câu trả lời.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "news/article_03.md::chunk-4",
+          "news/article_01.md::chunk-25",
+          "news/article_04.md::chunk-19",
+          "news/article_09.md::chunk-7",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-553"
+        ]
+      },
+      {
+        "question": "Trường có bán vé máy bay giá rẻ cho sinh viên đi du lịch nước ngoài không?",
+        "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+        "contexts": [
+          "Nhiều cơ sở đào tạo khác cũng tăng cường nguồn lực hỗ trợ người học. Trường Đại học Tài chính - Marketing dành khoảng 92 tỷ đồng học bổng mỗi năm với nhiều chương trình dành cho tân sinh viên, sinh viên có thành tích học tập tốt và hoàn cảnh khó khăn. Nhà trường cũng giữ ổn định học phí trong toàn khóa, dao động 30 - 65 triệu đồng/năm tùy chương trình, đồng thời giảm 15% học phí toàn khóa cho sinh viên học tại hai phân hiệu Huế và Quảng Ngãi.",
+          ". Cùng với đó là chính sách miễn, giảm học phí theo quy định của Nhà nước, học bổng từ doanh nghiệp và nhiều hoạt động đồng hành nhằm giảm gánh nặng tài chính cho người học.",
+          "Ông Phạm Thái Sơn khẳng định quan điểm của nhà trường là không để sinh viên vì khó khăn tài chính mà bỏ lỡ cơ hội học tập. \"Bên cạnh học phí, nhà trường rất quan tâm đến hệ thống hỗ trợ sinh viên, từ học bổng, chính sách miễn giảm đến việc kết nối các nguồn lực xã hội hóa và doanh nghiệp đồng hành. Chúng tôi mong muốn sinh viên khi vào HUIT không chỉ thấy một mức học phí rõ ràng mà còn cảm nhận được sự đồng hành thiết thực của nhà trường trong suốt hành trình học tập\", ông Sơn nhấn mạnh.",
+          "Trong mùa tuyển sinh năm 2026, nhiều trường đại học triển khai các chương trình học bổng và chính sách miễn, giảm học phí dành cho tân sinh viên, thủ khoa và thí sinh có thành tích học tập nổi bật. Các chính sách này nhằm giảm bớt gánh nặng tài chính cho sinh viên và gia đình, đồng thời tạo thêm động lực để các em tiếp tục theo đuổi ước mơ đại học.",
+          "Bên cạnh chất lượng đào tạo, nhà trường có mức học phí phù hợp khoảng 7,5 - 8,5 triệu đồng/học kỳ, ký túc xá từ 150.000 đồng/tháng, góp phần giúp sinh viên giảm đáng kể chi phí học tập và sinh hoạt. Hiệu quả đào tạo cũng được thể hiện qua tỷ lệ 82% sinh viên có việc làm ngay sau khi tốt nghiệp và 95% có việc làm sau một năm, khẳng định định hướng đào tạo gắn với nhu cầu của thị trường lao động."
+        ],
+        "reference": "Tôi không thể xác minh thông tin này từ nguồn hiện có. Bộ tài liệu không đề cập đến dịch vụ bán vé máy bay hay chương trình du lịch cho sinh viên.",
+        "expected_context": "Không có trong corpus. Câu hỏi nằm ngoài phạm vi tài liệu, hệ thống phải từ chối an toàn thay vì bịa câu trả lời.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "news/article_02.md::chunk-24",
+          "news/article_02.md::chunk-22",
+          "news/article_02.md::chunk-23",
+          "news/article_05.md::chunk-2",
+          "news/article_04.md::chunk-11"
+        ]
+      }
+    ],
+    "worst": [
+      {
+        "question": "Tỷ giá đồng đô la Mỹ hôm nay là bao nhiêu?",
+        "mean_score": 0.0,
+        "retrieval_source": "hybrid",
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        }
+      },
+      {
+        "question": "Sinh viên nội trú rời khỏi ký túc xá bao nhiêu ngày thì phải báo cáo, và báo cho ai?",
+        "mean_score": 0.0812499999959375,
+        "retrieval_source": "hybrid",
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.32499999998375
+        }
+      },
+      {
+        "question": "Trường có bán vé máy bay giá rẻ cho sinh viên đi du lịch nước ngoài không?",
+        "mean_score": 0.125,
+        "retrieval_source": "hybrid",
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.5,
+          "context_precision": 0.0
+        }
+      }
+    ]
+  },
+  "config_b": {
+    "label": "hybrid + RRF",
+    "scores": {
+      "faithfulness": 0.8636363636363636,
+      "answer_relevance": 0.4489833362814494,
+      "context_recall": 0.8863636363636364,
+      "context_precision": 0.7974116161354476
+    },
+    "rows": [
+      {
+        "question": "Quỹ học bổng khuyến khích học tập được bố trí tối thiểu bằng bao nhiêu phần trăm nguồn thu học phí?",
+        "answer": "Quỹ học bổng khuyến khích học tập được bố trí tối thiểu bằng 8% nguồn thu học phí hệ giáo dục chính quy của nhà trường [Document 1], [Document 2], [Document 5].",
+        "contexts": [
+          "2\nTC Tín chỉ\nP.ĐTĐH Phòng Đào tạo Đại học\nP.CTSV Phòng Công tác Sinh viên\nP.KHTC Phòng Kế hoạch Tài chính\nChương II\nQUỸ HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP, HỘI ĐỒNG XÉT CẤP\nHỌC BỔNG KHUYẾN KHÍCH HỌC TẬP\nĐiều 4. Quỹ học bổng khuyến khích học tập\nQuỹ học bổng khuyến khích học tập được bố trí tối thiểu bằng 8% nguồn thu học\nphí hệ giáo dục chính quy của nhà trường.\nĐiều 5. Hội đồng xét cấp học bổng khuyến khích học tập:\n1. Thẩm quyền thành lập:",
+          "3.3. Nguồn học bổng: Học bổng KKHT được bố trí tối thiểu 8% nguồn thu học phí.\n\n3.4. Trình tự xét, cấp học bổng:\n\na) Hiệu trưởng căn cứ vào nguồn học bổng khuyến khích học tập xác định số lượng suất học\nbổng cho từng khóa học, ngành học. Trong trường hợp số lượng sinh viên thuộc diện được xét,\ncấp học bổng nhiều hơn số suất học bổng thì việc xét, cấp học bổng do Hiệu trưởng quyết định;",
+          "- Điểm trung bình chung học kỳ (ĐTBCHK) đạt từ 2.50 trở lên; không có học phần\nbị điểm F; tích luỹ tối thiểu 15 tín chỉ/học kỳ (không tính học phần Giáo dục Thể chất và\nGiáo dục Quốc phòng);\n- Kết quả rèn luyện (ĐRL) đạt từ loại Khá trở lên.\nLưu ý: Học kỳ đầu tiên của sinh viên khóa mới sẽ xét học bổng theo số tín chỉ do Học\nviện đăng ký.\nIII. Quỹ học bổng khuyến khích học tập và các mức học bổng\nQuỹ HBKKHT từng học kỳ được bố trí tối thiểu bằng 8% nguồn thu học phí hệ chính",
+          ". Bên cạnh đó, học bổng khuyến khích học tập có thể đạt mức tối đa 120% học phí.",
+          "### Trích học phí lập quỹ học bổng\nTheo lãnh đạo một số trường đại học công lập tự chủ, sau khi điều chỉnh học phí, các trường thường trích khoảng 10-15% tổng thu học phí để cấp học bổng và hỗ trợ sinh viên có hoàn cảnh khó khăn. Sinh viên khó khăn có thể được hỗ trợ ngay từ năm đầu, những năm sau sẽ được xét học bổng khuyến khích học tập hoặc các nguồn hỗ trợ khác.\n### Học phí có ngành tăng 47%"
+        ],
+        "reference": "Tối thiểu bằng 8% nguồn thu học phí. Quy định này xuất hiện cả trong quy định xét cấp học bổng của Trường Đại học Quốc tế và quy định quản lý, sử dụng học bổng của UET.",
+        "expected_context": "Quỹ học bổng khuyến khích học tập được bố trí tối thiểu bằng 8% nguồn thu học phí.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-12",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-4",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-541",
+          "news/article_05.md::chunk-6",
+          "news/article_01.md::chunk-20"
+        ]
+      },
+      {
+        "question": "Mức học bổng Loại I và Loại II bằng bao nhiêu phần trăm mức học bổng Loại III?",
+        "answer": "Mức học bổng Loại II tương đương 110% mức học bổng Loại III, và mức học bổng Loại I tương đương 120% mức học bổng Loại III [Document 1].",
+        "contexts": [
+          "Điều 8. Mức xét cấp HBHT:\nMức\n|     | Điểm học tập  | Điểm rèn luyện  |\nHBHT\nLoại II (Giỏi)\n| Loại I (Xuất sắc)  | Xuất sắc  | Xuất sắc  |\nTrong đó:\n1. Mức học bổng Loại III (mức học bổng chuẩn): do Hội đồng xét cấp HBKKHT\ntham mưu cho Hiệu trưởng ban hành quyết định theo năm học.\n2. Mức học bổng Loại II: mức học bổng tương đương 110% mức học bổng Loại\nIII.\n3. Mức học bổng Loại I: mức học bổng tương đương 120% mức học bổng Loại\nIII.\nĐiều 9. Nguyên tắc phân bổ HBHT",
+          "III.\nĐiều 9. Nguyên tắc phân bổ HBHT\n1. Số suất HBHT của từng ngành học được phân bổ theo phần trăm tỷ lệ tổng số\nsinh viên của từng ngành, khoa và khóa học.\n2. Phân bổ số suất HBHT:\na) Học bổng Loại I: tối đa 10% số suất\nb) Học bổng Loại II: tối đa 30% số suất\nc) Học bổng Loại III: tối đa 60% số suất\n3. Sinh viên được xét cấp HBHT trong học kỳ được xếp theo thứ tự ưu tiên như\nsau:\na) Điểm trung bình học kỳ\nb) Điểm rèn luyện học kỳ",
+          "a) Học bổng loại khá: Dành cho sinh viên có điểm trung bình chung học tập và điểm rèn luyện\ntrong học kỳ đều đạt loại khá trở lên. Mức học bổng bằng hoặc cao hơn mức trần học phí hiện\nhành của ngành, chuyên ngành mà sinh viên đó phải đóng tại đơn vị theo quy định.\n\nb) Học bổng loại giỏi: Dành cho sinh viên trong học kỳ xét, cấp học bổng có điểm trung bình\nchung học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại tốt trở lên. Mức học bổng cao hơn\nloại khá, cụ thể do hiệu trưởng quyết định.",
+          "c) Học bổng loại xuất sắc: Dành cho sinh viên có điểm trung bình chung học tập và điểm rèn\nluyện trong học kỳ đều đạt loại xuất sắc. Mức học bổng cao hơn loại giỏi, cụ thể do hiệu trưởng\nquyết định.\n\nd) Điểm trung bình chung học tập và điểm rèn luyện quy định tại các điểm a, b và c khoản này\nđược xác định theo quy định hiện hành của ĐHQGHN; trong đó điểm trung bình chung học\ntập để xét học bổng cho sinh viên được tính từ điểm thi, kiểm tra hết môn học lần thứ nhất.",
+          "6. Trường hợp không có đủ sinh viên đạt mức HBHT Loại I hoặc Loại II so với\nsố suất HBHT phân bổ cho mỗi ngành, khóa học, các suất HBHT Loại I hoặc Loại II sẽ\nđược chuyển thành số suất ở loại có mức thấp hơn kế tiếp (Loại II hoặc Loại III).\n7. Các trường hợp đặc biệt khác, Hội đồng xét cấp HBKKHT xem xét và quyết\nđịnh.\nChương II\nTHỜI GIAN, QUY TRÌNH VÀ THỦ TỤC XÉT CẤP\nHỌC BỔNG HỌC TẬP\nĐiều 10. Thời gian xét HBHT\nHBHT được xét, cấp theo từng học kỳ chính (học kỳ I và học kỳ II) và cấp trong"
+        ],
+        "reference": "Học bổng Loại II tương đương 110% mức học bổng Loại III, còn học bổng Loại I tương đương 120% mức học bổng Loại III. Loại III là mức học bổng chuẩn.",
+        "expected_context": "Mức học bổng Loại II: mức học bổng tương đương 110% mức học bổng Loại III. Mức học bổng Loại I: mức học bổng tương đương 120% mức học bổng Loại III.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-26",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-27",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-2",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-3",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-29"
+        ]
+      },
+      {
+        "question": "Số suất học bổng khuyến khích học tập được phân bổ theo tỷ lệ nào giữa ba loại?",
+        "answer": "Số suất học bổng khuyến khích học tập (HBHT) được phân bổ theo tỷ lệ giữa ba loại như sau:\n\n- Học bổng Loại I: tối đa 10% số suất\n- Học bổng Loại II: tối đa 30% số suất\n- Học bổng Loại III: tối đa 60% số suất [Document 1].",
+        "contexts": [
+          "III.\nĐiều 9. Nguyên tắc phân bổ HBHT\n1. Số suất HBHT của từng ngành học được phân bổ theo phần trăm tỷ lệ tổng số\nsinh viên của từng ngành, khoa và khóa học.\n2. Phân bổ số suất HBHT:\na) Học bổng Loại I: tối đa 10% số suất\nb) Học bổng Loại II: tối đa 30% số suất\nc) Học bổng Loại III: tối đa 60% số suất\n3. Sinh viên được xét cấp HBHT trong học kỳ được xếp theo thứ tự ưu tiên như\nsau:\na) Điểm trung bình học kỳ\nb) Điểm rèn luyện học kỳ",
+          "6\nc) Tổng số tín chỉ tích lũy trong học kỳ\nd) Điểm trung bình tích lũy\nđ) Tổng số tín chỉ tích lũy\n4. Sinh viên đủ điều kiện xét cấp HBHT được phân bổ các học bổng Loại I, II, III\nlần lượt theo thứ tự từ trên xuống cho đến hết số suất học bổng đã được xác định.\n5. Nếu số lượng sinh viên thuộc diện được cấp học bổng nhiều hơn số suất học\nbổng được cấp cho ngành, khóa học thì sẽ tiến hành xét cấp học bổng theo thứ tự từ trên\nxuống cho đến hết số suất HBHT được xác định cho mỗi ngành, khóa học.",
+          "3.3. Nguồn học bổng: Học bổng KKHT được bố trí tối thiểu 8% nguồn thu học phí.\n\n3.4. Trình tự xét, cấp học bổng:\n\na) Hiệu trưởng căn cứ vào nguồn học bổng khuyến khích học tập xác định số lượng suất học\nbổng cho từng khóa học, ngành học. Trong trường hợp số lượng sinh viên thuộc diện được xét,\ncấp học bổng nhiều hơn số suất học bổng thì việc xét, cấp học bổng do Hiệu trưởng quyết định;",
+          "của Bộ trưởng Bộ Giáo dục và Đào tạo.\n- Căn cứ Quyết định số 2257/QĐ-HVN ngày 17/5/2021 về việc điều chỉnh mức học\nbổng khuyến khích học tập cho sinh viên từ năm học 2020-2021.\nII. Đối tượng, tiêu chuẩn để được xét cấp học bổng khuyến khích học tập\nSinh viên đại học, cao đẳng hệ chính quy có kết quả học tập, rèn luyện từ loại khá trở\nlên, không bị kỷ luật từ mức khiển trách trở lên trong kỳ xét học bổng sẽ được tham dự xét",
+          "Điều 8. Mức xét cấp HBHT:\nMức\n|     | Điểm học tập  | Điểm rèn luyện  |\nHBHT\nLoại II (Giỏi)\n| Loại I (Xuất sắc)  | Xuất sắc  | Xuất sắc  |\nTrong đó:\n1. Mức học bổng Loại III (mức học bổng chuẩn): do Hội đồng xét cấp HBKKHT\ntham mưu cho Hiệu trưởng ban hành quyết định theo năm học.\n2. Mức học bổng Loại II: mức học bổng tương đương 110% mức học bổng Loại\nIII.\n3. Mức học bổng Loại I: mức học bổng tương đương 120% mức học bổng Loại\nIII.\nĐiều 9. Nguyên tắc phân bổ HBHT"
+        ],
+        "reference": "Học bổng Loại I tối đa 10% số suất, Loại II tối đa 30% số suất và Loại III tối đa 60% số suất.",
+        "expected_context": "Phân bổ số suất HBHT: a) Học bổng Loại I: tối đa 10% số suất; b) Học bổng Loại II: tối đa 30% số suất; c) Học bổng Loại III: tối đa 60% số suất.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-27",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-28",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-4",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-539",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-26"
+        ]
+      },
+      {
+        "question": "Sinh viên cần đạt điểm tối thiểu bao nhiêu ở tất cả các môn trong học kỳ để được xét học bổng?",
+        "answer": "Sinh viên cần đạt điểm tối thiểu 50/100 ở tất cả các môn trong học kỳ để được xét học bổng [Document 1], [Document 2].",
+        "contexts": [
+          "d) Điểm tất cả các môn trong học kỳ ≥ 50/100 (kể cả môn Giáo dục thể chất, Giáo\ndục quốc phòng – An ninh và các môn không tính điểm trung bình).\nđ) SV phải tích lũy tối thiểu 15 tín chỉ trong học kỳ dùng để xét HBHT (không\nbao gồm các môn tại điểm c khoản 1 Điều này).\ne) Không xét HBHT cho sinh viên có xin điểm hoãn thi (điểm I) tại học kỳ dùng\nđể xét học bổng. Riêng đối với trường hợp sinh viên có quyết định do nhà trường cử",
+          "- Điểm trung bình chung học kỳ (ĐTBCHK) đạt từ 2.50 trở lên; không có học phần\nbị điểm F; tích luỹ tối thiểu 15 tín chỉ/học kỳ (không tính học phần Giáo dục Thể chất và\nGiáo dục Quốc phòng);\n- Kết quả rèn luyện (ĐRL) đạt từ loại Khá trở lên.\nLưu ý: Học kỳ đầu tiên của sinh viên khóa mới sẽ xét học bổng theo số tín chỉ do Học\nviện đăng ký.\nIII. Quỹ học bổng khuyến khích học tập và các mức học bổng\nQuỹ HBKKHT từng học kỳ được bố trí tối thiểu bằng 8% nguồn thu học phí hệ chính",
+          "đào tạo đại học theo hệ thống tín chỉ hiện hành tại trường Đại học Quốc tế.\nb) Điểm tất cả các môn trong học kỳ ≥ 50/100 (kể cả môn Giáo dục thể chất, Giáo\ndục quốc phòng – An ninh và các môn không tính điểm trung bình).\nc) Sinh viên phải tích lũy tối thiểu 15 tín chỉ trong học kỳ dùng để xét duy trì\nHBTS (không bao gồm các môn tại điểm a khoản 1 Điều này). Trường hợp ngành có\nsố tín chỉ đào tạo trong học kỳ thấp hơn tiêu chuẩn do thiết kế của chương trình đào tạo,",
+          "b) Hiệu trưởng căn cứ vào kết quả học tập, rèn luyện của sinh viên thực hiện xét, cấp học bổng\ntheo thứ tự từ loại suất sắc trở xuống đến hết số suất học bổng đã được xác định;\n\nc) Học bổng được cấp theo từng học kỳ và cấp 10 tháng trong năm học. Tại học kỳ xét học\nbổng, sinh viên được xét, cấp học bổng phải hoàn thành ít nhất 15 tín chỉ. Trường hợp đặc biệt\ndo Hiệu trưởng đơn vị đào tạo quyết định.",
+          "c) Học bổng loại xuất sắc: Dành cho sinh viên có điểm trung bình chung học tập và điểm rèn\nluyện trong học kỳ đều đạt loại xuất sắc. Mức học bổng cao hơn loại giỏi, cụ thể do hiệu trưởng\nquyết định.\n\nd) Điểm trung bình chung học tập và điểm rèn luyện quy định tại các điểm a, b và c khoản này\nđược xác định theo quy định hiện hành của ĐHQGHN; trong đó điểm trung bình chung học\ntập để xét học bổng cho sinh viên được tính từ điểm thi, kiểm tra hết môn học lần thứ nhất."
+        ],
+        "reference": "Điểm tất cả các môn trong học kỳ phải từ 50/100 trở lên, kể cả môn Giáo dục thể chất, Giáo dục quốc phòng - An ninh và các môn không tính điểm trung bình.",
+        "expected_context": "Điểm tất cả các môn trong học kỳ ≥ 50/100 (kể cả môn Giáo dục thể chất, Giáo dục quốc phòng – An ninh và các môn không tính điểm trung bình).",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-18",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-541",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-39",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-5",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-3"
+        ]
+      },
+      {
+        "question": "Sinh viên phải hoàn thành tối thiểu bao nhiêu tín chỉ trong học kỳ để được xét cấp học bổng khuyến khích học tập?",
+        "answer": "Sinh viên phải hoàn thành tối thiểu 15 tín chỉ trong học kỳ để được xét cấp học bổng khuyến khích học tập [Document 1], [Document 2].",
+        "contexts": [
+          "- Điểm trung bình chung học kỳ (ĐTBCHK) đạt từ 2.50 trở lên; không có học phần\nbị điểm F; tích luỹ tối thiểu 15 tín chỉ/học kỳ (không tính học phần Giáo dục Thể chất và\nGiáo dục Quốc phòng);\n- Kết quả rèn luyện (ĐRL) đạt từ loại Khá trở lên.\nLưu ý: Học kỳ đầu tiên của sinh viên khóa mới sẽ xét học bổng theo số tín chỉ do Học\nviện đăng ký.\nIII. Quỹ học bổng khuyến khích học tập và các mức học bổng\nQuỹ HBKKHT từng học kỳ được bố trí tối thiểu bằng 8% nguồn thu học phí hệ chính",
+          "b) Hiệu trưởng căn cứ vào kết quả học tập, rèn luyện của sinh viên thực hiện xét, cấp học bổng\ntheo thứ tự từ loại suất sắc trở xuống đến hết số suất học bổng đã được xác định;\n\nc) Học bổng được cấp theo từng học kỳ và cấp 10 tháng trong năm học. Tại học kỳ xét học\nbổng, sinh viên được xét, cấp học bổng phải hoàn thành ít nhất 15 tín chỉ. Trường hợp đặc biệt\ndo Hiệu trưởng đơn vị đào tạo quyết định.",
+          "của Bộ trưởng Bộ Giáo dục và Đào tạo.\n- Căn cứ Quyết định số 2257/QĐ-HVN ngày 17/5/2021 về việc điều chỉnh mức học\nbổng khuyến khích học tập cho sinh viên từ năm học 2020-2021.\nII. Đối tượng, tiêu chuẩn để được xét cấp học bổng khuyến khích học tập\nSinh viên đại học, cao đẳng hệ chính quy có kết quả học tập, rèn luyện từ loại khá trở\nlên, không bị kỷ luật từ mức khiển trách trở lên trong kỳ xét học bổng sẽ được tham dự xét",
+          "kể học phần GDTC và GDQP) trong học kỳ mới được xếp vào diện được xét cấp học bổng\nkhuyến khích học tập (trừ kỳ đầu tiên của khóa học; kỳ học GDQP theo lịch của Học viện\nxếp cố định theo lớp của sinh viên; sinh viên đi thực tập tốt nghiệp ở chương trình 1).\n8. Sinh viên khóa 68 trở về trước đăng ký học cùng lúc hai chương trình được phép\nđăng ký tối đa 30 tín chỉ trong mỗi học kỳ (kể cả học phần Giáo dục thể chất và Giáo dục",
+          "d) Điểm tất cả các môn trong học kỳ ≥ 50/100 (kể cả môn Giáo dục thể chất, Giáo\ndục quốc phòng – An ninh và các môn không tính điểm trung bình).\nđ) SV phải tích lũy tối thiểu 15 tín chỉ trong học kỳ dùng để xét HBHT (không\nbao gồm các môn tại điểm c khoản 1 Điều này).\ne) Không xét HBHT cho sinh viên có xin điểm hoãn thi (điểm I) tại học kỳ dùng\nđể xét học bổng. Riêng đối với trường hợp sinh viên có quyết định do nhà trường cử"
+        ],
+        "reference": "Phải hoàn thành ít nhất 15 tín chỉ trong học kỳ xét học bổng. Học bổng được cấp theo từng học kỳ và cấp 10 tháng trong năm học; trường hợp đặc biệt do Hiệu trưởng đơn vị đào tạo quyết định.",
+        "expected_context": "Học bổng được cấp theo từng học kỳ và cấp 10 tháng trong năm học. Tại học kỳ xét học bổng, sinh viên được xét, cấp học bổng phải hoàn thành ít nhất 15 tín chỉ.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-541",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-5",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-539",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-75",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-18"
+        ]
+      },
+      {
+        "question": "Học bổng loại giỏi yêu cầu điểm học tập và điểm rèn luyện như thế nào?",
+        "answer": "Học bổng loại giỏi yêu cầu sinh viên có điểm trung bình chung học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại tốt trở lên. Mức học bổng sẽ cao hơn loại khá và cụ thể do hiệu trưởng quyết định [Document 1].",
+        "contexts": [
+          "a) Học bổng loại khá: Dành cho sinh viên có điểm trung bình chung học tập và điểm rèn luyện\ntrong học kỳ đều đạt loại khá trở lên. Mức học bổng bằng hoặc cao hơn mức trần học phí hiện\nhành của ngành, chuyên ngành mà sinh viên đó phải đóng tại đơn vị theo quy định.\n\nb) Học bổng loại giỏi: Dành cho sinh viên trong học kỳ xét, cấp học bổng có điểm trung bình\nchung học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại tốt trở lên. Mức học bổng cao hơn\nloại khá, cụ thể do hiệu trưởng quyết định.",
+          "c) Học bổng loại xuất sắc: Dành cho sinh viên có điểm trung bình chung học tập và điểm rèn\nluyện trong học kỳ đều đạt loại xuất sắc. Mức học bổng cao hơn loại giỏi, cụ thể do hiệu trưởng\nquyết định.\n\nd) Điểm trung bình chung học tập và điểm rèn luyện quy định tại các điểm a, b và c khoản này\nđược xác định theo quy định hiện hành của ĐHQGHN; trong đó điểm trung bình chung học\ntập để xét học bổng cho sinh viên được tính từ điểm thi, kiểm tra hết môn học lần thứ nhất.",
+          "+ Đạt danh hiệu Sinh viên Giỏi nếu xếp loại học tập từ Giỏi trở lên và xếp loại rèn\nluyện từ Tốt trở lên;\n+ Đạt danh hiệu Sinh viên Xuất sắc nếu xếp loại học tập và rèn luyện Xuất sắc.\nXếp loại học tập và rèn luyện được xác định theo quy định dạy và học đại học và quy\nđịnh về đánh giá kết quả rèn luyện áp dụng cho hệ chính quy đào tạo theo học chế tín chỉ\ncủa Học viện và quy chế của Bộ GD&ĐT.\n- Nếu sinh viên có kết quả xếp loại học tập và xếp loại rèn luyện không cùng bậc thì",
+          "4\ng) Trong cùng một học kỳ, nếu sinh viên vừa đạt HBTS và HBHT, sinh viên sẽ\nđược nhận suất học bổng có giá trị cao hơn.\n2. Về điểm rèn luyện và học vụ:\na) Điểm rèn luyện của học kỳ được dùng để xét cấp học bổng: xếp loại từ loại Khá\ntrở lên. Kết quả rèn luyện của sinh viên được xác định theo tiêu chí đánh giá và khung\nđiểm rèn luyện trong Quy chế Công tác sinh viên hiện hành của trường ĐHQT.\nb) Sinh viên không vi phạm quy chế, quy định của nhà trường, không bị kỷ luật",
+          "tập và rèn luyện học kỳ……. năm học 20.... - 20.... như sau:\nĐiểm chung bình chung học tập:……../4.0 (Loại: …….)\nKết quả rèn luyện:………/100 (Loại: )\nĐược cấp học bổng khuyến khích học tập: đ/tháng theo Quyết\nđịnh số /QĐ-HVN ngày …. tháng …. năm 20…\nThời gian hưởng: 05 tháng trong năm học 20…. - 20….\nEm xin trân trọng cảm ơn!\nXÁC NHẬN CỦA HỌC VIỆN Hà Nội, ngày … tháng … năm 20…\nNgày … tháng … năm 20 … Người đề nghị\nTL.GIÁM ĐỐC (Ký tên và ghi rõ họ tên)\nTRƯỞNG BAN CTCT VÀ CTSV\n132"
+        ],
+        "reference": "Học bổng loại giỏi dành cho sinh viên trong học kỳ xét cấp có điểm trung bình chung học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại tốt trở lên. Mức học bổng cao hơn loại khá, cụ thể do hiệu trưởng quyết định.",
+        "expected_context": "Học bổng loại giỏi: Dành cho sinh viên trong học kỳ xét, cấp học bổng có điểm trung bình chung học tập đạt loại giỏi trở lên và điểm rèn luyện đạt loại tốt trở lên.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-2",
+          "legal/quy-dinh-quan-ly-su-dung-hoc-bong-uet.md::chunk-3",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-403",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-20",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-577"
+        ]
+      },
+      {
+        "question": "Cơ sở giáo dục đại học được thu học phí tối đa bao nhiêu tháng trong một năm?",
+        "answer": "Cơ sở giáo dục đại học được thu học phí tối đa 10 tháng trong một năm học [Document 1].",
+        "contexts": [
+          "Điều 12. Thu học phí\n1. Học phí được thu định kỳ hàng tháng; nếu người học tự nguyện, nhà\ntrường có thể thu một lần cho cả học kỳ hoặc cả năm học. Đối với cơ sở giáo dục\nthường xuyên, đào tạo thường xuyên và các khóa đào tạo, bồi dưỡng ngắn hạn, học\nphí được thu theo số tháng thực học. Đối với cơ sở giáo dục mầm non, giáo dục\nphổ thông, học phí được thu tối đa 9 tháng/năm. Đối với cơ sở giáo dục đại học,\ngiáo dục nghề nghiệp học phí được thu tối đa 10 tháng/năm.",
+          "19\nhọc và chi phí phát sinh cần thiết để tổ chức dạy học nhưng không vượt quá tổng\nthu học phí tính theo số tháng tối đa của 01 năm học (tối đa 9 tháng/năm đối với cơ\nsở giáo dục mầm non, phổ thông và tối đa 10 tháng/năm đối với cơ sở giáo dục đại\nhọc, cơ sở giáo dục nghề nghiệp) và công khai từ đầu năm học trong các cơ sở giáo\ndục. Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân quyết định cụ thể thời gian\nthu, mức học phí đối với giáo dục mầm non, giáo dục phổ thông công lập trên địa",
+          "Đối với cơ sở [giáo dục đại học](https://tuoitre.vn/giao-duc-dai-hoc.html \"giáo dục đại học\") công lập tự bảo đảm chi thường xuyên, mức học phí tối đa được xác định không quá hai lần mức trần học phí tương ứng với từng khối ngành và từng năm học. Với cơ sở giáo dục đại học công lập tự bảo đảm cả chi thường xuyên và chi đầu tư, mức học phí tối đa không quá 2,5 lần mức trần học phí theo quy định.",
+          "## Học phí tiếp tục tăng ra sao?\nTheo quy định của Chính phủ về cơ chế thu và quản lý học phí, các trường đại học công lập được phép điều chỉnh mức thu theo từng năm nhưng phải nằm trong khung trần quy định. Với các trường chưa tự chủ chi thường xuyên, mức học phí tối đa năm học 2026-2027 khoảng 17-35 triệu đồng/năm học (10 tháng), tăng khoảng 1-4 triệu đồng so với năm trước.",
+          "Nghị định cũng quy định rõ cơ chế đối với các cơ sở giáo dục đại học đã thực hiện tự chủ. Theo đó, trường tự bảo đảm chi thường xuyên được thu học phí tối đa bằng 2 lần mức trần tương ứng của cơ sở chưa tự bảo đảm chi thường xuyên.\nĐối với trường tự bảo đảm cả chi thường xuyên và chi đầu tư, mức học phí tối đa bằng 2,5 lần mức trần. Đây là cơ sở pháp lý để các trường xây dựng đề án tài chính phù hợp với thực tế đầu tư và phát triển."
+        ],
+        "reference": "Tối đa 10 tháng/năm đối với cơ sở giáo dục đại học và giáo dục nghề nghiệp. Cơ sở giáo dục mầm non và giáo dục phổ thông thu tối đa 9 tháng/năm.",
+        "expected_context": "Đối với cơ sở giáo dục mầm non, giáo dục phổ thông, học phí được thu tối đa 9 tháng/năm. Đối với cơ sở giáo dục đại học, giáo dục nghề nghiệp học phí được thu tối đa 10 tháng/năm.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-96",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-98",
+          "news/article_01.md::chunk-6",
+          "news/article_01.md::chunk-4",
+          "news/article_02.md::chunk-4"
+        ]
+      },
+      {
+        "question": "Nghị định 81/2021/NĐ-CP đã được sửa đổi, bổ sung bởi những nghị định nào?",
+        "answer": "Nghị định 81/2021/NĐ-CP đã được sửa đổi, bổ sung bởi Nghị định số 97/2023/NĐ-CP. Nghị định này quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 31 tháng 12 năm 2023 [Document 1], [Document 4].",
+        "contexts": [
+          "Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ chế thu,\nquản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn,\ngiảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 31\ntháng 12 năm 2023.\n8 Điểm này được sửa đổi theo quy định tại điểm b khoản 3 Điều 1 của Nghị định số\n97/2023/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8",
+          "theo quy định tại điểm b khoản 7 Điều 1 của Nghị định số 97/2023/NĐ-CP sửa đổi, bổ sung một số\nđiều của Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ\nchế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách\nmiễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, có hiệu lực kể từ\nngày 31 tháng 12 năm 2023.\n18 Điều 15 của Nghị định số 104/2022/NĐ-CP sửa đổi, bổ sung một số điều của các nghị",
+          "11 Cụm từ “Mức trần giá dịch vụ giáo dục mầm non, giáo dục phổ thông từ năm học 2022 -\n2023 như sau:” được sửa đổi bởi cụm từ “Mức trần giá dịch vụ giáo dục mầm non, giáo dục\nphổ thông năm học 2022 - 2023 như sau:” theo quy định tại khoản 4 Điều 1 của Nghị định số\n97/2023/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8\nnăm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ",
+          "2. Nghị định số 97/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ\nsửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8\nnăm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở\ngiáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ\ntrợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo, có hiệu lực kể từ\nngày 31 tháng 12 năm 2023.\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi,",
+          "Căn cứ Pháp lệnh Ưu đãi người có công với cách mạng ngày 09 tháng 12 năm 2020;\nTheo đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo;\nChính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-\nCP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ\nsở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí\nhọc tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo.”"
+        ],
+        "reference": "Nghị định số 81/2021/NĐ-CP ngày 27/8/2021 được sửa đổi, bổ sung bởi Nghị định số 104/2022/NĐ-CP ngày 21/12/2022 và Nghị định số 97/2023/NĐ-CP ngày 31/12/2023 của Chính phủ.",
+        "expected_context": "Nghị định số 104/2022/NĐ-CP ngày 21 tháng 12 năm 2022 của Chính phủ; Nghị định số 97/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-80",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-216",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-201",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-3",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-11"
+        ]
+      },
+      {
+        "question": "Học phí được thu định kỳ như thế nào, trường có được thu một lần cho cả năm không?",
+        "answer": "Học phí được thu định kỳ hàng tháng. Tuy nhiên, nếu người học tự nguyện, nhà trường có thể thu một lần cho cả học kỳ hoặc cả năm học [Document 1].",
+        "contexts": [
+          "Điều 12. Thu học phí\n1. Học phí được thu định kỳ hàng tháng; nếu người học tự nguyện, nhà\ntrường có thể thu một lần cho cả học kỳ hoặc cả năm học. Đối với cơ sở giáo dục\nthường xuyên, đào tạo thường xuyên và các khóa đào tạo, bồi dưỡng ngắn hạn, học\nphí được thu theo số tháng thực học. Đối với cơ sở giáo dục mầm non, giáo dục\nphổ thông, học phí được thu tối đa 9 tháng/năm. Đối với cơ sở giáo dục đại học,\ngiáo dục nghề nghiệp học phí được thu tối đa 10 tháng/năm.",
+          "2. Trường hợp xảy ra thiên tai, dịch bệnh, các sự kiện bất khả kháng thì học\nphí được thu theo số tháng học thực tế (bao gồm cả thời gian tổ chức dạy học trực\ntuyến hoặc bố trí thời gian học bù tại trường); không thu học phí trong thời gian\nkhông tổ chức dạy học. Mức thu học phí đảm bảo nguyên tắc theo số tháng thực",
+          "bàn; Thủ trưởng các cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp quy định\nthời gian thu, mức học phí trong trường hợp xảy ra thiên tai, dịch bệnh, các sự kiện\nbất khả kháng.\n3. Trong trường hợp tổ chức giảng dạy, học tập theo học chế tín chỉ, cơ sở\ngiáo dục có thể quy đổi để thu học phí theo tín chỉ, tuy nhiên tổng số học phí thu\ntheo tín chỉ của cả khóa học không được vượt quá mức học phí quy định cho khóa\nhọc nếu thu theo năm học.",
+          "Các trường công lập trước đây chủ yếu thu theo một mức trần chung, hiện nay mức thu đã đa dạng hơn theo chương trình và cơ chế tự chủ. Trong khi đó các đại học tư thục được tự xác định mức học phí. Năm học gần đây mức thu dao động khá rộng, khoảng 20-180 triệu đồng mỗi năm học tùy chương trình.",
+          "Năm học 2026-2027, Trường Đại học Công Thương TPHCM tiếp tục đẩy mạnh các chính sách hỗ trợ tài chính cho sinh viên. Nhà trường cam kết “3 không”: Không tăng học phí trong suốt khóa học; Không thu bất kỳ khoản phí nào ngoài học phí; Không để bất kỳ sinh viên có hoàn cảnh khó khăn nào bị bỏ lại phía sau. Trường có quỹ học bổng hơn 55,7 tỷ đồng với nhiều loại học bổng dành cho sinh viên có thành tích tốt, sinh viên vượt khó và các trường hợp có hoàn cảnh đặc biệt"
+        ],
+        "reference": "Học phí được thu định kỳ hàng tháng. Nếu người học tự nguyện, nhà trường có thể thu một lần cho cả học kỳ hoặc cả năm học.",
+        "expected_context": "Học phí được thu định kỳ hàng tháng; nếu người học tự nguyện, nhà trường có thể thu một lần cho cả học kỳ hoặc cả năm học.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-96",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-97",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-99",
+          "news/article_01.md::chunk-13",
+          "news/article_02.md::chunk-21"
+        ]
+      },
+      {
+        "question": "Khi xảy ra thiên tai hoặc dịch bệnh thì việc thu học phí được xử lý ra sao?",
+        "answer": "Khi xảy ra thiên tai, dịch bệnh hoặc các sự kiện bất khả kháng, học phí sẽ được thu theo số tháng học thực tế, bao gồm cả thời gian tổ chức dạy học trực tuyến hoặc bố trí thời gian học bù tại trường. Không thu học phí trong thời gian không tổ chức dạy học. Mức thu học phí phải đảm bảo nguyên tắc theo số tháng thực [Document 1].",
+        "contexts": [
+          "2. Trường hợp xảy ra thiên tai, dịch bệnh, các sự kiện bất khả kháng thì học\nphí được thu theo số tháng học thực tế (bao gồm cả thời gian tổ chức dạy học trực\ntuyến hoặc bố trí thời gian học bù tại trường); không thu học phí trong thời gian\nkhông tổ chức dạy học. Mức thu học phí đảm bảo nguyên tắc theo số tháng thực",
+          "bàn; Thủ trưởng các cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp quy định\nthời gian thu, mức học phí trong trường hợp xảy ra thiên tai, dịch bệnh, các sự kiện\nbất khả kháng.\n3. Trong trường hợp tổ chức giảng dạy, học tập theo học chế tín chỉ, cơ sở\ngiáo dục có thể quy đổi để thu học phí theo tín chỉ, tuy nhiên tổng số học phí thu\ntheo tín chỉ của cả khóa học không được vượt quá mức học phí quy định cho khóa\nhọc nếu thu theo năm học.",
+          "dục thường xuyên theo chương trình giáo dục phổ thông có cha hoặc mẹ hoặc cả\ncha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc diện hộ cận nghèo\ntheo quy định của Thủ tướng Chính phủ.\n3. Đối tượng được hỗ trợ tiền đóng học phí: Học sinh tiểu học trong cơ sở\ngiáo dục tư thục ở địa bàn không đủ trường công lập được Nhà nước hỗ trợ tiền\nđóng học phí.\nĐiều 17. Không thu học phí có thời hạn\nKhi xảy ra thiên tai, dịch bệnh, các sự kiện bất khả kháng do cơ quan có",
+          "thẩm quyền công bố; tùy theo mức độ và phạm vi thiệt hại, Ủy ban nhân dân cấp\ntỉnh trình Hội đồng nhân dân cấp tỉnh xem xét, quyết định không thu học phí trong",
+          "20\nhọc phí và mức thu, miễn giảm học phí trong trường hợp xảy ra thiên tai, dịch\nbệnh, các sự kiện bất khả kháng.\nChương IV\nCHÍNH SÁCH MIỄN GIẢM HỌC PHÍ VÀ HỖ TRỢ CHI PHÍ\nHỌC TẬP, HỖ TRỢ TIỀN ĐÓNG HỌC PHÍ,\nPHƯƠNG THỨC CHI TRẢ\nMục 1\nCHÍNH SÁCH MIỄN GIẢM HỌC PHÍ, HỖ TRỢ CHI PHÍ HỌC TẬP.\nHỖ TRỢ TIỀN ĐÓNG HỌC PHÍ\nĐiều 14. Đối tượng không phải đóng học phí\n1. Học sinh tiểu học trường công lập.\n2. Người theo học các ngành chuyên môn đặc thù đáp ứng yêu cầu phát triển"
+        ],
+        "reference": "Học phí được thu theo số tháng học thực tế, bao gồm cả thời gian dạy học trực tuyến hoặc học bù tại trường; không thu học phí trong thời gian không tổ chức dạy học. Tổng mức thu không vượt quá tổng học phí tính theo số tháng tối đa của một năm học và phải công khai từ đầu năm học.",
+        "expected_context": "Trường hợp xảy ra thiên tai, dịch bệnh, các sự kiện bất khả kháng thì học phí được thu theo số tháng học thực tế (bao gồm cả thời gian tổ chức dạy học trực tuyến hoặc bố trí thời gian học bù tại trường); không thu học phí trong thời gian không tổ chức dạy học.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-97",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-99",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-119",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-120",
+          "legal/nghidinh-hop-nhat-co-che-thu-hoc-phi.md::chunk-104"
+        ]
+      },
+      {
+        "question": "Giờ nghỉ tại ký túc xá được quy định vào những khung giờ nào?",
+        "answer": "Giờ nghỉ tại ký túc xá được quy định vào các khung giờ sau: Buổi trưa từ 12 giờ đến 13 giờ và buổi tối từ 23 giờ đến 5 giờ sáng hôm sau [Document 1].",
+        "contexts": [
+          "riêng.\nĐiều 3. Quy định về sinh họat\n1. SV nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy\nđịnh.\n2. Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ\n12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau).\n3. Không được qua khu vực KTX SV khác giới; Không tiếp khách trong phòng ở\n(kể cả SV nội trú ở phòng khác).\n4. Không hút thuốc trong phòng ở và khu vực công cộng.\n5. Không treo màn che (ri-đô) quanh giường ngủ; Quần áo, đồ dùng cá nhân,",
+          "Hiệu trưởng ban hành “Quy định quản lý khu ký túc xá và sinh viên nội trú” áp dụng\n\ntrong nội bộ Trường.\n\nĐiều 1. Quy định chung\n\n1. Quy định này quy định về Ký túc xá; đối tượng được ở trong Ký túc xá; đối tượng được\nxét vào ở trong Ký túc xá; quyền và nghĩa vụ của Trung tâm dịch vụ trường học và sinh viên nội\ntrú; quản lý Ký túc xá và sinh viên nội trú.\n\n2. Ký túc xá (KTX) của Trường bao gồm toàn bộ đất đai, cơ sở hạ tầng và các công",
+          "NỘI QUY\nVề công tác nội trú tại Ký túc xá Trường Đại học Cần Thơ\n(Ban hành kèm theo Quyết định thành lập Trung tâm Phục vụ sinh viên Số: 1944/QĐ-\nĐHCT, ngày 04/6/2013 của Hiệu trưởng Trường ĐHCT)\nÁp dụng từ năm học 2016 - 2017\nĐiều 1. Đối tượng áp dụng\nNội quy này áp dụng cho tất cả sinh viên các hệ đào tạo tại Trường, học viên sau\nđại học (gọi chung là SV) được xét duyệt vào ở Ký túc xá (KTX) Trường Đại học Cần",
+          "Đối với những học phần lý thuyết hoặc thực hành, thí nghiệm để tiếp thu được một\ntín chỉ sinh viên phải dành ít nhất 30 giờ chuẩn bị cá nhân (tự nghiên cứu, làm bài tập theo\nyêu cầu của giảng viên).\n5. Việc tính số giờ giảng dạy của giảng viên cho các học phần trên cơ sở số giờ giảng\ndạy trên lớp, số giờ thực hành, thực tập (theo danh mục chương trình đào đạo được phát\nhành hằng năm), số giờ chuẩn bị khối lượng tự học cho sinh viên, đánh giá kết quả tự học",
+          "phần bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày. Ban Quản lý đào tạo lập Thời khóa\nbiểu dự kiến của học kỳ sau để sinh viên đăng ký, sau khi có Thời khóa biểu chính thức sẽ\ngửi cho các khoa, bộ môn và đưa lên website cho sinh viên biết chậm nhất hai tuần lễ trước\nkhi kết thúc học kỳ.\n4. Trong từng học kỳ, Ban Quản lý đào tạo làm việc với các bộ môn để xây dựng kế\nhoạch thực hành, thực tập các môn học, đồng thời quy định số nhóm thực hành, thực tập,\nseminar của từng lớp."
+        ],
+        "reference": "Sinh viên không được làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ: buổi trưa từ 12 giờ đến 13 giờ và buổi tối từ 23 giờ đến 5 giờ sáng hôm sau.",
+        "expected_context": "Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ 12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau).",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/noi-quy-ktx-ctu.md::chunk-5",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-2",
+          "legal/noi-quy-ktx-ctu.md::chunk-1",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-38",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-61"
+        ]
+      },
+      {
+        "question": "Sinh viên gửi xe tại nhà xe ký túc xá có phải trả phí không?",
+        "answer": "Sinh viên gửi xe đạp tại nhà xe ký túc xá được miễn phí. Tuy nhiên, đối với xe mô tô và xe đạp điện, sinh viên phải nộp phí theo quy định. Nếu sinh viên không nộp phí gửi xe, họ sẽ phải trả theo mức phí vãng lai sau mỗi lần gửi [Document 1].",
+        "contexts": [
+          "động hoặc tham gia ký đơn tập thể.\nĐiều 7. Quy định về sử dụng nhà xe KTX\n1. Nhà xe KTX chủ yếu để phục vụ SV nội trú. SV gởi xe đạp được miễn phí; Xe\nmô tô, xe đạp điện nộp phí theo quy định (SV không nộp phí gởi xe thì trả theo mức\nphí vãng lai sau mỗi lần gởi).\n2. Mỗi SV chỉ đăng ký gởi 1 phương tiện (xe đạp, hoặc mô tô, hoặc xe đạp điện)\nđể được hưởng ưu đãi như ở khoản 1 - Điều 7 Nội quy này. Nếu mỗi SV gởi hơn 1",
+          "phương tiện thì từ phương tiện thứ 2 trở đi, SV phải nộp theo mức phí vãng lại.\n3. Nhà xe phục vụ giữ xe cho SV theo học kỳ. Thời gian nghỉ Tết Nguyên đán và\nthời gian nghỉ Hè, SV phải lấy xe ra khỏi nhà xe để thực hiện công tác vệ sinh, bảo trì,\nsắp xếp nhà xe. SV có nhu cầu gởi lại xe trong thời gian này thì làm thủ tục và nộp phí\ntheo quy định.\n4. Sau mỗi năm học, các xe vô chủ, xe gởi quá thời hạn TT. PVSV sẽ đề xuất nhà",
+          "trường xử lý (thanh lý). Thẻ giữ xe, phiếu giữ xe quá hạn sau mỗi học kỳ xem như\nkhông còn giá trị, nhà xe không chịu trách nhiệm về hư hỏng, mất mát. Các trường\nhợp lấy xe quá thời hạn, SV phải chi trả phí vãng lai thời gian lấy trễ.\nĐiều 8. Quy định về sử dụng điện, nước và chi trả phí điện, nước\n1. Mỗi phòng ở SV được lắp đặt đồng hồ đo chỉ số điện và nước (trừ các dãy nhà\ncó cấu trúc đặc biệt). Hàng tháng, SV chi trả phí điện, nước theo chỉ số sử dụng thực",
+          "và có giá trị trong năm học. Năm học tiếp theo, nếu có nhu cầu ở nội trú, SV phải\nthực hiện lại các thủ tục và được sắp xếp lại chỗ ở mới.\n3. SV phải tuân theo sự quản lý, điều động, sắp xếp chỗ ở của TT. PVSV; Nếu có\nnhu cầu thay đổi chỗ ở phải được sự đồng ý của TT. PVSV.\n4. Phí KTX nộp theo học kỳ (vào đầu mỗi học kỳ). Quá thời gian quy định, nếu\nSV không nộp phí KTX, xem như SV không có nhu cầu ở, hệ thống sẽ hủy bỏ chỗ ở",
+          "Thí sinh và phụ huynh có thể xem thông tin tuyển sinh năm 2026 tại tuyensinh.vnkgu.edu.vn, Fanpage Trường Đại học Kiên Giang hoặc liên hệ 0297 396 8888 để được tư vấn.\n###  Tin liên quan\nChia sẻ\nGửi bình luận\n### Bình luận\nGửi bình luận\nXEM THÊM BÌNH LUẬN\n6 giờ trước\n###  Tin tiêu điểm\nGD&TĐ - Những xe bọc thép chở quân sử dụng khung gầm xe tăng chiến đấu chủ lực có lẽ là phương tiện cần thiết với Quân đội Nga hiện nay."
+        ],
+        "reference": "Sinh viên gửi xe đạp được miễn phí; xe mô tô và xe đạp điện phải nộp phí theo quy định. Mỗi sinh viên chỉ được đăng ký gửi một phương tiện để hưởng ưu đãi, từ phương tiện thứ hai trở đi phải nộp theo mức phí vãng lai.",
+        "expected_context": "Nhà xe KTX chủ yếu để phục vụ SV nội trú. SV gởi xe đạp được miễn phí; Xe mô tô, xe đạp điện nộp phí theo quy định. Mỗi SV chỉ đăng ký gởi 1 phương tiện để được hưởng ưu đãi.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/noi-quy-ktx-ctu.md::chunk-16",
+          "legal/noi-quy-ktx-ctu.md::chunk-17",
+          "legal/noi-quy-ktx-ctu.md::chunk-18",
+          "legal/noi-quy-ktx-ctu.md::chunk-3",
+          "news/article_04.md::chunk-12"
+        ]
+      },
+      {
+        "question": "Sinh viên nội trú rời khỏi ký túc xá bao nhiêu ngày thì phải báo cáo, và báo cho ai?",
+        "answer": "Sinh viên nội trú khi rời khỏi ký túc xá dưới 05 ngày (trừ những ngày nghỉ được Trường quy định) phải báo với Phòng trưởng (người đại diện của mỗi phòng, được chỉ định hay do sinh viên cử ra). Nếu rời khỏi ký túc xá từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với Giám thị [Document 5].",
+        "contexts": [
+          "Hiệu trưởng ban hành “Quy định quản lý khu ký túc xá và sinh viên nội trú” áp dụng\n\ntrong nội bộ Trường.\n\nĐiều 1. Quy định chung\n\n1. Quy định này quy định về Ký túc xá; đối tượng được ở trong Ký túc xá; đối tượng được\nxét vào ở trong Ký túc xá; quyền và nghĩa vụ của Trung tâm dịch vụ trường học và sinh viên nội\ntrú; quản lý Ký túc xá và sinh viên nội trú.\n\n2. Ký túc xá (KTX) của Trường bao gồm toàn bộ đất đai, cơ sở hạ tầng và các công",
+          "8. Không được nấu ăn trong phòng ở và khu vực KTX (Trừ các dãy nhà có thiết\nkế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A); Không để thức ăn, thực phẩm\nvào tủ đựng đồ.\n9. SV khi rời khỏi KTX dưới 05 ngày (trừ những ngày nghỉ được Trường quy\nđịnh) phải báo với Phòng trưởng (người đại diện của mỗi phòng, được chỉ định hay do\nSV cử ra); Nếu rời khỏi KTX từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với\nGiám thị.\nĐiều 4. Quy định về sử dụng phòng ở",
+          "5. Một tháng trước  khi hợp đồng hết hạn, Trung tâm dịch  vụ trường học thông báo\n\ncho  sinh viên nội trú biết.\n\nKhi hợp đồng hết hiệu lực, HSSV thực hiện thủ tục thanh toán tại bộ phận kế toán và\n\nchuyển ra khỏi KTX.\n\nĐiều 3. Quyền và nghĩa vụ của  sinh viên ở nội trú\n\n1. Quyền hạn của sinh viên nội trú\n\n- Sinh viên nội trú được quyền ở, tự học và sinh hoạt trong KTX theo đúng hợp đồng\n\nđã ký;\n\n- Được sử dụng các trang thiết bị do KTX cung cấp để phục vụ cho việc ăn, ở, tự học,\n\nsinh hoạt;",
+          "- Sinh viên nội trú vi phạm quy định KTX, tuỳ theo mức độ sẽ bị xử lý kỷ luật từ hình\nthức khiển trách, cảnh cáo, đưa ra khỏi KTX, đình chỉ học tập, buộc thôi học đến truy cứu\ntrách nhiệm hình sự.\n\nĐiều 7. Điều khoản thi hành\n\nTrưởng các đơn vị có trách nhiệm phố biến Quy định này đến toàn thể cán bộ viên chức\n\nđể thống nhất thực hiện trong toàn Trường. Các đơn vị và cá nhân phải nghiêm chỉnh thực hiện,\n\nnếu vi phạm sẽ bị xử lý theo pháp luật và theo quy định của Nhà trường.",
+          "riêng.\nĐiều 3. Quy định về sinh họat\n1. SV nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy\nđịnh.\n2. Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ\n12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau).\n3. Không được qua khu vực KTX SV khác giới; Không tiếp khách trong phòng ở\n(kể cả SV nội trú ở phòng khác).\n4. Không hút thuốc trong phòng ở và khu vực công cộng.\n5. Không treo màn che (ri-đô) quanh giường ngủ; Quần áo, đồ dùng cá nhân,"
+        ],
+        "reference": "Rời khỏi ký túc xá dưới 05 ngày thì phải báo với Phòng trưởng. Nếu rời khỏi từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với Giám thị. Không tính những ngày nghỉ được Trường quy định.",
+        "expected_context": "SV khi rời khỏi KTX dưới 05 ngày (trừ những ngày nghỉ được Trường quy định) phải báo với Phòng trưởng; Nếu rời khỏi KTX từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với Giám thị.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-2",
+          "legal/noi-quy-ktx-ctu.md::chunk-7",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-6",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-17",
+          "legal/noi-quy-ktx-ctu.md::chunk-5"
+        ]
+      },
+      {
+        "question": "Tiền điện nước của phòng ở ký túc xá được tính như thế nào?",
+        "answer": "Tiền điện nước của phòng ở ký túc xá được tính dựa trên chỉ số sử dụng thực tế. Cụ thể, mỗi phòng ở sinh viên được lắp đặt đồng hồ đo chỉ số điện và nước. Hàng tháng, đại diện sinh viên sẽ ghi chỉ số điện nước vào bảng theo dõi, và Giám thị sẽ ghi nhận để tính chi phí mà sinh viên phải chi trả hàng tháng. Nếu sinh viên chậm trễ trong việc ghi chỉ số hàng tháng, Giám thị sẽ áp chỉ số bình quân hàng tháng để tạm tính chi phí [Document 1], [Document 3].",
+        "contexts": [
+          "tế. Đầu mỗi học kỳ, đại diện SV tại phòng ở sẽ ký Biên bản xác nhận chỉ số điện, nước\ncủa phòng ở (ghi nhận chỉ số đầu học kỳ), làm cơ sở theo dõi và đối soát số liệu cuối\nhọc kỳ.\n2. Hàng tháng (thời điểm cụ thể ngày giờ do Giám thị thông báo), đại diện SV\nphòng ở ghi chỉ số điện nước vào bảng theo dõi, Giám thị ghi nhận để tính chi phí SV\nphải chi trả hàng tháng. Trường hợp SV chậm trễ trong công tác ghi chỉ số hàng tháng,\nGiám thị sẽ áp chỉ số bình quân hàng tháng để tạm tính.",
+          "- Việc thanh lý hợp đồ ng trư cớ  hạn áp dụng theo quy định hiện h ành của Nh à\n- Đóng tiền nội trú KTX theo quy định tại quyết định số /TCKT - ĐHYHN\ncủa Hiệu tr ư nở g ký ngày / / về việc thu phí nội trú Ký túc xá Đại\n+\nHọc vi ên dài hạn (trên 6 tháng): đóng tiền l àm 02 lần / năm, ngay khi ký và gia\n+\nHọc vi ên ngắn hạn (dư iớ  6 tháng): đóng tiền một lần ngay khi ký hợp đồng.",
+          "trư nở g về việc ban hành Quy chế công tác Sinh vi ên, Học vi ên nội trú Ký túc xá\nCăn cứ theo quyết định số /TCKT -ĐHYHN ngày / / của Hiệu\n| trư | nở g về việc thu phí nội trú Ký túc xá Đại học Y H |     |     |     |     |     | à Nội. |     |\nCăn  cứ  v ào  đnơ   xin  n ội  trú  KTX  Đại  học  Y  H à  Nội  của  SV/  HV:\nHôm nay, | ngày ……. tháng …... năm\nChúng tôi gồm:\nBên A: Ông/ Bà Bên B: Họ, t ên:\n-Chcứ v:ụ Trư ở ng banqunả lý KTX -ĐSSV - Sinh ngày: / / Giiớ tính : Nam/ Nữ",
+          "Hiệu trưởng ban hành “Quy định quản lý khu ký túc xá và sinh viên nội trú” áp dụng\n\ntrong nội bộ Trường.\n\nĐiều 1. Quy định chung\n\n1. Quy định này quy định về Ký túc xá; đối tượng được ở trong Ký túc xá; đối tượng được\nxét vào ở trong Ký túc xá; quyền và nghĩa vụ của Trung tâm dịch vụ trường học và sinh viên nội\ntrú; quản lý Ký túc xá và sinh viên nội trú.\n\n2. Ký túc xá (KTX) của Trường bao gồm toàn bộ đất đai, cơ sở hạ tầng và các công",
+          "trường xử lý (thanh lý). Thẻ giữ xe, phiếu giữ xe quá hạn sau mỗi học kỳ xem như\nkhông còn giá trị, nhà xe không chịu trách nhiệm về hư hỏng, mất mát. Các trường\nhợp lấy xe quá thời hạn, SV phải chi trả phí vãng lai thời gian lấy trễ.\nĐiều 8. Quy định về sử dụng điện, nước và chi trả phí điện, nước\n1. Mỗi phòng ở SV được lắp đặt đồng hồ đo chỉ số điện và nước (trừ các dãy nhà\ncó cấu trúc đặc biệt). Hàng tháng, SV chi trả phí điện, nước theo chỉ số sử dụng thực"
+        ],
+        "reference": "Mỗi phòng được lắp đồng hồ đo chỉ số điện và nước, sinh viên chi trả hàng tháng theo chỉ số sử dụng thực tế. Đầu mỗi học kỳ đại diện phòng ký biên bản xác nhận chỉ số. Nếu sinh viên chậm ghi chỉ số hàng tháng, Giám thị sẽ áp chỉ số bình quân để tạm tính.",
+        "expected_context": "Mỗi phòng ở SV được lắp đặt đồng hồ đo chỉ số điện và nước. Hàng tháng, SV chi trả phí điện, nước theo chỉ số sử dụng thực tế. Trường hợp SV chậm trễ trong công tác ghi chỉ số hàng tháng, Giám thị sẽ áp chỉ số bình quân hàng tháng để tạm tính.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/noi-quy-ktx-ctu.md::chunk-19",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-38",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-32",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-2",
+          "legal/noi-quy-ktx-ctu.md::chunk-18"
+        ]
+      },
+      {
+        "question": "Quy định về quản lý khu ký túc xá và sinh viên nội trú được ban hành kèm theo quyết định số nào?",
+        "answer": "Quy định về quản lý khu ký túc xá và sinh viên nội trú được ban hành kèm theo Quyết định số 02/QĐ-NNH ngày 02 tháng 01 năm 2013 của Hiệu trưởng Trường Đại học Nông nghiệp Hà Nội [Document 4].",
+        "contexts": [
+          "Hiệu trưởng ban hành “Quy định quản lý khu ký túc xá và sinh viên nội trú” áp dụng\n\ntrong nội bộ Trường.\n\nĐiều 1. Quy định chung\n\n1. Quy định này quy định về Ký túc xá; đối tượng được ở trong Ký túc xá; đối tượng được\nxét vào ở trong Ký túc xá; quyền và nghĩa vụ của Trung tâm dịch vụ trường học và sinh viên nội\ntrú; quản lý Ký túc xá và sinh viên nội trú.\n\n2. Ký túc xá (KTX) của Trường bao gồm toàn bộ đất đai, cơ sở hạ tầng và các công",
+          "|     |                 | BỘ Y TẾ |     |     |       |     | CỘNG H | ÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |     |                    |     |\n| TRƯ | ỜNG ĐẠI HỌC Y H |         |     |     | À NỘI |     |        | Độc lập                      |     | - Tự do - Hạnh phú | c   |\nQUY ĐỊNH\nVề công tác quản lý Sinh vi ên, Học vi ên nội trú Ký túc xá Đại học Y H à Nội\n(Ban hành kèm theo Quyết định số 3684/QĐ-ĐHYHN, ngày 16/9/2016",
+          "NỘI QUY\nVề công tác nội trú tại Ký túc xá Trường Đại học Cần Thơ\n(Ban hành kèm theo Quyết định thành lập Trung tâm Phục vụ sinh viên Số: 1944/QĐ-\nĐHCT, ngày 04/6/2013 của Hiệu trưởng Trường ĐHCT)\nÁp dụng từ năm học 2016 - 2017\nĐiều 1. Đối tượng áp dụng\nNội quy này áp dụng cho tất cả sinh viên các hệ đào tạo tại Trường, học viên sau\nđại học (gọi chung là SV) được xét duyệt vào ở Ký túc xá (KTX) Trường Đại học Cần",
+          "# quy dinh quan ly ktx sinh vien noi tru vnua\n\n**Source:** quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.pdf\n\n---\n\nQUY ĐỊNH\n\nVỀ QUẢN LÝ KHU KÝ TÚC XÁ VÀ SINH VIÊN NỘI TRÚ\n\n(Ban hành kèm theo Quyết định số 02/QĐ-NNH ngày 02 tháng 01 năm 2013\n\ncủa Hiệu trưởng Trường Đại học Nông nghiệp Hà Nội)",
+          "trư nở g về việc ban hành Quy chế công tác Sinh vi ên, Học vi ên nội trú Ký túc xá\nCăn cứ theo quyết định số /TCKT -ĐHYHN ngày / / của Hiệu\n| trư | nở g về việc thu phí nội trú Ký túc xá Đại học Y H |     |     |     |     |     | à Nội. |     |\nCăn  cứ  v ào  đnơ   xin  n ội  trú  KTX  Đại  học  Y  H à  Nội  của  SV/  HV:\nHôm nay, | ngày ……. tháng …... năm\nChúng tôi gồm:\nBên A: Ông/ Bà Bên B: Họ, t ên:\n-Chcứ v:ụ Trư ở ng banqunả lý KTX -ĐSSV - Sinh ngày: / / Giiớ tính : Nam/ Nữ"
+        ],
+        "reference": "Ban hành kèm theo Quyết định số 02/QĐ-NNH ngày 02 tháng 01 năm 2013 của Hiệu trưởng Trường Đại học Nông nghiệp Hà Nội.",
+        "expected_context": "QUY ĐỊNH VỀ QUẢN LÝ KHU KÝ TÚC XÁ VÀ SINH VIÊN NỘI TRÚ (Ban hành kèm theo Quyết định số 02/QĐ-NNH ngày 02 tháng 01 năm 2013 của Hiệu trưởng Trường Đại học Nông nghiệp Hà Nội).",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-2",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-1",
+          "legal/noi-quy-ktx-ctu.md::chunk-1",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-0",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-32"
+        ]
+      },
+      {
+        "question": "Sau khi nộp hồ sơ đăng ký ở nội trú, trong bao lâu sinh viên được trả lời kết quả?",
+        "answer": "Sau khi nộp hồ sơ đăng ký ở nội trú, sinh viên sẽ nhận được phản hồi về kết quả trong thời hạn tối đa là 3 ngày [Document 1].",
+        "contexts": [
+          "hợp đồng ở nội trú cho năm học hoặc học kỳ sau.\n\n3. Sau khi nhận đủ hồ sơ hợp lệ đăng ký ở nội trú của HSSV, trong thời hạn tối đa là\n3 ngày, Trung tâm dịch vụ trường học phải trả lời cho HSSV về việc chấp nhận, trường hợp\nkhông chấp nhận cần giải thích rõ lý do.\n\n4. Việc ký hợp đồng nội trú được thực hiện trong thời hạn tối đa là 3 ngày kể từ khi\nHSSV được chấp nhận ở nội trú, Trung tâm dịch vụ trường học và sinh viên nội trú phải ký\nhợp đồng nội trú (Theo mẫu).",
+          "Điều 2. Thủ tục ở nội trú\n\n1. SV có nguyện vọng ở nội trú mới xin ở nội trú lần đầu, phải nộp hồ sơ đăng ký với\n\nTrung tâm dịch vụ trường học (mẫu Phụ lục).\n\n Đối với SV hồ sơ bao gồm:\n\n- Đơn xin vào nội trú (mẫu Phụ lục)\n\n\f- Các giấy tờ chứng nhận là đối tượng ưu tiên (nếu có)\n\n- Giấy nhập học (nếu là SV năm thứ nhất) hoặc thẻ Học viên, sinh viên (nếu là sinh\n\nviên từ năm thứ 2 trở lên)\n\n2 Đối với SV đã được bố trí ở nội trú khi hợp đồng nội trú hết thời hạn phải ký lại",
+          "- Mục 2: Đăng ký ở KTX dành cho người học đăng ký miễn giảm giá phòng ở.\n**4.2. Phản hồi kết quả đăng ký**\nTrung tâm phản hồi kết quả qua địa chỉ email người học đã đăng ký trên phần mềm trong vòng 24 giờ kể từ khi hệ thống xác nhận đăng ký thành công (Chú ý: email sử dụng để đăng ký chính là email nhận được kết quả duyệt phòng ở, cần kiểm tra email ở hộp thư đến, spam, rác trong vòng 24 giờ từ khi đăng ký thành công).\n**5. Hồ sơ, thủ tục đăng ký và nhận phòng ở**\n**5.1. Hồ sơ đăng ký**",
+          "2. Sau khi xem xét thấy đủ điều kiện nhập học, Ban Quản lý đào tạo trình Giám đốc\nHọc viện ký Quyết định công nhận người đến học là sinh viên chính thức của Học viện và\ncấp cho sinh viên: Thẻ sinh viên, Sổ tay sinh viên và Danh mục chương trình đào tạo.\n3. Mọi thủ tục đăng ký nhập học phải được hoàn thành trong thời hạn 15 ngày kể từ\nngày nhập học ghi trong giấy triệu tập trúng tuyển. Nếu đến chậm do ốm đau, tai nạn, có",
+          "**7.3. Hoàn trả lệ phí nội trú khi người học ra KTX trước thời gian đăng ký**\n- Không hoàn trả: Người học trả phòng trước thời gian ở đã đăng ký, không có tên trong danh sách CSĐT phản hồi sinh viên của Trường."
+        ],
+        "reference": "Trong thời hạn tối đa 3 ngày kể từ khi nhận đủ hồ sơ hợp lệ, Trung tâm dịch vụ trường học phải trả lời về việc chấp nhận; nếu không chấp nhận phải giải thích rõ lý do. Việc ký hợp đồng nội trú cũng được thực hiện trong tối đa 3 ngày kể từ khi sinh viên được chấp nhận.",
+        "expected_context": "Sau khi nhận đủ hồ sơ hợp lệ đăng ký ở nội trú của HSSV, trong thời hạn tối đa là 3 ngày, Trung tâm dịch vụ trường học phải trả lời cho HSSV về việc chấp nhận, trường hợp không chấp nhận cần giải thích rõ lý do.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-5",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-4",
+          "news/article_06.md::chunk-4",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-64",
+          "news/article_06.md::chunk-14"
+        ]
+      },
+      {
+        "question": "Sinh viên được thông báo trước bao lâu khi hợp đồng nội trú sắp hết hạn?",
+        "answer": "Sinh viên được thông báo trước một tháng khi hợp đồng nội trú sắp hết hạn [Document 1], [Document 3].",
+        "contexts": [
+          "5. Một tháng trước  khi hợp đồng hết hạn, Trung tâm dịch  vụ trường học thông báo\n\ncho  sinh viên nội trú biết.\n\nKhi hợp đồng hết hiệu lực, HSSV thực hiện thủ tục thanh toán tại bộ phận kế toán và\n\nchuyển ra khỏi KTX.\n\nĐiều 3. Quyền và nghĩa vụ của  sinh viên ở nội trú\n\n1. Quyền hạn của sinh viên nội trú\n\n- Sinh viên nội trú được quyền ở, tự học và sinh hoạt trong KTX theo đúng hợp đồng\n\nđã ký;\n\n- Được sử dụng các trang thiết bị do KTX cung cấp để phục vụ cho việc ăn, ở, tự học,\n\nsinh hoạt;",
+          "hợp đồng ở nội trú cho năm học hoặc học kỳ sau.\n\n3. Sau khi nhận đủ hồ sơ hợp lệ đăng ký ở nội trú của HSSV, trong thời hạn tối đa là\n3 ngày, Trung tâm dịch vụ trường học phải trả lời cho HSSV về việc chấp nhận, trường hợp\nkhông chấp nhận cần giải thích rõ lý do.\n\n4. Việc ký hợp đồng nội trú được thực hiện trong thời hạn tối đa là 3 ngày kể từ khi\nHSSV được chấp nhận ở nội trú, Trung tâm dịch vụ trường học và sinh viên nội trú phải ký\nhợp đồng nội trú (Theo mẫu).",
+          "|     | +       | Sinh viên: đóng tiền  |                 |                        | vào đầu học kỳ | (02 kỳ / năm).     |\n|     | Điều 4: | Hợp đồng hết hiệu lực |                 |                        | khi:           |                    |\n|     | -       | Thiờ  hạn             | trên hợp đồng đ |                        | ã kết thúc.    |                    |\n|     | -       | SVHV                  | nội trú         | KTX đã tốt nghiệp hoặc |                | kết thúc khóa học. |",
+          "2. Ðối viớ  ng ư iờ  đ ã đư cợ  bố trí nội trú KTX khi hpợ  đồng nội trú KTX hết thiờ\nhạn phải làm thủ tục ký lại hpợ  đồng nội trú KTX cho năm học hoặc họ c kỳ\nsau.\n3. Sau khi nhận đủ hồ s  ơ h pợ  lệ đă ng ký nội trú KTX của SVHV, trong thiờ hạn\ntối đa l à 7 ngày, Ban quản lý KTX – ĐSSV sẽ phản hồi thông tin về việc nội\ntrú KTX.\n4. Trong thời hạn tối đa 7 ngày kể từ khi SVHV đư cợ duyệt ở , SVHV phải ký\nhpợ  đồng nội trú KTX viớ Trư nở g ban (theo biểu mẫu 2 tại p hụ lục 3).",
+          "- Một tháng tr ư ớ c khi hợp đồng hết hạn, Ban quản lý KTX - ĐSSV sẽ báo cho\nngư iờ nội trú KTX biết để gia hạn tiếp hoặc làm thủ tục thanh lý khi hpợ\n- Khi hpợ  đồng hết hiệu lực, ng ư iờ nội trú KTX phải ra khỏi khu nội trú KTX;\n- Việc gia hạn hpợ  đồng hoặc ký hpợ  đồng miớ  đều phải tuân thủ quy định\nnày.\nĐiều 3\n|     | Quyền hạn v | à nghĩa vụ của SVHV nội trú KTX |     |     |     |\n1. Quyền hạn của SVHV nội trú KTX:"
+        ],
+        "reference": "Một tháng trước khi hợp đồng hết hạn, Trung tâm dịch vụ trường học thông báo cho sinh viên nội trú biết. Khi hợp đồng hết hiệu lực, sinh viên làm thủ tục thanh toán tại bộ phận kế toán và chuyển ra khỏi ký túc xá.",
+        "expected_context": "Một tháng trước khi hợp đồng hết hạn, Trung tâm dịch vụ trường học thông báo cho sinh viên nội trú biết. Khi hợp đồng hết hiệu lực, HSSV thực hiện thủ tục thanh toán tại bộ phận kế toán và chuyển ra khỏi KTX.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-6",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-5",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-39",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-8",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-9"
+        ]
+      },
+      {
+        "question": "Một tín chỉ được quy định bằng bao nhiêu tiết học lý thuyết và bao nhiêu tiết thực hành?",
+        "answer": "Một tín chỉ được quy định bằng 15 tiết học lý thuyết và 30 tiết thực hành, thí nghiệm, thực tập tại cơ sở [Document 1].",
+        "contexts": [
+          "viên được tự chọn nhằm mở rộng kiến thức chuyên môn hoặc để tích lũy đủ số tín chỉ\nquy định cho mỗi chương trình.\n4. Tín chỉ được sử dụng để tính khối lượng học tập của sinh viên. Một tín chỉ được\nquy định bằng 15 tiết học lý thuyết; 30 tiết thực hành, thí nghiệm, thực tập tại cơ sở (một\ntiết học được tính bằng 50 phút); hoặc 45 giờ làm tiểu luận, đồ án, khóa luận tốt nghiệp.\n10",
+          "5. Chương trình được thực hiện với khối lượng kiến thức tối thiểu tích lũy 150-180\ntín chỉ đối với khóa đại học 5 năm; 120-146 tín chỉ đối với khóa đại học 4 năm, không bao\ngồm khối lượng các học phần Giáo dục thể chất và Giáo dục quốc phòng - an ninh. Số tín\nchỉ cụ thể của từng chương trình đào tạo được quy định trong cuốn Danh mục chương trình\nđào tạo được Học viện ban hành trước mỗi khóa học.\n6. Kế hoạch học tập chuẩn toàn khóa của chương trình trong Học viện đối với hình",
+          "Đối với những học phần lý thuyết hoặc thực hành, thí nghiệm để tiếp thu được một\ntín chỉ sinh viên phải dành ít nhất 30 giờ chuẩn bị cá nhân (tự nghiên cứu, làm bài tập theo\nyêu cầu của giảng viên).\n5. Việc tính số giờ giảng dạy của giảng viên cho các học phần trên cơ sở số giờ giảng\ndạy trên lớp, số giờ thực hành, thực tập (theo danh mục chương trình đào đạo được phát\nhành hằng năm), số giờ chuẩn bị khối lượng tự học cho sinh viên, đánh giá kết quả tự học",
+          "thực tập phục vụ học phần (mẫu đề cương học phần do Trung tâm Đảm bảo chất lượng\ncông bố).\nTừng học phần được ký hiệu bằng một mã riêng được quy định như sau: Mã học phần\nbậc đại học gồm 2 ký tự chữ viết tắt tên Khoa phụ trách học phần và 5 ký tự số trong đó 2\nký tự số đầu tiên chỉ học phần ở khối kiến thức (thông thường 01: đại cương, 02: cơ sở\nngành, 03: chuyên ngành, 04: Khóa luận tốt nghiệp và được quy định trong đề cương chi\ntiết học phần), 3 ký tự số sau do Khoa chuyên môn quy định.",
+          "c. Hoạt động dạy học trực tuyến được thực hiện theo thời khóa biểu học kỳ với nội\ndung dạy học theo đề cương chi tiết học phần được phê duyệt.\nChương IV\nĐÁNH GIÁ KẾT QUẢ HỌC TẬP VÀ CẤP BẰNG TỐT NGHIỆP\nĐiều 17. Đánh giá và tính điểm học phần\n1. Đối với các học phần chỉ có lý thuyết hoặc có cả lý thuyết và thực hành: Tùy theo\ntính chất của học phần, điểm tổng hợp đánh giá học phần (sau đây gọi tắt là điểm học phần)"
+        ],
+        "reference": "Một tín chỉ được quy định bằng 15 tiết học lý thuyết, 30 tiết thực hành, thí nghiệm hoặc thực tập tại cơ sở, hoặc 45 giờ làm tiểu luận, đồ án, khóa luận tốt nghiệp. Một tiết học được tính bằng 50 phút. Để tiếp thu một tín chỉ, sinh viên phải dành ít nhất 30 giờ chuẩn bị cá nhân.",
+        "expected_context": "Một tín chỉ được quy định bằng 15 tiết học lý thuyết; 30 tiết thực hành, thí nghiệm, thực tập tại cơ sở (một tiết học được tính bằng 50 phút); hoặc 45 giờ làm tiểu luận, đồ án, khóa luận tốt nghiệp.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-37",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-27",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-38",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-35",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-85"
+        ]
+      },
+      {
+        "question": "Chương trình đại học 4 năm và 5 năm yêu cầu tích lũy tối thiểu bao nhiêu tín chỉ?",
+        "answer": "Chương trình đại học 4 năm yêu cầu tích lũy tối thiểu 120-146 tín chỉ, trong khi chương trình đại học 5 năm yêu cầu tích lũy tối thiểu 150-180 tín chỉ. Số tín chỉ cụ thể của từng chương trình đào tạo được quy định trong cuốn Danh mục chương trình đào tạo được Học viện ban hành trước mỗi khóa học [Document 1].",
+        "contexts": [
+          "5. Chương trình được thực hiện với khối lượng kiến thức tối thiểu tích lũy 150-180\ntín chỉ đối với khóa đại học 5 năm; 120-146 tín chỉ đối với khóa đại học 4 năm, không bao\ngồm khối lượng các học phần Giáo dục thể chất và Giáo dục quốc phòng - an ninh. Số tín\nchỉ cụ thể của từng chương trình đào tạo được quy định trong cuốn Danh mục chương trình\nđào tạo được Học viện ban hành trước mỗi khóa học.\n6. Kế hoạch học tập chuẩn toàn khóa của chương trình trong Học viện đối với hình",
+          "đào tạo đại học theo hệ thống tín chỉ hiện hành tại trường Đại học Quốc tế.\nb) Điểm tất cả các môn trong học kỳ ≥ 50/100 (kể cả môn Giáo dục thể chất, Giáo\ndục quốc phòng – An ninh và các môn không tính điểm trung bình).\nc) Sinh viên phải tích lũy tối thiểu 15 tín chỉ trong học kỳ dùng để xét duy trì\nHBTS (không bao gồm các môn tại điểm a khoản 1 Điều này). Trường hợp ngành có\nsố tín chỉ đào tạo trong học kỳ thấp hơn tiêu chuẩn do thiết kế của chương trình đào tạo,",
+          "c. Sinh viên năm thứ ba: Nếu khối lượng kiến thức tích lũy từ 66 tín chỉ đến dưới 99 tín chỉ;\nd. Sinh viên năm thứ tư: Nếu khối lượng kiến thức tích lũy từ 99 tín chỉ đến dưới 132 tín chỉ;\nđ. Sinh viên năm thứ năm: Nếu khối lượng kiến thức tích lũy từ 132 tín chỉ đến dưới 164 tín chỉ;\ne. Sinh viên năm thứ sáu: Nếu khối lượng kiến thức tích lũy từ 164 tín chỉ trở lên.",
+          "Từ 3,60 đến 4,00: Xuất sắc;\nTừ 3,20 đến 3,59: Giỏi;\nTừ 2,50 đến 3,19: Khá;\nTừ 2,00 đến 2,49: Trung bình;\nTừ 1,00 đến 1,99: Yếu;\nDưới 1,00: Kém.\n4. Sau mỗi học kỳ, căn cứ vào khối lượng kiến thức tích lũy, sinh viên được xếp hạng\nnăm đào tạo như sau:\na. Sinh viên năm thứ nhất: Nếu khối lượng kiến thức tích lũy dưới 33 tín chỉ;\nb. Sinh viên năm thứ hai: Nếu khối lượng kiến thức tích lũy từ 33 tín chỉ đến dưới 66 tín chỉ;",
+          "08 học kỳ chính và 03 học kỳ hè theo đúng tiến độ chương trình đào tạo chuẩn của khóa\ntrúng tuyển.\n- Các ngành có thời gian đào tạo 4,5 năm: mỗi sinh viên được xét học bổng tối đa\n09 học kỳ chính và 04 học kỳ hè theo đúng tiến độ chương trình đào tạo chuẩn của khóa\ntrúng tuyển.\nb) Đối với sinh viên học các chương trình liên kết do trường Đại học nước ngoài\ncấp bằng:\n- Mô hình liên kết 2+1; 2+2; 2.5+1.5; 3+1; 4+0: sinh viên được xét học bổng tối"
+        ],
+        "reference": "Khối lượng kiến thức tối thiểu tích lũy là 120-146 tín chỉ đối với khóa đại học 4 năm và 150-180 tín chỉ đối với khóa đại học 5 năm, không bao gồm các học phần Giáo dục thể chất và Giáo dục quốc phòng - an ninh.",
+        "expected_context": "Chương trình được thực hiện với khối lượng kiến thức tối thiểu tích lũy 150-180 tín chỉ đối với khóa đại học 5 năm; 120-146 tín chỉ đối với khóa đại học 4 năm, không bao gồm khối lượng các học phần Giáo dục thể chất và Giáo dục quốc phòng - an ninh.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-27",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-39",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-120",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-119",
+          "legal/quy-dinh-xet-cap-hoc-bong-hcmiu.md::chunk-48"
+        ]
+      },
+      {
+        "question": "Sinh viên có được nấu ăn trong phòng ở ký túc xá không?",
+        "answer": "Sinh viên không được nấu ăn trong phòng ở và khu vực ký túc xá, trừ các dãy nhà có thiết kế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A [Document 1].",
+        "contexts": [
+          "8. Không được nấu ăn trong phòng ở và khu vực KTX (Trừ các dãy nhà có thiết\nkế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A); Không để thức ăn, thực phẩm\nvào tủ đựng đồ.\n9. SV khi rời khỏi KTX dưới 05 ngày (trừ những ngày nghỉ được Trường quy\nđịnh) phải báo với Phòng trưởng (người đại diện của mỗi phòng, được chỉ định hay do\nSV cử ra); Nếu rời khỏi KTX từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với\nGiám thị.\nĐiều 4. Quy định về sử dụng phòng ở",
+          "được phép nấu ăn).\n| 07  | Tổ chức nấu ăn trong phòng ở |        |      |      |       | Buộc ra  |     |     |\n|     | (Trừ                         | những  | dãy  | nhà  | được  | khỏi KTX |     |     |\nphép nấu ăn).\n| 08  | Tự ý di chuyển chỗ ở, không    |     |     |     |     | Cảnh cáo  | Buộc ra khỏi  |     |\n|     | chấp hành sự bố trí chỗ ở của  |     |     |     |     | toàn KTX  | KTX           |     |\nTT. PVSV.",
+          "Hiệu trưởng ban hành “Quy định quản lý khu ký túc xá và sinh viên nội trú” áp dụng\n\ntrong nội bộ Trường.\n\nĐiều 1. Quy định chung\n\n1. Quy định này quy định về Ký túc xá; đối tượng được ở trong Ký túc xá; đối tượng được\nxét vào ở trong Ký túc xá; quyền và nghĩa vụ của Trung tâm dịch vụ trường học và sinh viên nội\ntrú; quản lý Ký túc xá và sinh viên nội trú.\n\n2. Ký túc xá (KTX) của Trường bao gồm toàn bộ đất đai, cơ sở hạ tầng và các công",
+          "Tân sinh viên cần thực hiện đầy đủ các bước theo hướng dẫn, đồng thời kiểm tra kỹ thông tin trước khi hoàn tất đăng ký. Một số lưu ý khi đăng ký phòng ở KTX:\n  * Chức năng đăng ký KTX chỉ hiển thị đối với những thời điểm và trường hợp KTX còn chỉ tiêu.\n  * Sau khi hoàn thành nghĩa vụ tài chính theo quy định, Trung tâm Ký túc xá sẽ thực hiện xếp phòng và gửi tin nhắn SMS thông báo cho sinh viên về thời gian, địa điểm nhận phòng.",
+          "## Nội quy công tác sinh viên nội trú tại Ký túc xá Đại học Quốc gia TP. HCM\n28/08/2025 Tiêu điểm nổi bật 2636\n**Nội quy công tác sinh viên nội trú tại Ký túc xá Đại học Quốc gia TP. HCM**\n## Tin nổi bật\n  * [ Tăng cường năng lực phòng cháy, chữa cháy, đảm bảo an ninh, an toàn cho sinh viên nội trú](https://www.ktxhcm.edu.vn/news/su-kien/tang-cuong-nang-luc-phong-chay-chua-chay-dam-bao-an-ninh-an-toan-cho-sinh-vien-noi-tru)"
+        ],
+        "reference": "Không được nấu ăn trong phòng ở và khu vực ký túc xá, trừ các dãy nhà có thiết kế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A. Ngoài ra không được để thức ăn, thực phẩm vào tủ đựng đồ.",
+        "expected_context": "Không được nấu ăn trong phòng ở và khu vực KTX (Trừ các dãy nhà có thiết kế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A); Không để thức ăn, thực phẩm vào tủ đựng đồ.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/noi-quy-ktx-ctu.md::chunk-7",
+          "legal/noi-quy-ktx-ctu.md::chunk-28",
+          "legal/quy-dinh-quan-ly-ktx-sinh-vien-noi-tru-vnua.md::chunk-2",
+          "news/article_08.md::chunk-2",
+          "news/article_07.md::chunk-11"
+        ]
+      },
+      {
+        "question": "Tỷ giá đồng đô la Mỹ hôm nay là bao nhiêu?",
+        "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+        "contexts": [
+          "Con số may mắn hôm nay 17/9/2026 theo năm sinh của bạn là số nào, con số may mắn theo 12 con giáp được chọn ra sao, đâu là số đẹp giúp bạn dễ trúng ngay, xem ngay bài viết để có câu trả lời nhanh nhất.\nNhững con giáp không thích bị sai khiến dưới đây làm việc gì cũng rất có chủ kiến, nếu họ đã không đồng tình thì dù là lời nói của lãnh đạo, họ cũng sẽ không làm theo.",
+          "| 815.850.000 (~ 35.000 USD)\n | 30 - 35\n |\n|  **Khoa học Xã hội và Hành vi (Tâm lý học, Truyền thông, Kinh tế)**\n | 815.850.000 (~ 35.000 USD)\n | 30 - 35\n |\n|  **Kỹ thuật và Khoa học Máy tính**\n | 815.850.000 (~ 35.000 USD)\n | 30 - 35\n |\n|  **Y khoa**\n | 815.850.000 (~ 35.000 USD)\n | 30 - 35\n |\n|  **Khoa học và Giáo dục khai phóng**\n | 815.850.000 (~ 35.000 USD)\n | 30 - 35\n |",
+          "###  Tuổi Trẻ Online Newsletters\n### Đăng ký ngay để nhận gói tin tức mới\nTuổi Trẻ Online sẽ gởi đến bạn những tin tức nổi bật nhất\nTuổi Trẻ Sao\n**Thông tin tài khoản ngày**\nTài khoản được sử dụng đến ngày  | Bạn đang có 0 trong tài khoản\n1 sao = 1000đ. Mua thêm sao để tham gia hoạt động tương tác trên Tuổi Trẻ như: Đổi quà lưu niệm, Tặng sao cho tác giả, Shopping\nTổng số tiền thanh toán: 0đ\nSố sao có thêm 0\nThanh toán\nBình luận (0)\nTối đa: **1500 ký tự**\nGửi bình luận",
+          "Trường Đại học Mở TPHCM công bố quỹ học bổng gần 53 tỷ đồng, trong đó dành 500 suất học bổng khuyến khích học tập với mức hỗ trợ từ 50 - 100% học phí học kỳ đầu. Trường Đại học Công nghiệp TPHCM dành khoảng 70 tỷ đồng học bổng cho sinh viên diện chính sách và có hoàn cảnh khó khăn.",
+          "trư nở g về việc ban hành Quy chế công tác Sinh vi ên, Học vi ên nội trú Ký túc xá\nCăn cứ theo quyết định số /TCKT -ĐHYHN ngày / / của Hiệu\n| trư | nở g về việc thu phí nội trú Ký túc xá Đại học Y H |     |     |     |     |     | à Nội. |     |\nCăn  cứ  v ào  đnơ   xin  n ội  trú  KTX  Đại  học  Y  H à  Nội  của  SV/  HV:\nHôm nay, | ngày ……. tháng …... năm\nChúng tôi gồm:\nBên A: Ông/ Bà Bên B: Họ, t ên:\n-Chcứ v:ụ Trư ở ng banqunả lý KTX -ĐSSV - Sinh ngày: / / Giiớ tính : Nam/ Nữ"
+        ],
+        "reference": "Tôi không thể xác minh thông tin này từ nguồn hiện có. Bộ tài liệu chỉ gồm quy định về học phí, ký túc xá, học bổng và đào tạo, không có thông tin về tỷ giá ngoại tệ.",
+        "expected_context": "Không có trong corpus. Câu hỏi nằm ngoài phạm vi tài liệu, hệ thống phải từ chối an toàn thay vì bịa câu trả lời.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "news/article_02.md::chunk-31",
+          "news/article_03.md::chunk-4",
+          "news/article_01.md::chunk-25",
+          "news/article_02.md::chunk-25",
+          "legal/quy-che-sinh-vien-noi-tru-hmu.md::chunk-32"
+        ]
+      },
+      {
+        "question": "Trường có bán vé máy bay giá rẻ cho sinh viên đi du lịch nước ngoài không?",
+        "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+        "contexts": [
+          "| Công nghệ thực       |     | Tài nguyên & Môi trường  |\nphẩm\n|   Cơ - Điện         |     |   Du lịch & Ngoại ngữ  |",
+          "Nhiều cơ sở đào tạo khác cũng tăng cường nguồn lực hỗ trợ người học. Trường Đại học Tài chính - Marketing dành khoảng 92 tỷ đồng học bổng mỗi năm với nhiều chương trình dành cho tân sinh viên, sinh viên có thành tích học tập tốt và hoàn cảnh khó khăn. Nhà trường cũng giữ ổn định học phí trong toàn khóa, dao động 30 - 65 triệu đồng/năm tùy chương trình, đồng thời giảm 15% học phí toàn khóa cho sinh viên học tại hai phân hiệu Huế và Quảng Ngãi.",
+          "viện nghiên cứu có uy tín ở nước ngoài và với nhiều tổ chức quốc tế (JICA, WB, CUD…).\nNhững năm gần đây đã có gần 2.000 lượt cán bộ viên chức được cử đi đào tạo và bồi dưỡng\nở nước ngoài, đồng thời Học viện cũng tiếp nhận hàng trăm thực tập sinh đến từ hơn 10\nquốc gia khác nhau trên thế giới. Ngoài ra, Học viện đào tạo cho các nước Lào, Campuchia,\nMozambique, Angola… hơn 500 kỹ sư, thạc sỹ và tiến sỹ các ngành kỹ thuật và quản lý\nkinh tế.",
+          ". Cùng với đó là chính sách miễn, giảm học phí theo quy định của Nhà nước, học bổng từ doanh nghiệp và nhiều hoạt động đồng hành nhằm giảm gánh nặng tài chính cho người học.",
+          "GIẤY XÁC NHẬN SINH VIÊN\nHọc viện Nông nghiệp Việt Nam\nXác nhận:\nNgày sinh Giới tính: Nam Nữ\nSố CCCD: Ngày cấp: Nơi cấp:\nHiện đang là sinh viên lớp: Mã sinh viên:\nKhoa: (tick dấu “X” vào tên khoa đang học tập)\n|   Chăn nuôi            |     |   Khoa học xã hội        |\n|   Công nghệ thông tin  |     |   Nông học               |\n| Công nghệ thực phẩm    |     | Tài nguyên & Môi trường  |\n| Cơ – Điện              |     | Du lịch và Ngoại ngữ     |"
+        ],
+        "reference": "Tôi không thể xác minh thông tin này từ nguồn hiện có. Bộ tài liệu không đề cập đến dịch vụ bán vé máy bay hay chương trình du lịch cho sinh viên.",
+        "expected_context": "Không có trong corpus. Câu hỏi nằm ngoài phạm vi tài liệu, hệ thống phải từ chối an toàn thay vì bịa câu trả lời.",
+        "retrieval_source": "hybrid",
+        "source_ids": [
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-572",
+          "news/article_02.md::chunk-24",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-13",
+          "news/article_02.md::chunk-22",
+          "legal/sotay-sinhvien-vnua-k69.md::chunk-574"
+        ]
+      }
+    ],
+    "worst": [
+      {
+        "question": "Tỷ giá đồng đô la Mỹ hôm nay là bao nhiêu?",
+        "mean_score": 0.0,
+        "retrieval_source": "hybrid",
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+        }
+      },
+      {
+        "question": "Trường có bán vé máy bay giá rẻ cho sinh viên đi du lịch nước ngoài không?",
+        "mean_score": 0.125,
+        "retrieval_source": "hybrid",
+        "scores": {
+          "faithfulness": 0.0,
+          "answer_relevance": 0.0,
+          "context_recall": 0.5,
+          "context_precision": 0.0
+        }
+      },
+      {
+        "question": "Quy định về quản lý khu ký túc xá và sinh viên nội trú được ban hành kèm theo quyết định số nào?",
+        "mean_score": 0.6244901648532152,
+        "retrieval_source": "hybrid",
+        "scores": {
+          "faithfulness": 0.6666666666666666,
+          "answer_relevance": 0.5812939927711941,
+          "context_recall": 1.0,
+          "context_precision": 0.249999999975
+        }
+      }
+    ]
+  }
+}

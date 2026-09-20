@@ -14,6 +14,16 @@ Chạy:
     python -m group_project.evaluation.run_evaluation --limit 3   # thử nhanh
 """
 
+import sys
+
+# Console Windows mac dinh cp1252 -> print tieng Viet nem UnicodeEncodeError.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        try:
+            _stream.reconfigure(encoding="utf-8")
+        except (AttributeError, ValueError):
+            pass
+
 import argparse
 import contextlib
 import json
