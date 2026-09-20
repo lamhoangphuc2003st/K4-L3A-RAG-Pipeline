@@ -12,8 +12,6 @@ VỀ QUẢN LÝ KHU KÝ TÚC XÁ VÀ SINH VIÊN NỘI TRÚ
 
 của Hiệu trưởng Trường Đại học Nông nghiệp Hà Nội)
 
-----------------------------------------------------
-
 Căn cứ Quy chế công tác học sinh, sinh viên nội trú tại các cơ sở giáo dục thuộc hệ
 thống  giáo  dục  quốc  dân  ban  hành  kèm  theo  Thông  tư  số  27/2011/TT-BGD&ĐT  ngày
 27/6/2011 của Bộ trưởng  Bộ Giáo dục và Đào tạo;
@@ -269,24 +267,15 @@ Kính gửi:   TRUNG TÂM DỊCH VỤ TRƯỜNG HỌC,
 
                                TRƯỜNG ĐẠI HỌC NÔNG NGHIỆP HÀ NỘI
 
-Họ và tên:………………………………………………………… Nam, nữ.............
+Ngày tháng năm sinh: …………, dân tộc: , tôn giáo
 
-Ngày tháng năm sinh: …………, dân tộc: ………………, tôn giáo………….........
+Là sinh viên (học viên) lớp khoá………. khoa
 
-Hộ khẩu thường trú tại:………………………………………………………..........
+Số thẻ học viên (sinh viên)
 
-……………………………………………………………………………..….........
-
-Là sinh viên (học viên) lớp…………….. khoá………. khoa…………….….............
-
-Số thẻ học viên (sinh viên)…………………………………………………….......
-
-Đối tượng ưu tiên (nếu có):………………………………………………….............
+Đối tượng ưu tiên (nếu có):
 
 Đề nghị xem xét tiếp nhận tôi vào ở trong khu nội trú (ghi rõ khu nhà theo thứ tự ưu tiên)
-.…………………………………………………………….........................................
-
-Từ ngày………………………………………………………………………………
 
 Tôi đã nghiên cứu bản Quy định về quản lý KTX và sinh viên nội trú của Trường và
 Quy chế công tác học sinh, sinh viên nội trú do Bộ Giáo dục và Đào tạo ban hành kèm theo

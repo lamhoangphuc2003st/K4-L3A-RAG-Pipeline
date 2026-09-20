@@ -33,6 +33,43 @@ def normalize_markdown(text: str) -> str:
     return re.sub(r"\n{3,}", "\n\n", text).strip()
 
 
+# Dòng mục lục có dot leader ("Điều 5. Học phí ....... 12") và dòng mẫu đơn
+# trống ("Sinh viên:................"). Cả hai không trả lời được câu hỏi nào
+# nhưng chiếm rất nhiều chunk trong các PDF sổ tay.
+TOC_OR_FORM_LINE = re.compile(r"[.…_]{5,}")
+
+# Dòng chỉ còn khung bảng rỗng sau khi convert: "|   |   |   |".
+EMPTY_TABLE_ROW = re.compile(r"^[|\s\-:]+$")
+
+# Dòng bảng còn chữ nhưng quá ít để thành thông tin: "| | Ảnh | | | ÐNƠ | X |".
+# PDF mẫu đơn/biểu quyết convert ra rất nhiều dòng dạng này (quy-che-sinh-vien-
+# noi-tru-hmu.pdf: 45% số dòng), chúng chỉ làm loãng embedding.
+MIN_TABLE_ROW_TEXT = 25
+
+
+def drop_toc_and_form_lines(text: str) -> str:
+    """Bỏ dòng mục lục, mẫu đơn trống và khung bảng rỗng."""
+    kept = []
+    for line in text.split("\n"):
+        stripped = line.strip()
+        if not stripped:
+            kept.append(line)
+            continue
+        if EMPTY_TABLE_ROW.match(stripped):
+            continue
+        if stripped.count("|") >= 3:
+            cell_text = re.sub(r"\s+", " ", stripped.replace("|", " ")).strip()
+            if len(cell_text) < MIN_TABLE_ROW_TEXT:
+                continue
+        # Bỏ dot leader; nếu sau khi bỏ mà còn quá ít chữ thì bỏ cả dòng.
+        cleaned = TOC_OR_FORM_LINE.sub(" ", stripped)
+        cleaned = re.sub(r"\s+", " ", cleaned).strip(" |")
+        if len(cleaned) < 25 and TOC_OR_FORM_LINE.search(stripped):
+            continue
+        kept.append(cleaned if TOC_OR_FORM_LINE.search(stripped) else line)
+    return "\n".join(kept)
+
+
 def write_if_long_enough(path: Path, content: str) -> bool:
     """Ghi file khi đủ dài; nếu không thì xoá bản cũ và trả về False."""
     if len(content.strip()) < MIN_CONTENT_LENGTH:
@@ -40,6 +77,19 @@ def write_if_long_enough(path: Path, content: str) -> bool:
         return False
     path.write_text(content, encoding="utf-8")
     return True
+
+
+def remove_orphans(output_dir: Path, expected_stems: set[str]) -> None:
+    """Xoá .md không còn file nguồn tương ứng trong landing.
+
+    Cần thiết vì Task 2 có thể loại một URL (trang listing, SSL lỗi) ở lần chạy
+    sau; nếu không xoá thì bản Markdown cũ vẫn nằm lại và bị Task 4 index thành
+    document rác.
+    """
+    for path in sorted(output_dir.glob("*.md")):
+        if path.stem not in expected_stems:
+            path.unlink()
+            print(f"  Removed orphan: {output_dir.name}/{path.name}")
 
 
 def convert_legal_docs() -> None:
@@ -63,7 +113,9 @@ def convert_legal_docs() -> None:
             continue
 
         title = path.stem.replace("-", " ").replace("_", " ").strip()
-        body = normalize_markdown(result.text_content or "")
+        body = normalize_markdown(
+            drop_toc_and_form_lines(normalize_markdown(result.text_content or ""))
+        )
         document = f"# {title}\n\n**Source:** {path.name}\n\n---\n\n{body}\n"
 
         target = output_dir / f"{path.stem}.md"
@@ -72,6 +124,15 @@ def convert_legal_docs() -> None:
             print(f"  Saved: legal/{target.name} ({len(body)} chars)")
         else:
             print(f"  Skipped (khong co text layer, can OCR): {path.name}")
+
+    remove_orphans(
+        output_dir,
+        {
+            path.stem
+            for path in legal_dir.iterdir()
+            if path.suffix.lower() in DOCUMENT_SUFFIXES
+        },
+    )
 
     print(f"Legal Markdown: {converted}/{MIN_LEGAL_FILES} required")
     if converted < MIN_LEGAL_FILES:
@@ -108,6 +169,8 @@ def convert_news_articles() -> None:
             print(f"  Saved: news/{target.name} ({len(body)} chars)")
         else:
             print(f"  Skipped (noi dung qua ngan): {path.name}")
+
+    remove_orphans(output_dir, {path.stem for path in news_dir.glob("*.json")})
 
     print(f"News Markdown: {converted}/{MIN_NEWS_FILES} required")
     if converted < MIN_NEWS_FILES:

@@ -72,12 +72,13 @@ CHROME_TAGS = (
     "button",
 )
 
-# Dòng Markdown chỉ gồm link/ảnh — thường là menu hoặc khối "Tin liên quan".
-# Bao gồm cả heading bọc link (#### [tin khac](url)); heading thật của bài
-# không nằm trong link.
-LINK_ONLY_LINE = re.compile(
-    r"^\s*(?:#{1,6}\s*|[-*+]\s+)?(?:!?\[[^\]]*\]\([^)]*\)[\s,|]*)+$"
-)
+# Link Markdown, cho phép một cấp ngoặc lồng: [[Thông báo] Hướng dẫn](/vi/...).
+MARKDOWN_LINK = re.compile(r"!?\[(?:[^\[\]]|\[[^\[\]]*\])*\]\([^)]*\)")
+
+# Dòng có phần lớn ký tự nằm trong link là menu/breadcrumb/"tin liên quan",
+# không phải câu văn. Lọc theo mật độ thay vì khớp chính xác cả dòng, vì thực
+# tế dòng boilerplate hay kèm thêm ngày tháng, bullet hoặc dấu phân cách.
+MAX_LINK_DENSITY = 0.55
 
 
 def _clean_markdown(text: str) -> str:
@@ -132,12 +133,21 @@ def main_content_region(html: str) -> str:
     return html
 
 
+def link_density(line: str) -> float:
+    """Tỉ lệ ký tự của dòng nằm trong cú pháp link/ảnh Markdown."""
+    stripped = line.strip()
+    if not stripped:
+        return 0.0
+    linked = sum(len(match.group(0)) for match in MARKDOWN_LINK.finditer(stripped))
+    return linked / len(stripped)
+
+
 def drop_boilerplate_lines(markdown: str) -> str:
-    """Bỏ dòng chỉ chứa link/ảnh (menu, breadcrumb, tin liên quan)."""
+    """Bỏ dòng có mật độ link cao (menu, breadcrumb, tin liên quan)."""
     kept = [
         line
         for line in markdown.split("\n")
-        if not (line.strip() and LINK_ONLY_LINE.match(line.strip()))
+        if link_density(line) <= MAX_LINK_DENSITY
     ]
     return "\n".join(kept)
 
@@ -231,14 +241,37 @@ async def crawl_article(url: str, crawler: object | None = None) -> dict:
         return fetch_with_markitdown(url)
 
 
+def prose_length(markdown: str) -> int:
+    """Số ký tự nằm trong câu văn thật, bỏ heading/bullet/ngày/ô bảng.
+
+    Cần thiết vì một trang listing thông báo sau khi lọc link vẫn còn heading và
+    dòng ngày, đủ vượt ngưỡng tổng ký tự nhưng không mang nội dung nào để trả
+    lời câu hỏi.
+    """
+    total = 0
+    for line in markdown.split("\n"):
+        stripped = line.strip()
+        if len(stripped) < 40 or stripped[0] in "#*|-+>":
+            continue
+        total += len(stripped)
+    return total
+
+
 def validate_article(article: dict) -> None:
-    """Raise khi bài crawl thiếu key hoặc nội dung quá ngắn."""
+    """Raise khi bài crawl thiếu key hoặc không có đủ nội dung thật."""
     for key in ("url", "title", "date_crawled", "content_markdown"):
         if not str(article.get(key, "")).strip():
             raise ValueError(f"missing or empty field: {key}")
-    if len(article["content_markdown"].strip()) < MIN_CONTENT_LENGTH:
+
+    markdown = article["content_markdown"].strip()
+    if len(markdown) < MIN_CONTENT_LENGTH:
+        raise ValueError(f"content_markdown chi co {len(markdown)} ky tu")
+
+    prose = prose_length(markdown)
+    if prose < MIN_CONTENT_LENGTH:
         raise ValueError(
-            f"content_markdown chi co {len(article['content_markdown'].strip())} ky tu"
+            f"chi co {prose} ky tu van xuoi (trang listing link?), can >= "
+            f"{MIN_CONTENT_LENGTH}"
         )
 
 

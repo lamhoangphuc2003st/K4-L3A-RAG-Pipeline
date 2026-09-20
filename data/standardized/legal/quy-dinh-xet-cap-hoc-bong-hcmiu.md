@@ -7,7 +7,7 @@
 ĐẠI HỌC QUỐC GIA CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 THÀNH PHỐ HỒ CHÍ MINH Độc lập – Tự do – Hạnh phúc
 TRƯỜNG ĐẠI HỌC QUỐC TẾ
-Số: ........./ QĐ-ĐHQT Thành phố Hồ Chí Minh, ngày tháng năm 2024
+Số: / QĐ-ĐHQT Thành phố Hồ Chí Minh, ngày tháng năm 2024
 QUYẾT ĐỊNH
 Về việc ban hành Quy định xét cấp học bổng khuyến khích học tập
 cho sinh viên trình độ Đại học tại Trường Đại học Quốc tế
@@ -45,15 +45,11 @@ Quốc gia Thành phố Hồ Chí Minh.
 Điều 3. Trưởng phòng Phòng Đào tạo Đại học, Phòng Công tác Sinh viên, Phòng
 Kế hoạch Tài chính, Trưởng các đơn vị, viên chức, người lao động và sinh viên trường
 | chịu trách nhiệm thi hành Quyết định này./.  |     |     |     |     |
-| -------------------------------------------- | --- | --- | --- | --- |
 Nơi nhận:                                                                                       KT.HIỆU TRƯỞNG
 - Như Điều 3;                                                                            PHÓ HIỆU TRƯỞNG
 - Hiệu trưởng (để báo cáo);
 - Các đơn vị (để thực hiện);
 - Lưu: VT, ĐTĐH.
-|       |     |     |     |             |
-| ----- | --- | --- | --- | ----------- |
-|       |     |     |     |             |
           Đinh Đức Anh Vũ
 
 ĐẠI HỌC QUỐC GIA CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
@@ -187,16 +183,8 @@ chính theo đúng tiến độ chương trình đào tạo chuẩn của khóa 
 Điều 8. Mức xét cấp HBHT:
 Mức
 |     | Điểm học tập  | Điểm rèn luyện  |
-| --- | ------------- | --------------- |
 HBHT
-|                 | Khá  Khá, Tốt, Xuất sắc  |                |
-| --------------- | ------------------------ | -------------- |
-| Loại III (Khá)  | Giỏi                     | Khá            |
-|                 | Xuất sắc                 | Khá            |
-|                 | Giỏi                     | Tốt, Xuất sắc  |
 Loại II (Giỏi)
-|                    | Xuất sắc  | Tốt       |
-| ------------------ | --------- | --------- |
 | Loại I (Xuất sắc)  | Xuất sắc  | Xuất sắc  |
 Trong đó:
 1. Mức học bổng Loại III (mức học bổng chuẩn): do Hội đồng xét cấp HBKKHT

@@ -30,6 +30,10 @@ CHUNK_SIZE = 500
 CHUNK_OVERLAP = 50
 CHUNKING_METHOD = "recursive"
 
+# Default cho provider local; .env ghi đè bằng EMBEDDING_PROVIDER/EMBEDDING_MODEL.
+# Số chiều thực tế phụ thuộc provider đang dùng (bge-m3 1024,
+# text-embedding-3-small 1536), Chroma tự nhận từ vector đầu tiên nên
+# EMBEDDING_DIM chỉ mang tính tài liệu.
 EMBEDDING_MODEL = "BAAI/bge-m3"
 EMBEDDING_DIM = 1024
 
@@ -235,6 +239,21 @@ def index_to_vectorstore(chunks: list[dict]) -> None:
             embeddings=[chunk["embedding"] for chunk in batch],
             metadatas=[_chroma_metadata(chunk["metadata"]) for chunk in batch],
         )
+
+    # upsert khong xoa chunk cu: khi mot document ngan lai (loc boilerplate) hoac
+    # bi bo khoi corpus, cac id chunk-cao truoc do van nam trong collection va van
+    # bi retrieve. Phai xoa tay de index khop dung corpus hien tai.
+    current_ids = {chunk["id"] for chunk in chunks}
+    stale_ids = [
+        chunk_id
+        for chunk_id in collection.get(include=[])["ids"]
+        if chunk_id not in current_ids
+    ]
+    if stale_ids:
+        for start in range(0, len(stale_ids), UPSERT_BATCH_SIZE):
+            collection.delete(ids=stale_ids[start : start + UPSERT_BATCH_SIZE])
+        print(f"Removed {len(stale_ids)} stale chunks")
+
     print(f"Collection {COLLECTION_NAME} now holds {collection.count()} chunks")
 
 

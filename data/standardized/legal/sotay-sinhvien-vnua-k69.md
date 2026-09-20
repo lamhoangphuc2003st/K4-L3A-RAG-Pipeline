@@ -13,11 +13,10 @@ HÀ NỘI - 2024
 2
 
 MỤC LỤC
-Quy định dạy và học đại học hệ chính quy theo hệ thống tín chỉ .......................................... 7
-Phụ lục ................................................................................................................................. 48
-Quy định công tác sinh viên Học viện Nông nghiệp Việt Nam .......................................... 83
-Địa chỉ một số bộ phận cần thiết cho sinh viên ................................................................. 101
-Hướng dẫn đánh giá kết quả rèn luyện của sinh viên ........................................................ 102
+Quy định dạy và học đại học hệ chính quy theo hệ thống tín chỉ 7
+Quy định công tác sinh viên Học viện Nông nghiệp Việt Nam 83
+Địa chỉ một số bộ phận cần thiết cho sinh viên 101
+Hướng dẫn đánh giá kết quả rèn luyện của sinh viên 102
 Hướng dẫn về việc miễn, giảm học phí hỗ trợ chi phí học tập, học bổng khuyến khích học
 tập, trợ cấp xã hội, trợ cấp ưu đãi giáo dục, giải quyết các thủ tục hành chính cho sinh viên .... 106
 3
@@ -713,21 +712,14 @@ nhân với trọng số tương ứng. Điểm học phần làm tròn đến m
 Bảng 2. Thang điểm quy đổi
 Thang điểm 4
 Loại đạt/
-| TT  | Thang điểm 10  |     |     |     |
-| --- | -------------- | --- | --- | --- |
 không đạt
-|     |                | Điểm chữ  | Điểm số  |      |
-| --- | -------------- | --------- | -------- | ---- |
 | 1   | Từ 8,5 đến 10  | A         | 4,0      | Đạt  |
 B+
-| 2   | Từ 8,0 đến 8,4  |     | 3,5  | Đạt        |
-| --- | --------------- | --- | ---- | ---------- |
 | 3   | Từ 7,0 đến 7,9  | B   | 3,0  | Đạt        |
 | 4   | Từ 6,5 đến 6,9  | C+  | 2,5  | Đạt        |
 | 5   | Từ 5,5 đến 6,4  | C   | 2,0  | Đạt        |
 | 6   | Từ 5,0 đến 5,4  | D+  | 1,5  | Đạt        |
 | 7   | Từ 4,0 đến 4,9  | D   | 1,0  | Đạt        |
-| 8   | Dưới 4,0        | F   | 0    | Không đạt  |
 Đối với những học phần chưa đủ cơ sở để đưa vào tính điểm trung bình chung học
 kỳ, khi xếp mức đánh giá được sử dụng các kí hiệu sau:
 H: Điểm hoãn thi.
@@ -1656,32 +1648,16 @@ CÁC CHỨNG CHỈ QUỐC TẾ VỀ TIẾNG ANH VÀ TIẾNG TRUNG
 BẢNG QUY ĐỔI TRÌNH ĐỘ TIẾNG ANH DÀNH CHO
 CHỨNG CHỈ TOEIC 4 KỸ NĂNG VÀ TOEFL iBT
 | Khung tham chiếu  | TOEIC L&R  |            |           |
-| ----------------- | ---------- | ---------- | --------- |
-|                   |            | TOEFL iBT  | Chuẩn VN  |
-| CEFR              | TOEIC S&W  |            |           |
-| C2                | -          | 114-120    | 6         |
 1305 -1390
-| C1  | L&R 945  | 95-113  | 5   |
-| --- | -------- | ------- | --- |
 S&W 360
 1095 - 1300
-| B2  | L&R 785  | 72-94  | 4   |
-| --- | -------- | ------ | --- |
 S&W 310
 790 - 1090
-| B1  | L&R 550  | 42-71  | 3   |
-| --- | -------- | ------ | --- |
 S&W 240
 385 - 785
-| A2  | L&R 225  | -   | 2   |
-| --- | -------- | --- | --- |
 S&W 160
 200 - 380
-| A1  | L&R 120  | -   | 1   |
-| --- | -------- | --- | --- |
 S&W 80
-| Pass  |     |     | Pass  |
-| ----- | --- | --- | ----- |
 Ghi chú nguồn căn cứ:
 - Mapping the TOEIC® Tests on the CEFR (ets.org)
 - Compare Scores (For Score Users) (ets.org)
@@ -1690,30 +1666,9 @@ Ghi chú nguồn căn cứ:
 BẢNG QUY ĐỔI TRÌNH ĐỘ TIẾNG ANH DÀNH CHO
 CÁC CHỨNG CHỈ CAMBRIDGE VÀ IELTS
 | Khung tham chiếu  | Cambridge English  |            |           |
-| ----------------- | ------------------ | ---------- | --------- |
-|                   | IELTS              |            | Chuẩn VN  |
-| CEFR              |                    | Scale      |           |
-|                   | 9.0                | CPE        |           |
-| C2                |                    |            | 6         |
-|                   | 8.5                | 200 - 210  |           |
-|                   | 8.0                | CAE        |           |
-| C1                |                    |            | 5         |
-|                   | 7.0                | 180 - 199  |           |
-|                   | 6.5                | FCE        |           |
-| B2                |                    |            | 4         |
-|                   | 5.5                | 160 - 179  |           |
-|                   | 5.0                | PET        |           |
-| B1                |                    |            | 3         |
-|                   | 4.0                | 140 - 159  |           |
 KET
-| A2  | -   |     | 2   |
-| --- | --- | --- | --- |
 120 - 139
-| A1  | -   | -   | 1   |
-| --- | --- | --- | --- |
 Top Score
-| Pass  |     | Pass  | Pass  |
-| ----- | --- | ----- | ----- |
 9.0
 Ghi chú nguồn căn cứ:
 -  Hướng  dẫn  quy  đổi  điểm  đối  với  chứng  chỉ  Cambridge
@@ -1721,13 +1676,6 @@ https://www.cambridgeenglish.org/images/461626-cambridge-english-qualifications-
 comparing-scores-to-ielts.pdf.
 BẢNG QUY ĐỔI TRÌNH ĐỘ TIẾNG TRUNG
 | Bậc  Khung tham chiếu châu Âu  |     | Điểm bài thi HSK  |     |
-| ------------------------------ | --- | ----------------- | --- |
-| 6                              | C2  | Đạt               |     |
-| 5                              | C1  | Đạt               |     |
-| 4                              | B2  | 180 - 300         |     |
-| 3                              | B1  | 180 - 300         |     |
-| 2                              | A2  | 120 - 200         |     |
-| 1                              | A1  | 120 - 200         |     |
 49
 
 PHỤ LỤC 2. CÁC MẪU VĂN BẢN
@@ -1735,33 +1683,16 @@ Mẫu 1
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 PHIẾU ĐĂNG KÝ HỌC PHẦN
-Họ và tên: ...........................................  Mã sinh viên: ...................................................
-Lớp:...............................................................................................................................
 Các học phần đăng ký học:
-|      | Mã        |     |               |     |       | Tổ         | Số  |          |
-| ---- | --------- | --- | ------------- | --- | ----- | ---------- | --- | -------- |
 | STT  |           |     | Tên học phần  |     | Nhóm  |            |     | Ghi chú  |
-|      | học phần  |     |               |     |       | thực hành  | TC  |          |
-| 1    |           |     |               |     |       |            |     |          |
-| 2    |           |     |               |     |       |            |     |          |
-| 3    |           |     |               |     |       |            |     |          |
-| 4    |           |     |               |     |       |            |     |          |
-| 5    |           |     |               |     |       |            |     |          |
-| 6    |           |     |               |     |       |            |     |          |
-| 7    |           |     |               |     |       |            |     |          |
-| 8    |           |     |               |     |       |            |     |          |
-| 9    |           |     |               |     |       |            |     |          |
 Tổng số tín chỉ đăng ký:
-Hà Nội, ngày ..... tháng ..... năm 202.....
+Hà Nội, ngày tháng năm 202
 Sinh viên đăng ký
 (ký và ghi rõ họ tên)
 
-| Chú ý:  |                                       |     |     |       |     |       |     |     |
-| ------- | ------------------------------------- | --- | --- | ----- | --- | ----- | --- | --- |
 |         | - Để đăng ký học phần sinh viên cần:  |     |     |       |     |       |     |     |
  + Nghiên cứu kỹ thời khóa biểu trên trang website của Học viện để chọn các lớp học phần sao cho
 | không trùng thời khóa biểu.   |     |     |     |         |     |     |     |     |
-| ----------------------------- | --- | --- | --- | ------- | --- | --- | --- | --- |
  + Lựa chọn số học phần để đảm bảo số tín chỉ đăng ký không vượt quá số tín chỉ tối đa được phép
 học theo Quy định dạy và học theo hệ thống tín chỉ của Học viện.
 50
@@ -1771,22 +1702,12 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
 PHIẾU RÚT HỌC PHẦN ĐÃ ĐĂNG KÝ
-Họ và tên: ........................................... Mã sinh viên: ....................................................
-Lớp:  ...................................................  Học kỳ thứ: ......................  của khóa học.
+Lớp: Học kỳ thứ: của khóa học.
 Các học phần đã đăng ký được rút:
-| Mã        |               |       | Tổ         | Số  |          |
-| --------- | ------------- | ----- | ---------- | --- | -------- |
 | STT       | Tên học phần  | Nhóm  |            |     | Ghi chú  |
-| học phần  |               |       | thực hành  | TC  |          |
-| 1         |               |       |            |     |          |
-| 2         |               |       |            |     |          |
-| 3         |               |       |            |     |          |
-| 4         |               |       |            |     |          |
-| 5         |               |       |            |     |          |
-| 6         |               |       |            |     |          |
 Tổng số tín chỉ xin rút:
 Tổng số tín chỉ còn lại sau khi xin rút:
-Hà Nội, ngày ..... tháng ..... năm 202.....
+Hà Nội, ngày tháng năm 202
 Sinh viên đăng ký
 (ký và ghi rõ họ tên)
 
@@ -1806,23 +1727,16 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ĐƠN ĐỀ NGHỊ TẠM NGHỈ HỌC
 Kính gửi: Ban Giám đốc Học viện
 Ban Quản lý đào tạo
-Họ và tên: ......................................................................................................................
-Mã số sinh viên: ................................. Số điện thoại: ..................................................
-Ngày sinh: ..........................................
-Hiện đang học lớp: ............................ Khoa: ............................................................
-Khóa: .................................................. tại Học viện Nông nghiệp Việt Nam.
+Mã số sinh viên: Số điện thoại:
+Khóa: tại Học viện Nông nghiệp Việt Nam.
 Nay tôi làm đơn này kính đề nghị Ban Giám đốc Học viện Nông nghiệp Việt Nam
-cho phép tôi được tạm nghỉ học kể từ học kỳ: ...... năm học 20…... - 20…... đến hết học
-kỳ...... năm học 20......- 20…....
+cho phép tôi được tạm nghỉ học kể từ học kỳ: năm học 20…... - 20…... đến hết học
 Lý do xin tạm nghỉ học (kèm theo minh chứng):
-................................................................................................................................................
-................................................................................................................................................
-................................................................................................................................................
 Rất mong được sự đồng ý của Ban Giám đốc Học viện.
 Tôi xin cam đoan sẽ chấp hành nghiêm chỉnh theo Quy chế đào tạo đại học của Bộ
 Giáo dục và Đào tạo và Quy định của Học viện.
 Tôi xin trân trọng cảm ơn.
-Hà Nội, ngày..... tháng..... năm 202......
+Hà Nội, ngày tháng năm 202
 XÁC NHẬN
 Người đề nghị
 (của chính quyền địa phương)
@@ -1836,23 +1750,17 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 TIẾP TỤC HOÀN THÀNH CHƯƠNG TRÌNH KHÓA HỌC
 Kính gửi: Ban Giám đốc Học viện
 Ban Quản lý đào tạo
-Họ và tên: ................................................................................................................
-Mã số sinh viên: ................................ Số điện thoại: ............................................
-Ngày sinh: ..........................................
-Hiện đang học lớp: ............................ Khoa: ..............................................................
-Khóa: ................................................. tại Học viện Nông nghiệp Việt Nam.
+Mã số sinh viên: Số điện thoại:
+Khóa: tại Học viện Nông nghiệp Việt Nam.
 Tôi làm đơn này kính đề nghị Ban Giám đốc Học viện Nông nghiệp Việt Nam
 cho phép tôi được hoàn thành chương trình khóa học kể từ học kỳ: ….. năm học
 202… - 202…
-Lý do xin được hoàn thành chương trình khóa học: ..................................................
-.......................................................................................................................................
-.......................................................................................................................................
-.......................................................................................................................................
+Lý do xin được hoàn thành chương trình khóa học:
 Rất mong được sự đồng ý của Ban Giám đốc Học viện.
 Tôi xin cam đoan sẽ chấp hành nghiêm chỉnh theo Quy chế đào tạo của Bộ Giáo dục
 và Đào tạo và Quy định của Học viện.
 Tôi xin trân trọng cảm ơn.
-Hà Nội, ngày ..... tháng ..... năm 202.....
+Hà Nội, ngày tháng năm 202
 Người viết đề nghị
 53
 
@@ -1862,23 +1770,21 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ĐƠN ĐĂNG KÝ
 Học cùng lúc 2 chương trình
 Kính gửi: Hội đồng tuyển sinh Học viện Nông nghiệp Việt Nam
-Họ và tên: ........................................... Mã số sinh viên: ............................................
-Ngày, tháng, năm sinh:. ......................
-Nơi sinh: .............................................
-Khối thi tuyển sinh đại học (A, B, C hay D ): ........................................................
+Họ và tên: Mã số sinh viên:
+Khối thi tuyển sinh đại học (A, B, C hay D ):
 1
-Hiện đang là SV hệ chính quy lớp: ... ngành: ......................................................... .
-Khóa: ................................................. của Học viện Nông nghiệp Việt Nam.
-Kết quả học tập: điểm trung bình tích luỹ ..... 10..(...../ 4 ) (có bảng kết quả học tập
+Hiện đang là SV hệ chính quy lớp: ... ngành: .
+Khóa: của Học viện Nông nghiệp Việt Nam.
+Kết quả học tập: điểm trung bình tích luỹ 10..( / 4 ) (có bảng kết quả học tập
 do ban Quản lý đào tạo cấp đính kèm).
 Căn cứ thông báo của Học viện về việc học cùng lúc 2 chương trình, tôi làm đơn đăng
-ký học chương trình 2 ngành: .................... hệ ............. cùng khóa ..................................
-tại Học viện Nông nghiệp Việt Nam từ học kỳ năm học 202.....- 202.....
+ký học chương trình 2 ngành: hệ cùng khóa
+tại Học viện Nông nghiệp Việt Nam từ học kỳ năm học 202 - 202
 Tôi cam đoan sẽ chấp hành tốt các quy định của Học viện về việc học cùng lúc 2
 chương trình.
 Kính mong Hội đồng tuyển sinh Học viện Nông nghiệp Việt Nam xem xét.
 Tôi xin trân trọng cảm ơn.
-Hà Nội, ngày ..... tháng ..... năm 202.....
+Hà Nội, ngày tháng năm 202
 Người làm đăng ký
 54
 
@@ -1888,19 +1794,17 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ĐƠN ĐỀ NGHỊ
 Xét tốt nghiệp Đại học chương trình 2
 Kính gửi: Hội đồng xét tốt nghiệp ĐH, Học viện Nông nghiệp Việt Nam
-Họ và tên: ........................................... Mã số sinh viên: .............................................
-Ngày/tháng/năm sinh: .................................................................................................
-Nơi sinh: .....................................................................................................................
-Tốt nghiệp ĐH chương trình thứ 1 ngành: .................... khóa: ...................................
-tại Học viện. Số hiệu bằng: Số vào sổ cấp bằng: .................. (có bản sao bằng tốt nghiệp
+Họ và tên: Mã số sinh viên:
+Tốt nghiệp ĐH chương trình thứ 1 ngành: khóa:
+tại Học viện. Số hiệu bằng: Số vào sổ cấp bằng: (có bản sao bằng tốt nghiệp
 đại học chương trình 1 đính kèm).
-Hiện nay tôi đã hoàn thành chương trình ĐH thứ 2, hệ ........ ngành ..........................
-(chuyên ngành ........................... ) cùng với khóa . ........................ của Học viện.
+Hiện nay tôi đã hoàn thành chương trình ĐH thứ 2, hệ ngành
+(chuyên ngành ) cùng với khóa . của Học viện.
 Căn cứ quy định của Học viện về học cùng lúc 2 chương trình, tôi đề nghị Hội đồng
 xét tốt nghiệp ĐH, Học viện Nông nghiệp Việt Nam công nhận tốt nghiệp ĐH chương trình
-2 ngành ...................................... cùng khóa .................................. cho cá nhân tôi.
+2 ngành cùng khóa cho cá nhân tôi.
 Xin trân trọng cảm ơn.
-Hà Nội, ngày ..... tháng ..... năm 202.....
+Hà Nội, ngày tháng năm 202
 Người đề nghị
 Ghi chú: Sinh viên chỉ nộp đơn này khi đã hoàn thành chương trình đào tạo (kể cả khóa luận tốt nghiệp).
 55
@@ -1910,24 +1814,17 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ĐƠN ĐỀ NGHỊ CHUYỂN TRƯỜNG
 Kính gửi: Giám đốc Học viện Nông nghiệp Việt Nam
-Đồng kính gửi Hiệu trưởng Trường ............................................
-Tên tôi là: ....................................................................................................................
-Ngày tháng năm sinh: ..................................................................................................
-Nơi sinh: ............................................ .....................................................................
-Hộ khẩu thường trú: ...................................................................................................
-..............................................................................................................................................
-Đối tượng tuyển sinh (ghi rõ mã quy ước): ................................................................
-Là sinh viên đang học năm thứ: ........ Ngành: ..........................................................
+Đồng kính gửi Hiệu trưởng Trường
+Đối tượng tuyển sinh (ghi rõ mã quy ước):
+Là sinh viên đang học năm thứ: Ngành:
 Tại Học viện Nông nghiệp Việt Nam.
-Trong kỳ thi tuyển sinh Đại học năm ............... khối: .................................................
-vào Học viện tôi đạt: ................................................. điểm.
-Điểm trung bình chung học tập: ....................... Điểm rèn luyện: ................................
-Tôi không dự thi vào Trường .......................... , nay có nguyện vọng được chuyển
-đến tiếp tục vào học năm thứ: ..................................
-Ngành: ............................................... tại Trường: ................................................
-Lý do: .......................................................................................................................
+Trong kỳ thi tuyển sinh Đại học năm khối:
+vào Học viện tôi đạt: điểm.
+Điểm trung bình chung học tập: Điểm rèn luyện:
+Tôi không dự thi vào Trường , nay có nguyện vọng được chuyển
+đến tiếp tục vào học năm thứ:
 Xin trân trọng cảm ơn.
-Hà Nội, ngày ..... tháng ..... năm 202.....
+Hà Nội, ngày tháng năm 202
 Người đề nghị
 Ý KIẾN CỦA GIÁM ĐỐC Ý KIẾN CỦA HIỆU TRƯỞNG
 HỌC VIỆN NÔNG NGHIỆP VIỆT NAM TRƯỜNG TIẾP NHẬN
@@ -1938,21 +1835,11 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ĐƠN ĐỀ NGHỊ HOÃN THI
 Kính gửi: Ban Quản lý đào tạo, Giảng viên học phần
-Họ và tên: ........................................... Mã Sinh viên: . ...............................................
-Sinh ngày: .......................................... Lớp: ................................................................
+Họ và tên: Mã Sinh viên: .
 Tôi làm đơn này kính đề nghị quý ban Quản lý đào tạo, Giảng viên cho tôi được xin
-hoãn thi học phần ................................................................................................................. .
-..............................................................................................................................................
-Lý do .............................................................................................................................
-................................................................................................................................................
-................................................................................................................................................
-................................................................................................................................................
-................................................................................................................................................
-................................................................................................................................................
-................................................................................................................................................
 Tôi xin chấp hành mọi quy định của Học viện.
 Tôi xin chân thành cảm ơn.
-Hà Nội, ngày ..... tháng ..... năm 202.....
+Hà Nội, ngày tháng năm 202
 Người đề nghị
 (Ký và ghi rõ họ tên)
 57
@@ -1961,16 +1848,13 @@ Mẫu 9
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ĐƠN ĐỀ NGHỊ PHÚC KHẢO BÀI THI
-Kính gửi: ....................................................................................................................
-Họ và tên: ........................................... Mã Sinh viên: ................................................
-Sinh ngày: .......................................... Lớp: ..............................................................
-Ngày .................................................. tôi đã tham dự kỳ thi môn .............................
-Tại phòng thi số: ............... Giảng đường: ........................ SBD: ...............................
+Ngày tôi đã tham dự kỳ thi môn
+Tại phòng thi số: Giảng đường: SBD:
 Sau khi nhận kết quả thi, tôi nhận thấy kết quả không chính xác so với bài làm của
 mình. Tôi làm đơn này đề nghị Quý ban, bộ môn tạo điều kiện cho tôi được phúc khảo
 bài thi.
 Xin chân thành cảm ơn!
-Hà Nội, ngày ..... tháng ..... năm 202.....
+Hà Nội, ngày tháng năm 202
 Người đề nghị
 58
 
@@ -1979,14 +1863,12 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ĐƠN ĐỀ NGHỊ HOÃN XÉT TỐT NGHIỆP
 Kính gửi: Ban Quản lý đào tạo
-Họ và tên: .......................................... Mã Sinh viên: .........................................
-Sinh ngày: .......................................... Lớp: ........................................................
 Tôi làm đơn này kính đề nghị quý ban Quản lý đào tạo không đưa tôi vào danh sách
-xét tốt nghiệp đợt .......... tháng .......... năm 202 .......... để tôi tiếp tục tích lũy thêm một số
+xét tốt nghiệp đợt tháng năm 202 để tôi tiếp tục tích lũy thêm một số
 học phần. Tôi xin chấp hành mọi quy định của Học viện.
 Rất mong được sự quan tâm giúp của quý ban.
 Tôi xin chân thành cảm ơn.
-Hà Nội, ngày ..... tháng ..... năm 202 .....
+Hà Nội, ngày tháng năm 202
 Người đề nghị
 (Ký và ghi rõ họ tên)
 59
@@ -1996,22 +1878,16 @@ HỌC VIỆN NÔNG NGHIỆP VIỆT NAM
 ĐƠN ĐỀ NGHỊ THÔI HỌC
 Kính gửi: Ban Giám đốc Học viện
 Ban Quản lý đào tạo
-Tên tôi là: .......................................... Mã số sinh viên: ........................................
-Ngày sinh: ......................................... Hộ khẩu thường trú: .....................................
-Đối tượng ưu tiên: ............................. Số điện thoại: ................................................
-Hiện đang học lớp: ............................. Khóa: ............... Khoa: ...................................
+Tên tôi là: Mã số sinh viên:
+Ngày sinh: Hộ khẩu thường trú:
+Đối tượng ưu tiên: Số điện thoại:
+Hiện đang học lớp: Khóa: Khoa:
 Hệ đào tạo: Chính quy tại Học viện Nông nghiệp Việt Nam
 Nay tôi viết đơn này kính đề nghị Ban Giám đốc Học viện Nông nghiệp Việt Nam
 cho phép tôi được thôi học.
-* Lý do thôi học: .........................................................................................................
-..............................................................................................................................................
-................................................................................................................................................
-................................................................................................................................................
-................................................................................................................................................
-................................................................................................................................................
 Tôi xin chấp hành mọi quy định của Học viện về việc xin thôi học.
 Rất mong được sự chấp thuận của Ban Giám đốc.
-Hà Nội, ngày ..... tháng ..... năm 202 .....
+Hà Nội, ngày tháng năm 202
 Người đề nghị
 Ghi chú: Sinh viên phải làm thủ tục thanh toán với các đơn vị (theo mẫu trang sau) trước khi rút hồ sơ.
 60
@@ -2023,18 +1899,14 @@ Hà Nội, ngày tháng năm
 ĐỢT THÁNG …….. NĂM 202…
 Ban Công tác chính trị và Công tác sinh viên trân trọng đề nghị các đơn vị chức năng
 của Học viện xác nhận cho:
-Họ và tên: ........................................... Khoa: ..............................................................
-Mã Sinh viên: ..................... Lớp: .......................... Số điện thoại: ..............................
+Mã Sinh viên: Lớp: Số điện thoại:
 Đã thanh toán xong với đơn vị để Ban CTCT&CTSV làm cơ sở đề nghị Ban Quản lý
 Đào tạo giải quyết cho sinh viên nhận Bằng tốt nghiệp.
-1. Ban chủ nhiệm khoa: ..............................................................................................
-2. Tổ Quản lý KTX - Văn phòng Học viện (KTX C3): .............................................
-3. TT Thông tin – Thư viện Lương Định Của: ..........................................................
-4. Đoàn thanh niên Học viện (P117 Nhà hành chính): ...............................................
-5. Ban Chỉ huy quân sự Học viện: ..............................................................................
-6. Ban Tài chính - Kế toán (P108 Nhà hành chính): ...................................................
-7. TT Kỹ năng mềm: ..................................................................................................
-8. Trung tâm tin học: ...................................................................................................
+2. Tổ Quản lý KTX - Văn phòng Học viện (KTX C3):
+3. TT Thông tin – Thư viện Lương Định Của:
+4. Đoàn thanh niên Học viện (P117 Nhà hành chính):
+5. Ban Chỉ huy quân sự Học viện:
+6. Ban Tài chính - Kế toán (P108 Nhà hành chính):
 Sinh viên phải xin xác nhận đầy đủ của các đơn vị còn NỢ CHƯA THANH TOÁN,
 xuất trình về Bộ phận giải quyết thủ tục hành chính sinh viên - Phòng 101 KTX A1 sinh
 viên để hoàn tất thủ tục trước khi nhận Bằng tốt nghiệp.
@@ -2045,36 +1917,19 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ĐƠN ĐỀ NGHỊ CHUYỂN LỊCH THI
 Kính gửi: Ban Quản lý đào tạo/ Giảng viên học phần
-Họ và tên: ...........................................  Mã Sinh viên:  ...............................................
-Sinh ngày:  ..........................................  Lớp: ...............................................................
 Tôi làm đơn này kính đề nghị Ban Quản lý đào tạo, Giảng viên cho tôi được chuyển
 lịch thi
-|               | Mã   |           |         |           |            | Tiết     |
-| ------------- | ---- | --------- | ------- | --------- | ---------- | -------- |
 | Tên học phần  |      | Ghép thi  | Tổ thi  | Ngày thi  | Phòng thi  |          |
-| học phần      |      |           |         |           |            | bắt đầu  |
-|               |      |           |         |           |            |          |
 Sang thi cùng:
-|               | Mã        |           |         |           |            | Tiết     |
-| ------------- | --------- | --------- | ------- | --------- | ---------- | -------- |
 | Tên học phần  |           | Ghép thi  | Tổ thi  | Ngày thi  | Phòng thi  |          |
-|               | học phần  |           |         |           |            | bắt đầu  |
-|               |           |           |         |           |            |          |
-Lý do:  .........................................................................................................................
-Minh chứng kèm theo:  ........................................................................................
 Tôi xin cam đoan lý do nêu trên là đúng sự thật. Tôi xin chân thành cảm ơn.
-|     |     |     |     | Hà Nội, ngày ..... tháng ..... năm 202.....  |     |     |
-| --- | --- | --- | --- | -------------------------------------------- | --- | --- |
+Hà Nội, ngày tháng năm 202
 Ý KIẾN BAN QUẢN LÝ ĐÀO TẠO
 Người đề nghị
-|     |     |     |     |     | (Ký và ghi rõ họ tên)  |     |
-| --- | --- | --- | --- | --- | ---------------------- | --- |
 62
 
 Dán ảnh  Mẫu 13
 cỡ 4x6
-|     | PHIẾU ĐĂNG KÝ  |     |
-| --- | -------------- | --- |
 Attach  DÀNH CHO NGƯỜI NƯỚC NGOÀI HỌC TẬP TẠI VIỆT NAM
 your
 photo
@@ -2085,72 +1940,45 @@ Hãy điền đầy đủ thông tin vào chỗ trống hoặc đánh dấu (
 tên bằng chữ in hoa. Please fill in the blanks or tick () appropriate boxes. Write your
 full name in BLOCK letters.
 | 1  Họ/Family name  | Tên đệm/Middle name  | Tên/First name  |
-| ------------------ | -------------------- | --------------- |
- .....................................    ............................................    .........................................
-2  Ngày sinh/Date of birth:  Ngày/Day ..... tháng/month .... năm/year ..........
+2 Ngày sinh/Date of birth: Ngày/Day tháng/month .... năm/year
 | 3  Giới tính/Gender:  |  Nam/Male  |  Nữ/Female  |
-| --------------------- | ------------ | ------------ |
-4  Nơi sinh/Place of birth:  Thành phố/City  ................................................................
-Nước/Country ...................................................................
-5  Quốc tịch/Nationality:   ..........................................................................................
-6  Nghề nghiệp/Occupation:  ..........................................................................................
-7  Tôn giáo/Religion:   ..........................................................................................
+4 Nơi sinh/Place of birth: Thành phố/City
+6 Nghề nghiệp/Occupation:
 | 8  Hộ chiếu/Passport:    | Số/Number                                       | Nơi cấp/Place of issue                       |
-| ------------------------ | ----------------------------------------------- | -------------------------------------------- |
-|                          |  ...........................................    |  .......................................     |
 |                          | Ngày cấp/Date of issue                          | Ngày hết hạn/Expiry date                     |
-|                          |  ............................................   |  .........................................   |
 | 9  Tình trạng hôn nhân/  |  Độc thân/Single                               |                                              |
 | Marital status:          |  Đã kết hôn/Married                            |                                              |
  Ly dị/Divorced
 10  Tiếng mẹ đẻ/
- .........................................................................................
 Native language:
-11  Địa chỉ liên hệ trong   .........................................................................................
 nước/
- .........................................................................................
 Home country contact
 address:
-12  Điện thoại nhà riêng trong nước/Home phone  . ...................................................
+12 Điện thoại nhà riêng trong nước/Home phone .
 number in your home country:
 63
 
 13 Người liên hệ khi cần báo tin ở trong nước/Contact person in your home country in
 case of emergency:
 Họ tên/Full name Quan hệ/Relationship
-............................................................ .....................................................................
 Địa chỉ nơi ở/Residential address Nơi làm việc/Place of work
-. ........................................................... .....................................................................
-............................................................ .....................................................................
 Điện thoại/Phone number Email
-. ........................................................... .....................................................................
 14 Quá trình học tập/Educational background:
 Năm học Cơ sở đào tạo Ngành học Văn bằng, chứng chỉ
 Academic year Institution Field of Study Qualifications
-...........................
-................... .............................. . ...................................
-...........................
-................... .............................. ....................................
-...........................
-................... .............................. ....................................
 .
-................... .............................. ....................................
-...........................
 15 Quá trình công tác/Employment record:
 15.1 Cơ quan công
-....................................................................................
 tác/Employer:
-Thời gian công tác/Time of Từ/From: tháng/month....... năm/year.......
-employment: Đến/To: tháng/month....... năm/year.......
-Vị trí công tác/Job Title: ....................................................................................
+Thời gian công tác/Time of Từ/From: tháng/month năm/year
+employment: Đến/To: tháng/month năm/year
+Vị trí công tác/Job Title:
 Mô tả công việc/Job
-......................................... ...........................................
 Description:
-Cơ quan công tác/Employer: ....................................................................................
-Thời gian công tác/Time of Từ/From: tháng/month....... năm/year.......
-employment: Đến/To: tháng/month....... năm/year.......
-Vị trí công tác/Job Title: ....................................................................................
-Mô tả công việc/Job ....................................................................................
+Cơ quan công tác/Employer:
+Thời gian công tác/Time of Từ/From: tháng/month năm/year
+employment: Đến/To: tháng/month năm/year
+Vị trí công tác/Job Title:
 Description:
 16 Tự đánh giá trình độ tiếng Việt/Self assessed Vietnamese language proficiency:
  Không biết tiếng Việt/Zero Vietnamese proficiency  Sơ cấp/Elementary
@@ -2161,14 +1989,12 @@ appropriate box in the next column:
 
 Nếu bạn đã học ở Việt Nam bằng tiếng Việt, hãy điền các thông tin dưới đây/If you
 have studied in Vietnam in Vietnamese, complete all following required information:
-Tên các trường đã học/Names ................................................................................
+Tên các trường đã học/Names
 of institutions attended:
-................................................................................
-Tổng thời gian đã học/Total ..... giờ/hours..... tháng/months.... năm/years
+Tổng thời gian đã học/Total giờ/hours tháng/months.... năm/years
 length of study:
 Giấy chứng nhận trình độ tiếng  Không/No
 Việt/Certificate of Vietnamese
- Có/Yes ....................... Trình độ/Level: .............
 language proficiency:
 Loại văn bằng tốt nghiệp đã  THPT/High school  Cao đẳng/College
 được cấp/Types of
@@ -2181,8 +2007,6 @@ qualifications awarded:
 Chọn trình độ tương ứng ở cột bên cạnh/Tick  Cao cấp/Advanced
 appropriate box in the next column:
 18 Ngoại ngữ khác/Other foreign languages:
-................................................... Trình độ/Level……………………………………
-................................................... Trình độ/Level:……………………………………
 19 Khóa học đăng ký/Proposed Study Program:
  Tiểu học/Primary School  Trung học cơ sở/Lower Secondary
 School
@@ -2193,13 +2017,10 @@ School
  Thực tập sinh/Research Fellowship
  Khóa học ngắn hạn/Short-term training course
 20 Ngành học, lĩnh vực nghiên cứu đăng ký/Proposed field of study/research:
-.....................................................................................................................................
 21 Thời gian học đăng ký/Proposed period of study:
 Từ/From: ……… ngày/day ……… tháng/month ……… năm/year.
 Đến/To: ……… ngày/day ……… tháng/month ……… năm/year.
 22 Cơ sở giáo dục đăng ký/Proposed educational institution for study/research:
-.....................................................................................................................................
-.....................................................................................................................................
 65
 
 23 Ngôn ngữ đăng ký sử dụng cho khóa học/Proposed language medium for study:
@@ -2208,26 +2029,24 @@ Từ/From: ……… ngày/day ……… tháng/month ……… năm/year.
 24 Thành viên trong gia đình đang ở Việt Nam (nếu có)/Your family members living
 in Vietnam (if any):
 Họ tên/Full name Quan hệ/Relationship Địa chỉ/Address
-1 ............................... ........................................ .................................................
-2 ................................ ........................................ .................................................
 25 Chi phí trong thời gian học tập tại Việt Nam/Source of funding for your study in
 Vietnam:
  Học bổng Chính phủ Việt Nam/Vietnamese Government Scholarship
  Học bổng khác/Other Scholarship
  Tự túc kinh phí/Self-funding
-26 .................................................... Tôi, người ký tên dưới đây, xin cam đoan tất cả
+26 Tôi, người ký tên dưới đây, xin cam đoan tất cả
 thông tin tôi ghi trong Phiếu đăng ký này là hoàn toàn trung thực và chính xác. Tôi
 xin cam kết tuân thủ Pháp luật của Việt Nam, Quy chế quản lý lưu học sinh nước
 ngoài học tập tại Việt Nam và nội quy, quy định của cơ sở đào tạo, cơ sở nội trú trong
 suốt thời gian lưu học tại Việt Nam.
-.................................................... I, the undersigned, hereby acknowledge that all
+I, the undersigned, hereby acknowledge that all
 the information on this Application Form is true and correct to the best of my
 knowledge. I hereby undertake to comply strictly with all the laws and the regulations
 of the Vietnamese Government, all regulations applicable to international students
 studying in Vietnam, all regulations of the educational institutions and
 accommodation providers throughout my stay in Vietnam.
 Ngày/Day ……… tháng/month ……… năm/year ………
-Ký tên/Applicant’s signature: .......................................
+Ký tên/Applicant’s signature:
 Danh mục hồ sơ/Document Checklist
 Mỗi ứng viên cần nộp 01 bộ gồm các tài liệu (in trên giấy khổ A4) liệt kê dưới đây. Các văn bản
 giấy tờ ghi bằng ngôn ngữ khác với tiếng Anh hoặc tiếng Việt thì phải đính kèm bản dịch hợp lệ
@@ -2478,105 +2297,76 @@ Quyết định số 491/QĐ-HVN ngày 21 tháng 02 năm 2020 của Giám đốc
 nghiệp Việt Nam:
 A. CÁCH TRÍCH DẪN TRONG NỘI DUNG TÀI LIỆU KHOA HỌC
 | TT  | NỘI DUNG  | VĂN BẢN TIẾNG VIỆT  | VĂN BẢN TIẾNG ANH  |
-| --- | --------- | ------------------- | ------------------ |
 1.1. Trường hợp 1 tác giả
 |   - Đối với tác giả người Việt:   |     | Cách 1:  | Cách 1:  |
-| --------------------------------- | --- | -------- | -------- |
 + Trong văn bản tiếng Việt, sử dụng  Theo Nguyễn Văn Toàn  According to Nguyen Van
 đầy đủ họ và tên có dấu (nếu là tài  (2008), …  Toan (2008), …
 liệu tiếng Việt) hoặc sử dụng họ và
 |     |     | Theo Nguyen Van Toan  | According to Smith (1998),  |
-| --- | --- | --------------------- | --------------------------- |
 tên như trong tài liệu bản gốc (nếu là
-|     |     | (2008), …  | …   |
-| --- | --- | ---------- | --- |
 tài liệu tiếng Anh);
 Theo Smith (1998), …
 |   + Trong văn bản tiếng Anh, sử dụng  |     | Cách 2:  | Cách 2:  |
-| ------------------------------------- | --- | -------- | -------- |
 đầy đủ họ và tên không dấu (nếu là  … (Nguyễn Văn Toàn, 2008).  … (Nguyen Van Toan,
 | tài liệu tiếng Việt) hoặc theo trích  |     |     | 2008).  |
-| ------------------------------------- | --- | --- | ------- |
 … (Nguyen Van Toan, 2008)
 dẫn nguyên gốc (nếu là tài liệu tiếng
 |     |     | … (Smith, 1998).  | … (Smith, 1998).  |
-| --- | --- | ----------------- | ----------------- |
 Anh).
 
 Cách 3:
 - Đối với tác giả người nước ngoài:
-|     |     | Nguyễn Văn Toàn (2008)….  |     |
-| --- | --- | ------------------------- | --- |
 chỉ sử dụng họ khi trích dẫn trong cả
 Cách 3:
 | văn bản tiếng Việt và tiếng Anh.  |     | Nguyen Van Toan (2008) …  |                           |
-| --------------------------------- | --- | ------------------------- | ------------------------- |
 |                                   |     | Smith (1998)….            | Nguyen Van Toan (2008) …  |
 Smith (1998) …
 1.2. Trường hợp 2 tác giả
 |   Nối tên 2 tác giả bằng ký hiệu “&”.  |     |          |          |
-| -------------------------------------- | --- | -------- | -------- |
 | - Đối với các tác giả người Việt:      |     | Cách 1:  | Cách 1:  |
 73
 
 | TT  | NỘI DUNG  | VĂN BẢN TIẾNG VIỆT  | VĂN BẢN TIẾNG ANH  |
-| --- | --------- | ------------------- | ------------------ |
 + Trong văn bản tiếng Việt sử dụng  Theo Nguyễn Văn Toàn &  According to Nguyen Van
 đầy đủ họ tên có dấu (nếu là tài liệu  Đặng Văn Lâm (2008), …   Toan & Dang Van Lam
 | tiếng Việt) hoặc sử dụng họ và tên  |     |     | (2008), …  |
-| ----------------------------------- | --- | --- | ---------- |
 Theo Do Duc Luc & Ha
 như trong tài liệu bản gốc (nếu là tài
 |                   |     | Xuan Bo (2013), …   | According to Do Duc Luc &  |
-| ----------------- | --- | ------------------- | -------------------------- |
 | liệu tiếng Anh);  |     |                     | Ha Xuan Bo (2013), …       |
 Theo Smith & Brown (1998),
 + Trong văn bản tiếng Anh, sử dụng
 |                                     |     | …   | According to Smith & Brown  |
-| ----------------------------------- | --- | --- | --------------------------- |
 | đầy đủ họ và tên không dấu (nếu là  |     |     | (1998), …                   |
 
 tài liệu tiếng Việt) hoặc theo trích
-|     |     | Cách 2:  | Cách 2:  |
-| --- | --- | -------- | -------- |
 dẫn nguyên gốc (nếu là tài liệu tiếng
 |     |     | … (Nguyễn Văn Toàn &  | … (Nguyen Van Toan &  |
-| --- | --- | --------------------- | --------------------- |
 Anh).
 |     |     | Đặng Văn Lâm, 2008).  | Dang Van Lam, 2008).  |
-| --- | --- | --------------------- | --------------------- |
 - Đối với các tác giả người nước
 |     |     | … (Smith & Brown, 1998).  | … (Smith & Brown, 1998).  |
-| --- | --- | ------------------------- | ------------------------- |
 ngoài: chỉ sử dụng họ khi trích dẫn
 trong cả văn bản tiếng Việt và tiếng  … (Do Duc Luc & Ha Xuan
  … (Do Duc Luc & Ha Xuan
-| Anh.  |     | Bo, 2013)  | Bo, 2013)  |
-| ----- | --- | ---------- | ---------- |
 Cách 3:
 Cách 3:
 |     |     | Nguyễn Văn Toàn & Đặng  | Nguyen Van Toan & Dang  |
-| --- | --- | ----------------------- | ----------------------- |
 Van Lam (2008)…..
 Văn
 |     |     | Lâm (2008) …            | Smith & Brown (1998)……   |
-| --- | --- | ----------------------- | ------------------------ |
 |     |     | Smith & Brown (1998) …  | Do Duc Luc & Ha Xuan Bo  |
 (2013) …
 Do Duc Luc & Ha Xuan Bo
 (2013) …
 1.3. Trường hợp 3 tác giả trở lên
 |   - Đối với văn bản tiếng Việt:  |     | Cách 1:  | Cách 1:  |
-| -------------------------------- | --- | -------- | -------- |
 Sử dụng họ và tên tác giả đứng đầu  Theo Nguyễn Văn An & cs.  According to Nguyen Van
 | và thêm “& cs.”   |     | (1999), …  | An et al. (1999), …  |
-| ----------------- | --- | ---------- | -------------------- |
 + Nếu tác giả đứng đầu là người  Theo Do Duc Luc & cs.  According to Do Duc Luc et
 | Việt sử dụng đầy đủ họ tên có dấu  |     | (2013), …  | al. (2013), …  |
-| ---------------------------------- | --- | ---------- | -------------- |
 (tài liệu là tiếng Việt); hoặc sử dụng
 |                                      |     | Theo Smith & cs. (1999), …  | According to Smith et al.  |
-| ------------------------------------ | --- | --------------------------- | -------------------------- |
 | theo trích dẫn nguyên gốc bất kể là  |     |                             | (1999), …                  |
 
 họ hay tên (tài liệu là tiếng Anh)
@@ -2585,30 +2375,22 @@ Cách 2:
 + Nếu tác giả đứng đầu là người
 ……. Nguyen Van An et al.
 | nước ngoài chỉ sử dụng họ khi trích  |     | … (Nguyễn Văn An & cs.,  |     |
-| ------------------------------------ | --- | ------------------------ | --- |
 (1999).
-| dẫn.  |     | 1999).                 |                           |
-| ----- | --- | ---------------------- | ------------------------- |
 |       |     | … (Smith & cs., 1999)  | ……. Smith et al. (1999).  |
 - Đối với văn bản tiếng Anh:
 
 | Sử dụng tác giả đứng đầu và thêm  |     | … (Do Duc Luc & cs., 2013)  |                       |
-| --------------------------------- | --- | --------------------------- | --------------------- |
-| “et al.”                          |     | Cách 3:                     | Cách 3:               |
 | + Nếu tác giả đứng đầu là người   |     |                             | Nguyen Van An et al.  |
 Nguyễn Văn An & cs.
 | Việt sử dụng đầy đủ họ và tên theo  |     |     | (1999)…  |
-| ----------------------------------- | --- | --- | -------- |
 (1999)…
 trích dẫn nguyên gốc nhưng bỏ dấu  Do Duc Luc et al. (2013)…
 Do Duc Luc & cs. (2013)…
 (tài liệu là tiếng Việt); hoặc theo
 Smith et al. (1999) …
 | trích dẫn nguyên gốc bất kể là họ  |     | Smith & cs. (1999)…  |     |
-| ---------------------------------- | --- | -------------------- | --- |
 
 | hay tên (tài liệu là tiếng Anh);   |     |     |     |
-| ---------------------------------- | --- | --- | --- |
 + Nếu tác giả đứng đầu là người
 nước ngoài chỉ sử dụng họ khi trích
 dẫn
@@ -2709,36 +2491,28 @@ https://www.mdpi.com/1999-
 
 Loại tài liệu
 | TT  | Văn bản tiếng Việt  | Văn bản tiếng Anh  |
-| --- | ------------------- | ------------------ |
 tham khảo
 2.3  Sách in   Nguyễn Vy & Trần Khải (1978).  Kiet T. T. (2011). Macro fungi of
 Trình bày:  Nghiên cứu hoá học đất vùng Bắc  Vietnam (Vol 1). Publishing House for
 |     | Việt Nam (Tập 2). Nhà xuất bản  | Science and Technology (in  |
-| --- | ------------------------------- | --------------------------- |
 Họ tên tác giả, tên
 |     | Nông nghiệp, Hà Nội.  | Vietnamese).  |
-| --- | --------------------- | ------------- |
 cơ quan (năm xuất
 | bản). Tên sách (số  |     | Goodpaster K. E., Nash L. L. & de  |
-| ------------------- | --- | ---------------------------------- |
 Bettignies H. (2006). Business ethics:
 tập/lần tái bản).
 Policies and persons (3rd ed.).
 Nhà xuất bản.
 | Thành phố, Tỉnh.  |     | McGraw-Hill/Irwin. Boston, MA.  |
-| ----------------- | --- | ------------------------------- |
 2.4  Sách E-Book  Bộ Quốc phòng - Viện Lịch sử Việt  Speed H. (2004). The practice and
 |     | Nam (2014). Lịch sử tư tưởng quân  | science of drawing. Retrieved from  |
-| --- | ---------------------------------- | ----------------------------------- |
 Trình bày:
 sự Việt Nam (Tập 5. Tổng luận).  http://www.gutenberg.org/etext/14264
 Họ tên tác giả
 |     | Truy cập từ https://www. dtv- | on May 10, 2018.  |
-| --- | ----------------------------- | ----------------- |
 (năm xuất bản).
 ebook.com/ doconline.
 | Tên sách [phần  |     | Rodriguez-Garcia R. & White E. M.  |
-| --------------- | --- | ---------------------------------- |
 php?hash=MTA1MDU=#epubcfi(/ (2005). Self-assessment in managing
 mềm đọc sách].
 6/2[titlepage]!4/1:0) ngày  for results: Conducting self-assessment
@@ -2747,33 +2521,26 @@ Truy cập từ trang
 for development practitioners.
 http:/xxxx ngày…
 | hoặc Doi:xxxx.  |     | doi:10.1596/9780-82136148-1.  |
-| --------------- | --- | ----------------------------- |
 2.5  Sách truy cập từ cơ Đào Thanh Vân & Đặng Thị Tố  Sayre R. K., Devercelli A. E., Neuman
 sở dữ liệu  Nga (2007). Giáo trình Cây ngô.  M. J. & Wodon Q. (2015). Investment
 | Trình bày:  | Truy cập từ                 | in early childhood development:    |
-| ----------- | --------------------------- | ---------------------------------- |
 |             | http://catlib.vnua.edu.vn:  | Review of the world bank’s recent  |
 Họ tên tác giả
 8080/ebook/view.jsp?id=3662 ngày  experience. DOI: 10.1596/978-1-4648-
 (năm xuất bản).
-|     | 08/05/2018.  | 0403-8.  |
-| --- | ------------ | -------- |
 Truy cập từ
 http://xxxx ngày…
 hoặc DOI: xxxx.
 2.6  Chương trong sách  Nguyễn Trần Oánh, Nguyễn Văn  Pizarro E. A. & Rincón A. (1994).
 |     | Viên & Bùi Trọng Thủy (2007). Cơ  | Regional experience with forage  |
-| --- | --------------------------------- | -------------------------------- |
 Trình bày:
 sở độc chất học nông nghiệp.  Arachis in South America. In: Kerridge
 Họ tên tác giả
 Trong: Giáo trình Sử dụng thuốc  P. C. & Hardy B. (Eds.). Biology and
 (năm xuất bản).
 |     | bảo vệ thực vật. Nhà xuất bản nông  | agronomy of forage Arachis. CIAT,  |
-| --- | ----------------------------------- | ---------------------------------- |
 Tên chương.
 |     | nghiệp.  | Cali, Colombia. 144-157.  |
-| --- | -------- | ------------------------- |
 Trong: (Tên chủ
 tr. 10-15.
 biên (chủ biên)).
@@ -2785,22 +2552,18 @@ trích dẫn (nếu có).
 rệp muội trên một số cây trồng  stress on the growth of Arachis pintoi
 Trình bày:
 |     | chính ở đồng bằng sông Hồng và  | cv. Amarillo and its physiology and  |
-| --- | ------------------------------- | ------------------------------------ |
 Họ tên tác giả
 biện pháp phòng trừ. Luận án tiến sĩ biochemical indexes. Master thesis.
 (năm xuất bản).
 |     | khoa học nông nghiệp. Học viện  | Fujian Agriculture and Forestry  |
-| --- | ------------------------------- | -------------------------------- |
 Tiêu đề. Luận văn
 |     | Nông nghiệp Việt Nam. 113-115.  | University. 234-238.  |
-| --- | ------------------------------- | --------------------- |
 thạc sĩ, Luận án
 Vũ Thị Bích Hạnh (2004). Đánh giá
 tiến sĩ. Cơ sở đào
 khả năng chịu hạn của một số giống
 tạo. (trang trích
 | dẫn/tổng số trang)  | lúa địa phương vùng núi Tây Bắc  |     |
-| ------------------- | -------------------------------- | --- |
 sau chọn lọc trong vụ xuân 2004 tại
 77
 
@@ -3384,53 +3147,38 @@ Số lần vi phạm
 và hình thức xử lý
 (Số lần tính trong cả khóa học)
 | TT  Tên vụ việc vi phạm  |     |     |     |     | Ghi chú  |
-| ------------------------ | --- | --- | --- | --- | -------- |
 Buộc
-|     |     | Khiển  Cảnh  | Đình chỉ  |     |     |
-| --- | --- | ------------ | --------- | --- | --- |
 thôi
-|     |     | trách  cáo  | 1 năm học  |     |     |
-| --- | --- | ----------- | ---------- | --- | --- |
 học
-| 1   | 2   | 3  4  | 5   | 6   | 7   |
-| --- | --- | ----- | --- | --- | --- |
   Vi phạm nội quy, quy định lớp  Lần 1  Lần 2      Khi có đề nghị của giảng
 | học: Đến muộn giờ học, giờ thực       |     |     |     | viên giảng dạy và hướng  |     |
-| ------------------------------------- | --- | --- | --- | ------------------------ | --- |
 | tập; mất trật tự, làm việc riêng như  |     |     |     | dẫn thực hành            |     |
 ăn quà, hút thuốc, sử dụng điện
 thoại... vi phạm nội quy phòng
 thực hành
 |   Nghỉ học không phép  |     | Lần 1  Lần 2  |     |     |     |
-| ---------------------- | --- | ------------- | --- | --- | --- |
   Nghỉ học quá phép  Lần 1  Lần 2      Xóa tên khỏi danh sách lớp
 |   Không chấp hành sự phân công  |     |     |     |     |     |
-| ------------------------------- | --- | --- | --- | --- | --- |
 của tổ chức
 | - Của lớp (chi đoàn)  |     | Lần 1         |     |     |     |
-| --------------------- | --- | ------------- | --- | --- | --- |
 | - Của khoa, Học viện  |     | Lần 1  Lần 2  |     |     |     |
   Vô lễ với thầy, cô giáo và CBVC          Tuỳ thuộc mức độ, xử lý
 | Học viện; xúc phạm danh dự,        |     |          |        | từ khiển trách đến buộc  |     |
-| ---------------------------------- | --- | -------- | ------ | ------------------------ | --- |
 | nhân phẩm người khác               |     |          |        | thôi học                 |     |
 | Có thái độ và lời nói vô lễ        |     | Lần 1    |        |                          |     |
 | Có hành động và lời nói đe dọa     |     |   Lần 1  |        |                          |     |
 | Vi phạm đến thân thể, tài sản của  |     |          | Lần 1  |                          |     |
 CBVC, của người khác
 | Vi phạm đến thân thể, tài sản,  |     |     |     | Lần 1  |     |
-| ------------------------------- | --- | --- | --- | ------ | --- |
 danh dự và nhân phẩm của
 CBVC, của người khác
   Giả mạo chữ ký của người khác,          Tùy theo mức độ xử lý từ
 | sử dụng giấy tờ giả  |     |     |     | khiển trách đến buộc thôi  |     |
-| -------------------- | --- | --- | --- | -------------------------- | --- |
 học hoặc giao cho cơ quan
 chức năng xử lý theo quy
 định của pháp luật
   Học hộ hoặc nhờ người khác học          Tuỳ thuộc mức độ, xử lý từ
 | hộ  |     |     |     | khiển trách đến buộc thôi  |     |
-| --- | --- | --- | --- | -------------------------- | --- |
 học
   Thi, kiểm tra hộ, hoặc nhờ thi,      Lần 1  Lần 2  Xử lý theo quy chế đào tạo
 kiểm tra hộ; làm hộ, nhờ làm
@@ -3442,19 +3190,11 @@ Số lần vi phạm
 và hình thức xử lý
 (Số lần tính trong cả khóa học)
 | TT  Tên vụ việc vi phạm  |     |     |     |     | Ghi chú  |
-| ------------------------ | --- | --- | --- | --- | -------- |
 Buộc
-|     |     | Khiển  Cảnh  | Đình chỉ  |     |     |
-| --- | --- | ------------ | --------- | --- | --- |
 thôi
-|     |     | trách  cáo  | 1 năm học  |     |     |
-| --- | --- | ----------- | ---------- | --- | --- |
 học
-| 1   | 2   | 3  4  | 5   | 6   | 7   |
-| --- | --- | ----- | --- | --- | --- |
   Tổ chức học, thi, kiểm tra hộ; tổ        Lần 1  Tuỳ theo mức độ có thể
 | chức làm hộ tiểu luận, đồ án,  |     |     |     | giao cho cơ quan chức năng  |     |
-| ------------------------------ | --- | --- | --- | --------------------------- | --- |
 | khóa luận tốt nghiệp           |     |     |     | xử lý theo quy định của     |     |
 pháp luật
   Mang tài liệu vào phòng thi, đưa          Xử lý theo quy chế đào tạo
@@ -3464,11 +3204,8 @@ thi; bỏ thi không có lý do chính
 đáng
   Không đóng học phí đúng quy          Tuỳ theo mức độ, xử lý từ
 | định và quá thời hạn được Học  |     |     |     | khiển trách đến buộc thôi  |     |
-| ------------------------------ | --- | --- | --- | -------------------------- | --- |
-| viện cho phép hoãn             |     |     |     | học                        |     |
   Tự ý tháo dỡ, di chuyển tài sản,          Tuỳ theo mức độ xử lý từ
 | làm hư hỏng tài sản trong ký túc     |     |     |     | khiển trách đến buộc thôi  |     |
-| ------------------------------------ | --- | --- | --- | -------------------------- | --- |
 | xá, giảng đường và các tài sản khác  |     |     |     | học.                       |     |
 của Học viện ngoài việc phải bồi
 thường thiệt hại còn bị xử lý
@@ -3476,27 +3213,21 @@ thường thiệt hại còn bị xử lý
 rượu, bia khi đến lớp.
   Hút thuốc lá trong giờ học, phòng          Từ lần 3 trở lên, xử lý từ
 | họp, phòng thí nghiệm và nơi cấm  |     |     |     | khiển trách đến cảnh cáo.  |     |
-| --------------------------------- | --- | --- | --- | -------------------------- | --- |
 hút thuốc theo quy định
 |   Đánh bài, đánh bạc  |     |     |     |   Tuỳ mức độ có thể giao cho  |     |
-| --------------------- | --- | --- | --- | ----------------------------- | --- |
 cơ quan chức năng xử lý
 | - Đánh bài trong giờ tự học, sau  |     | Lần 1  Lần 2  |     |     |     |
-| --------------------------------- | --- | ------------- | --- | --- | --- |
 theo quy định của pháp luật
 11 giờ đêm
 | - Chơi cờ bạc dưới mọi hình thức  |     | Lần 1  Lần 2  | Lần 3  | Lần 4  |     |
-| --------------------------------- | --- | ------------- | ------ | ------ | --- |
 | - Chứa chấp, đứng xem đánh bài    |     | Lần 1  Lần 2  | Lần 3  |        |     |
 ăn tiền không can ngăn
 | - Cá độ dưới mọi hình thức       |     |   Lần 1  | Lần 2  | Lần 3  |     |
-| -------------------------------- | --- | -------- | ------ | ------ | --- |
 | - Đánh bài ăn tiền, bị công an,  |     |          |        | Lần 1  |     |
 chính quyền địa phương, bảo vệ
 bắt quả tang
   Vi phạm quy định về trật tự công          Tùy theo mức độ xử lý từ
 | cộng, khu vực cơ quan              |     |          |     | cảnh cáo đến buộc thôi học  |     |
-| ---------------------------------- | --- | -------- | --- | --------------------------- | --- |
 | - Trực tiếp tham gia hoặc đưa đối  |     |   Lần 1  |     |                             |     |
 tượng xấu vào trong Học viện, ký
 túc xá gây ảnh hưởng xấu đến an
@@ -3507,60 +3238,43 @@ Số lần vi phạm
 và hình thức xử lý
 (Số lần tính trong cả khóa học)
 | TT  Tên vụ việc vi phạm  |     |     |     |     | Ghi chú  |
-| ------------------------ | --- | --- | --- | --- | -------- |
 Buộc
-|     |     | Khiển  Cảnh  | Đình chỉ  |     |     |
-| --- | --- | ------------ | --------- | --- | --- |
 thôi
-|     |     | trách  cáo  | 1 năm học  |     |     |
-| --- | --- | ----------- | ---------- | --- | --- |
 học
-| 1                               | 2   | 3  4     | 5   | 6   | 7   |
-| ------------------------------- | --- | -------- | --- | --- | --- |
 | - Để xảy ra việc các đối tượng  |     |   Lần 1  |     |     |     |
 này ăn cắp, trấn lột, đánh SV, trêu
 ghẹo SV nữ
 | - Cùng tham gia ăn cắp, trấn lột,  |     |     | Lần 1  | Lần 2  |     |
-| ---------------------------------- | --- | --- | ------ | ------ | --- |
 đánh SV, trêu ghẹo SV nữ
 | - Vi phạm quy định ra vào cơ  |     | Lần 1  Lần 2  |     |     |     |
-| ----------------------------- | --- | ------------- | --- | --- | --- |
 quan như: không đeo thẻ sinh
 viên, không để phương tiện đúng
 nơi quy định,...
   Tàng trữ, lưu hành, truy cập, sử  Lần 1  Lần 2  Lần 3  Lần 4  Nếu nghiêm trọng giao cho
 | dụng và phát tán sản phẩm văn   |     |     |     | cơ quan chức năng xử lý      |     |
-| ------------------------------- | --- | --- | --- | ---------------------------- | --- |
 | hoá đồi trụy hoặc tham gia các  |     |     |     | theo quy định của pháp luật  |     |
 hoạt động mê tín dị đoan, hoạt
 động tôn giáo trái phép
   Buôn bán, vận chuyển, tàng trữ,        Lần 1  Giao cho cơ quan chức
 | lôi kéo người khác sử dụng ma  |     |     |     | năng xử lý theo quy định     |     |
-| ------------------------------ | --- | --- | --- | ---------------------------- | --- |
-| tuý                            |     |     |     | của pháp luật                |     |
 |   Sử dụng ma tuý               |     |     |     |   Xử lý theo quy định về xử  |     |
 lý SV sử dụng ma tuý
   Chứa chấp, môi giới hoạt động        Lần 1  Giao cho cơ quan chức
 | mại dâm  |     |     |     | năng xử lý theo quy định  |     |
-| -------- | --- | --- | --- | ------------------------- | --- |
 của pháp luật
   Lấy cắp tài sản, chứa chấp, tiêu    Xử lí  XL  XL  Tuỳ theo mức độ xử lý từ
 thụ tài sản do lấy cắp mà có  (XL)  cảnh cáo đến buộc thôi học.
 |     |     |     |     | Nếu nghiêm trọng, giao cho  |     |
-| --- | --- | --- | --- | --------------------------- | --- |
 cơ quan chức năng xử lý
 theo quy định của pháp luật
   Chứa chấp buôn bán vũ khí, chất        Lần 1  Giao cho cơ quan chức
 | nổ, chất dễ cháy và các hàng cấm  |     |     |     | năng xử lý theo quy định  |     |
-| --------------------------------- | --- | --- | --- | ------------------------- | --- |
 | theo quy định của Nhà nước.       |     |     |     | của pháp luật             |     |
   Đánh nhau gây thương tích, tổ      Lần 1  Lần 2  Nếu nghiêm trọng, giao cho
 | chức hoặc tham gia tổ chức đánh  |     |     |     | cơ quan chức năng xử lý      |     |
-| -------------------------------- | --- | --- | --- | ---------------------------- | --- |
 | nhau                             |     |     |     | theo quy định của pháp luật  |     |
   Kích động, lôi kéo người khác      Lần 1  Lần 2  Nếu nghiêm trọng, giao cho
 | biểu tình, viết truyền đơn, áp  |     |     |     | cơ quan chức năng xử lý      |     |
-| ------------------------------- | --- | --- | --- | ---------------------------- | --- |
 | phích trái pháp luật            |     |     |     | theo quy định của pháp luật  |     |
 98
 
@@ -3568,39 +3282,25 @@ Số lần vi phạm
 và hình thức xử lý
 (Số lần tính trong cả khóa học)
 | TT  Tên vụ việc vi phạm  |     |     |     |     | Ghi chú  |
-| ------------------------ | --- | --- | --- | --- | -------- |
 Buộc
-|     |     | Khiển  Cảnh  | Đình chỉ  |     |     |
-| --- | --- | ------------ | --------- | --- | --- |
 thôi
-|     |     | trách  cáo  | 1 năm học  |     |     |
-| --- | --- | ----------- | ---------- | --- | --- |
 học
-| 1   | 2   | 3  4  | 5   | 6   | 7   |
-| --- | --- | ----- | --- | --- | --- |
   Vi phạm các quy định về an toàn          Tuỳ theo mức độ, xử lý từ
 | giao thông  |     |     |     | khiển trách đến buộc thôi  |     |
-| ----------- | --- | --- | --- | -------------------------- | --- |
 học
 | - Tham gia đua xe trái phép      |     | Lần 1  Lần 2  | Lần 3  | Lần 4  |     |
-| -------------------------------- | --- | ------------- | ------ | ------ | --- |
 | - Tham gia tổ chức hoặc tổ chức  |     |               | Lần 1  | Lần 2  |     |
 đua xe trái phép
 |   Quan hệ nam nữ bất chính (nam  |     |   XL  |     |     |     |
-| -------------------------------- | --- | ----- | --- | --- | --- |
 hoặc nữ đã có gia đình)
 | - Nam đến ngủ tại phòng nữ hoặc  |     |   XL  |     |     |     |
-| -------------------------------- | --- | ----- | --- | --- | --- |
 nữ đến ngủ tại phòng nam
 |   Ăn tiêu quá trớn phải vay mượn  |     |   XL  |     |     |     |
-| --------------------------------- | --- | ----- | --- | --- | --- |
 dẫn đến việc lộn xộn mất trật tự
 trị an trong và ngoài Học viện
 |   Lợi dụng lòng tin của bạn bè,  |     |     |     |     |     |
-| -------------------------------- | --- | --- | --- | --- | --- |
 công dân
 | - Để mượn thẻ sinh viên, tài sản  |     |     | Lần 1  | Lần 2    |     |
-| --------------------------------- | --- | --- | ------ | -------- | --- |
 đem cầm đồ, cá độ
 - Lừa đảo, chiếm đoạt tài sản        Lần 1  Truy tố trước pháp luật
 công dân
@@ -3609,7 +3309,6 @@ khí để cưỡng đoạt tài sản của
 công dân, của sinh viên không kể
 giá trị ít hay nhiều)
 | - Tòng phạm a dua (đi theo không  |     |     | Lần 1  |     |     |
-| --------------------------------- | --- | --- | ------ | --- | --- |
 có hành động và lời nói gì can
 ngăn)
 - Trực tiếp tham gia như đánh        Lần 1  Bị truy tố trước pháp luật
@@ -3620,10 +3319,8 @@ công dân
 viết truyền đơn, áp phích... trái
 pháp luật
 | - Là người trực tiếp tổ chức biểu  |     |     |     | Lần 1  |     |
-| ---------------------------------- | --- | --- | --- | ------ | --- |
 tình, viết truyền đơn, áp phích
 |   Chấp hành pháp luật, quản lý  |     |     |     |     |     |
-| ------------------------------- | --- | --- | --- | --- | --- |
 hành chính
 99
 
@@ -3631,26 +3328,17 @@ Số lần vi phạm
 và hình thức xử lý
 (Số lần tính trong cả khóa học)
 | TT  Tên vụ việc vi phạm  |     |     |     |     | Ghi chú  |
-| ------------------------ | --- | --- | --- | --- | -------- |
 Buộc
-|     |     | Khiển  Cảnh  | Đình chỉ  |     |     |
-| --- | --- | ------------ | --------- | --- | --- |
 thôi
-|     |     | trách  cáo  | 1 năm học  |     |     |
-| --- | --- | ----------- | ---------- | --- | --- |
 học
-| 1   | 2   | 3  4  | 5   | 6   | 7   |
-| --- | --- | ----- | --- | --- | --- |
 - Vi phạm quy định về quản lý  Lần 1  Lần 2      Tùy theo mức độ vi phạm
 | hành chính, đăng ký hộ khẩu tạm    |     |     |     | xử lý từ khiển trách đến  |     |
-| ---------------------------------- | --- | --- | --- | ------------------------- | --- |
 | trú, đăng ký nghĩa vụ quân sự,...  |     |     |     | buộc thôi học             |     |
 | - Có hành vi phạm pháp bị bắt      |     |     |     | Lần 1                     |     |
 quả tang, bị tạm giam, bị truy tố,
 bị truy cứu trách nhiệm hình sự
   SV bị đình chỉ học tập 1 năm        Lần 1  Không phải đưa ra hội đồng
 | nhưng vẫn cố tình ở lại Học viện  |     |     |     | kỷ luật  |     |
-| --------------------------------- | --- | --- | --- | -------- | --- |
 và không chịu thi hành quyết định
 thì phải xử lý kỉ luật mức cao
 hơn.
@@ -3823,29 +3511,17 @@ lần thứ hai thì sẽ bị buộc thôi học.
 
 PHIẾU ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN SINH VIÊN
 (Năm thứ nhất - tín chỉ)
-Họ tên:  .............................. Mã SV: .............................. SĐT:………………………...
-Lớp:  .................................. Khoa:  ................................ Email:……………………….
-|     | Mức  SV  Tổ CTSV  |     |
-| --- | ----------------- | --- |
 Tiêu chí đánh giá, Điểm do cá nhân, tập thể đánh giá
-|     | tối đa  tự ĐG  Lớp, CĐ  |     |
-| --- | ------------------------ | --- |
 I. Tiêu chí 1: Ý thức và kết quả học tập (Chỉ tính điểm thi lần 1)  20
-| a. Ý thức                         | 10    |     |
-| --------------------------------- | ----- | --- |
 | 1.1. Ý thức và thái độ học tập:   | 4     |     |
 + Đúng giờ, đủ giờ, nghiêm túc, không nói chuyện, không làm việc
 không liên quan đến môn học, có ý thức xây dựng bài, chuẩn bị bài đầy  4
 đủ...
 | + Có ý thức nhưng chưa thật đầy đủ  | 2    |     |
-| ----------------------------------- | ---- | --- |
-| + Ý thức yếu, kém                   | 0    |     |
 | 1.2. Tham gia CLB học thuật         | 2    |     |
 1.3. Tham gia các kỳ thi, nghiêm túc, đúng quy chế, quy định  3
 | 1.4. Tinh thần vượt khó                  | 1     |     |
-| ---------------------------------------- | ----- | --- |
 | b. Kết quả học tập và NCKH               | 10    |     |
-| b.1. Học tập                             | 8     |     |
 | 1.5. Điểm TBCHT học kỳ từ 3,60 đến 4,00  | 8     |     |
 | 1.6. Điểm TBCHT học kỳ từ 3,20 đến 3,59  | 6     |     |
 | 1.7. Điểm TBCHT học kỳ từ 2,50 đến 3,19  | 4     |     |
@@ -3854,53 +3530,34 @@ không liên quan đến môn học, có ý thức xây dựng bài, chuẩn b�
 | 1.10. Điểm TBCHT học kỳ <1,00            | 0     |     |
 | b.2. Thi sinh viên giỏi và NCKH          | 2     |     |
 1.11. Sinh viên Thi Olympic, Thi sinh viên giỏi, NCKH đạt giải cấp khoa
-|     | 2    |     |
-| --- | ---- | --- |
 trở lên
 1.12. Sinh viên Thi Olympic, Thi sinh viên giỏi, tham gia NCKH, không
-|     | 1    |     |
-| --- | ---- | --- |
 đạt giải
 | 1.13. Sinh viên không tham gia NCKH  | 0    |     |
-| ------------------------------------ | ---- | --- |
 II. Tiêu chí 2: Ý thức và kết quả chấp hành nội quy, quy chế trong
-|     | 25    |     |
-| --- | ----- | --- |
 nhà trường
 | 2.1. Thực hiện tốt các nội quy quy chế   | 25    |     |
-| ---------------------------------------- | ----- | --- |
 2.2. Vi phạm quy chế thi và kiểm tra; không đóng học phí học kỳ; không
 hoàn thành nghĩa vụ công lao động sinh viên, không tham tuần sinh  0
 hoạt công dân sinh viên…
 105
 
-|     | Mức  SV  Tổ CTSV  |     |
-| --- | ----------------- | --- |
 Tiêu chí đánh giá, Điểm do cá nhân, tập thể đánh giá
-|                                              | tối đa  tự ĐG  Lớp, CĐ  |     |
-| -------------------------------------------- | ------------------------ | --- |
 | 2.3 Nộp học phí, đoàn phí không đúng kỳ hạn  | 15                       |     |
 2.4. Vi phạm nội quy, quy chế (Nội, ngoại trú, đi học muộn, bỏ giờ;
 không đeo thẻ sinh viên; không nộp phiếu quản lý sinh viên; sinh viên
-|     | 10    |     |
-| --- | ----- | --- |
 nam không hoàn thành thủ tục đăng kí nghĩa vụ quân sự; không hoàn
 thành hồ sơ sinh viên đúng kỳ hạn...)
 III. Tiêu chí 3: Ý thức và kết quả tham gia các hoạt động chính trị -
-|     | 20    |     |
-| --- | ----- | --- |
 xã hội, văn hóa - văn nghệ, thể thao, phòng chống các tệ nạn xã hội
 3.1. Tham gia đầy đủ các hoạt động và được khen thưởng của các tổ
 chức Đoàn, Hội Sinh viên, Hội liên hiệp Thanh niên, được khen thưởng  20
 cấp khoa trở lên
 | 3.2. Tham gia đầy đủ các hoạt động   | 18    |     |
-| ------------------------------------ | ----- | --- |
 | 3.3. Tham gia không đầy đủ           | 10    |     |
 | 3.4. Không tham gia các hoạt động    | 0     |     |
 IV. Tiêu chí 4: Phẩm chất công dân và quan hệ với cộng đồng  25
 4.1. Ý thức chấp hành và tham gia tuyên truyền các chủ trương của
-|     | 15    |     |
-| --- | ----- | --- |
 Đảng, chính sách, pháp luật của Nhà nước và cộng đồng
 4.1.1. Tích cực tham gia tuyên truyền và chấp hành tốt pháp luật, được
 lớp và chi đoàn tín nhiệm có ý thức tập thể tốt (có ≥70% số SV trong lớp  15
@@ -3912,81 +3569,45 @@ trong lớp biểu quyết đồng ý)
 lớp và chi đoàn tín nhiệm có ý thức tập thể tốt (có <30% số SV trong lớp  5
 biểu quyết đồng ý)
 | 4.1.4. Vi phạm khuyết điểm, gây mất đoàn kết  | 0    |     |
-| --------------------------------------------- | ---- | --- |
 4.2. Ý thức tham gia các hoạt động xã hội có thành tích được ghi nhận,
-|     | 5    |     |
-| --- | ---- | --- |
 biểu dương khen thưởng
 4.3. Có tinh thần chia sẻ, giúp đỡ người thân, người có khó khăn, hoạn
-|     | 5    |     |
-| --- | ---- | --- |
 nạn
 V. Tiêu chí 5: Ý thức tham gia công tác lớp, đoàn, Hội SV, các tổ
-|     | 10    |     |
-| --- | ----- | --- |
 chức khác
 5.1. Thành viên BCS; BCHHSV; BCH từ cấp CĐ; BCN các Câu lạc bộ
-|     | 10    |     |
-| --- | ----- | --- |
 sinh viên có Quyết định của Trường, Khoa trở lên mà TT đó được khen
 5.2. Thành viên BCS; BCHHSV; BCH từ cấp Chi đoàn; BCN các Câu
-|     | 9    |     |
-| --- | ---- | --- |
 lạc bộ sinh viên có Quyết định của Trường, Khoa trở lên
 5.3. Thành viên BCS; BCHHSV; BCH từ cấp Chi đoàn; BCN các Câu
 lạc bộ sinh viên có Quyết định của Trường, Khoa trở lên mà lớp có sai  5
 phạm nhưng chưa bị thi hành kỷ luật
 106
 
-|     | Mức  SV  Tổ CTSV  |     |
-| --- | ----------------- | --- |
 Tiêu chí đánh giá, Điểm do cá nhân, tập thể đánh giá
-|     | tối đa  tự ĐG  Lớp, CĐ  |     |
-| --- | ------------------------ | --- |
 5.4. Thành viên BCS; BCHHSV; BCH từ cấp Chi đoàn; BCN các CLB
 SV có Quyết định của Trường, Khoa trở lên mà Lớp có sai phạm, bị phê  0
 bình từ cấp khoa trở lên
 5.5. Đội TNXK; TNTN thường trực; đội Văn nghệ; Thể thao; thành viên
-|     | 9    |     |
-| --- | ---- | --- |
 CLB SV có Quyết định của Trường, Khoa trở lên, được khen thưởng
 5.6. Đội TNXK; TNTN thường trực; đội Văn nghệ, Thể thao; các CLB
-|     | 5    |     |
-| --- | ---- | --- |
 SV có Quyết định của Trường, Khoa trở lên
 5.7. Không tham gia công tác lớp, đoàn, Hội SV, các tổ chức khác
-|            | 0      |     |
-| ---------- | ------ | --- |
-| Tổng điểm  | 100    |     |
 
 107
 
 PHIẾU ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN SINH VIÊN   Mẫu 3B
 (Năm thứ hai trở lên - tín chỉ)
-Họ tên: ........................................  Mã SV: ............................. Lớp:…………………...
-Khoa:  .........................................  Email:  ..............................
-|     | Mức  SV  Tổ CTSV  |     |
-| --- | ----------------- | --- |
 Tiêu chí đánh giá, Điểm do cá nhân, tập thể đánh giá
-|     | tối đa  tự ĐG  Lớp, CĐ  |     |
-| --- | ----------------------- | --- |
 I. Tiêu chí 1: Ý thức và kết quả học tập (Chỉ tính điểm thi lần 1)  20
-| a. Ý thức                         | 10    |     |
-| --------------------------------- | ----- | --- |
 | 1.1. Ý thức và thái độ học tập:   | 4     |     |
 + Đúng giờ, đủ giờ, nghiêm túc, không nói chuyện, không làm việc
-|     | 4    |     |
-| --- | ---- | --- |
 không liên quan đến môn học, có ý thức xây dựng bài, chuẩn bị bài đầy đủ...
 | + Có ý thức nhưng chưa thật đầy đủ  | 2    |     |
-| ----------------------------------- | ---- | --- |
-| + Ý thức yếu, kém                   | 0    |     |
 | 1.2. Tham gia câu lạc bộ học thuật  | 2    |     |
 1.3. Tham gia các kỳ thi, nghiêm túc, đúng quy chế, quy định  3
 | 1.4. Tinh thần vượt khó                  | 1     |     |
-| ---------------------------------------- | ----- | --- |
 | b. Kết quả học tập và NCKH               | 10    |     |
-| b.1. Học tập                             | 7     |     |
 | 1.5. Điểm TBCHT học kỳ từ 3,60 đến 4,00  | 7     |     |
 | 1.6. Điểm TBCHT học kỳ từ 3,20 đến 3,59  | 5     |     |
 | 1.7. Điểm TBCHT học kỳ từ 2,50 đến 3,19  | 4     |     |
@@ -3995,54 +3616,35 @@ không liên quan đến môn học, có ý thức xây dựng bài, chuẩn b�
 | 1.10. Điểm TBCHT học kỳ <1,00            | 0     |     |
 | b.2. Thi sinh viên giỏi và NCKH          | 3     |     |
 1.11. Sinh viên Thi Olympic, Thi sinh viên giỏi, NCKH đạt giải cấp trường
-|     | 3    |     |
-| --- | ---- | --- |
 trở lên
 1.12. Sinh viên Thi Olympic, Thi sinh viên giỏi, NCKH đạt giải cấp khoa  2
 1.13. Sinh viên Thi Olympic, Thi sinh viên giỏi, tham gia NCKH, không đạt
-|     | 1    |     |
-| --- | ---- | --- |
 giải
 | 1.14. Sinh viên không tham gia NCKH  | 0    |     |
-| ------------------------------------ | ---- | --- |
 II. Tiêu chí 2: Ý thức và kết quả chấp hành nội quy, quy chế trong nhà
-|     | 25    |     |
-| --- | ----- | --- |
 trường
 | 2.1. Thực hiện tốt các nội quy quy chế   | 25    |     |
-| ---------------------------------------- | ----- | --- |
 2.2. Vi phạm quy chế thi và kiểm tra; không đóng học phí học kỳ; không hoàn
 thành nghĩa vụ công lao động sinh viên, không tham tuần sinh hoạt công dân  0
 sinh viên…
 108
 
-|     | Mức  SV  Tổ CTSV  |     |
-| --- | ----------------- | --- |
 Tiêu chí đánh giá, Điểm do cá nhân, tập thể đánh giá
-|                                              | tối đa  tự ĐG  Lớp, CĐ  |     |
-| -------------------------------------------- | ----------------------- | --- |
 | 2.3 Nộp học phí, đoàn phí không đúng kỳ hạn  | 15                      |     |
 2.4. Vi phạm nội quy quy chế (Nội, ngoại trú, đi học muộn, bỏ giờ; không
 đeo thẻ sinh viên; không nộp phiếu quản lý sinh viên; sinh viên nam không
-|     | 10    |     |
-| --- | ----- | --- |
 hoàn thành thủ tục đăng kí nghĩa vụ quân sự; không hoàn thành hồ sơ sinh
 viên đúng kỳ hạn...
 III. Tiêu chí 3: Ý thức và kết quả tham gia các hoạt động chính trị - xã
-|     | 20    |     |
-| --- | ----- | --- |
 hội, văn hóa - văn nghệ, thể thao, phòng chống các tệ nạn xã hội
 3.1. Tham gia đầy đủ các hoạt động và được khen thưởng của các tổ chức
 Đoàn, Hội Sinh viên, Hội liên hiệp Thanh niên, được khen thưởng cấp khoa  20
 trở lên
 | 3.2. Tham gia đầy đủ các hoạt động   | 15    |     |
-| ------------------------------------ | ----- | --- |
 | 3.3. Tham gia không đầy đủ           | 10    |     |
 | 3.4. Không tham gia các hoạt động    | 0     |     |
 IV. Tiêu chí 4: Phẩm chất công dân và quan hệ với cộng đồng  25
 4.1. Ý thức chấp hành và tham gia tuyên truyền các chủ trương của Đảng,
-|     | 15    |     |
-| --- | ----- | --- |
 chính sách, pháp luật của Nhà nước và cộng đồng
 4.1.1. Tích cực tham gia tuyên truyền và chấp hành tốt pháp luật, được lớp
 và chi đoàn tín nhiệm có ý thức tập thể tốt (có ≥70% số SV trong lớp biểu  15
@@ -4054,138 +3656,58 @@ biểu quyết đồng ý)
 và chi đoàn tín nhiệm có ý thức tập thể tốt (có <30% số SV trong lớp biểu  5
 quyết đồng ý)
 | 4.1.4. Vi phạm khuyết điểm, gây mất đoàn kết  | 0    |     |
-| --------------------------------------------- | ---- | --- |
 4.2. Ý thức tham gia các hoạt động xã hội có thành tích được ghi nhận, biểu
-|     | 5    |     |
-| --- | ---- | --- |
 dương khen thưởng
 4.3. Có tinh thần chia sẻ, giúp đỡ người thân, người có khó khăn, hoạn nạn  5
 V. Tiêu chí 5: Ý thức tham gia công tác lớp, đoàn, Hội SV, các tổ chức
-|     | 10    |     |
-| --- | ----- | --- |
 khác
 5.1. Thành viên BCS, BCHHSV, BCH từ cấp CĐ, BCN các Câu lạc bộ sinh
-|     | 10    |     |
-| --- | ----- | --- |
 viên có Quyết định của Trường, Khoa trở lên mà TT lớp được khen
 5.2. Thành viên BCS, BCHHSV, BCH từ cấp Chi đoàn, BCN các Câu lạc bộ
-|     | 8    |     |
-| --- | ---- | --- |
 sinh viên có Quyết định của Trường, Khoa trở lên
 5.3. Thành viên BCS, BCHHSV, BCH từ cấp Chi đoàn, BCN các Câu lạc bộ
 sinh viên có Quyết định của Trường, Khoa trở lên mà lớp có sai phạm  5
 nhưng chưa bị thi hành kỷ luật
 109
 
-|     | Mức  SV  Tổ CTSV  |     |
-| --- | ----------------- | --- |
 Tiêu chí đánh giá, Điểm do cá nhân, tập thể đánh giá
-|     | tối đa  tự ĐG  Lớp, CĐ  |     |
-| --- | ----------------------- | --- |
 5.4. Thành viên BCS, BCHHSV, BCH từ cấp Chi đoàn, BCN các Câu lạc bộ
 sinh viên có Quyết định của Trường, Khoa trở lên mà Lớp có sai phạm, bị  0
 phê bình từ cấp khoa trở lên
 5.5. Đội TNXK, TNTN thường trực, đội Văn nghệ, Thể thao, BCN các Câu
-|     | 8    |     |
-| --- | ---- | --- |
 lạc bộ sinh viên có Quyết định của Trường, Khoa trở lên, được khen thưởng
 5.6. Đội TNXK, TNTN thường trực, đội Văn nghệ, Thể thao, các Câu lạc bộ
-|     | 5    |     |
-| --- | ---- | --- |
 sinh viên có Quyết định của Trường, Khoa trở lên
 5.7. Không tham gia công tác lớp, đoàn, Hội SV, các tổ chức khác  0
-| Tổng điểm  | 100    |     |
-| ---------- | ------ | --- |
 
 110
 
  M5
-TỔNG HỢP KQRL SINH VIÊN HỌC KỲ... NĂM HỌC....................
+TỔNG HỢP KQRL SINH VIÊN HỌC KỲ... NĂM HỌC
 (Mẫu dùng cho lớp)
-Lớp:  .............................................................  Khoa: ...........................................................
 |     |            |             |       | Các tiêu chí đánh giá  |     | Điểm  | Phân  |
-| --- | ---------- | ----------- | ----- | ---------------------- | --- | ----- | ----- |
-|     |            |             |       |                        |     | LCĐ,  | loại  |
-| Mã  |            |             |       |                        |     | Tổ    |       |
 | TT  | Họ và tên  | Lớp  Khóa  | Khoa  |                        |     |       |       |
 Tổng
 | SV  |     |     | TC1  | TC2  TC3  | TC4  TC5  | CTSV  |     |
-| --- | --- | --- | ---- | --------- | --------- | ----- | --- |
 điểm
 kiểm
 tra
-| 1     |     |     |     |     |     |     |     |
-| ----- | --- | --- | --- | --- | --- | --- | --- |
-| 2     |     |     |     |     |     |     |     |
-| 3     |     |     |     |     |     |     |     |
-| 4     |     |     |     |     |     |     |     |
-| 5     |     |     |     |     |     |     |     |
-| 6     |     |     |     |     |     |     |     |
-| 7     |     |     |     |     |     |     |     |
-| 8     |     |     |     |     |     |     |     |
-| 9     |     |     |     |     |     |     |     |
-| 10    |     |     |     |     |     |     |     |
-| 11    |     |     |     |     |     |     |     |
-| 12    |     |     |     |     |     |     |     |
-| 13    |     |     |     |     |     |     |     |
-| 14    |     |     |     |     |     |     |     |
-| 15    |     |     |     |     |     |     |     |
-| 16    |     |     |     |     |     |     |     |
-| 17    |     |     |     |     |     |     |     |
-| 18    |     |     |     |     |     |     |     |
-| 19    |     |     |     |     |     |     |     |
-| 20    |     |     |     |     |     |     |     |
-| 21    |     |     |     |     |     |     |     |
-| 22    |     |     |     |     |     |     |     |
-| 23    |     |     |     |     |     |     |     |
-| 24    |     |     |     |     |     |     |     |
-| 25    |     |     |     |     |     |     |     |
-| 26    |     |     |     |     |     |     |     |
 111
 
 |     |            |             |       | Các tiêu chí đánh giá  |     | Điểm  | Phân  |
-| --- | ---------- | ----------- | ----- | ---------------------- | --- | ----- | ----- |
-|     |            |             |       |                        |     | LCĐ,  | loại  |
-| Mã  |            |             |       |                        |     | Tổ    |       |
 | TT  | Họ và tên  | Lớp  Khóa  | Khoa  |                        |     |       |       |
 Tổng
 | SV  |     |     | TC1  | TC2  TC3  | TC4  TC5  | CTSV  |     |
-| --- | --- | --- | ---- | --------- | --------- | ----- | --- |
 điểm  kiểm
 tra
-| 27    |     |     |     |     |     |     |     |
-| ----- | --- | --- | --- | --- | --- | --- | --- |
-| 28    |     |     |     |     |     |     |     |
-| 29    |     |     |     |     |     |     |     |
-| 30    |     |     |     |     |     |     |     |
 
 Lớp trưởng
 112
 
-TỔNG HỢP KQRL SINH VIÊN HỌC KỲ.... NĂM HỌC................
+TỔNG HỢP KQRL SINH VIÊN HỌC KỲ.... NĂM HỌC
 (Mẫu dùng cho Khoa)
-Khoa:.................................................................................
 TỔNG HỢP KQRL SINH VIÊN HỌC KỲ ….. NĂM HỌC 20…..-20…..
 | TT  Mã SV  | Họ và tên  | Lớp  | Khoa  | SĐT  | ĐRL  Phân loại  |     |
-| ---------- | ---------- | ----- | ----- | ---- | --------------- | --- |
-| 1          |            |       |       |      |                 |     |
-| 2          |            |       |       |      |                 |     |
-| 3          |            |       |       |      |                 |     |
-| 4          |            |       |       |      |                 |     |
-| 5          |            |       |       |      |                 |     |
-| 6          |            |       |       |      |                 |     |
-| 7          |            |       |       |      |                 |     |
-| 8          |            |       |       |      |                 |     |
-| 9          |            |       |       |      |                 |     |
-| 10         |            |       |       |      |                 |     |
-| 11         |            |       |       |      |                 |     |
-| 12         |            |       |       |      |                 |     |
-| 13         |            |       |       |      |                 |     |
-| 14         |            |       |       |      |                 |     |
-| 15         |            |       |       |      |                 |     |
-| 16         |            |       |       |      |                 |     |
-| 17         |            |       |       |      |                 |     |
-| 18         |            |       |       |      |                 |     |
 
 T/M HĐ đánh giá KQRL SV cấp Khoa
 113
@@ -4648,18 +4170,11 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ĐƠN ĐỀ NGHỊ MIỄN, GIẢM HỌC PHÍ
 (Dùng cho sinh viên đang học tại các cơ sở giáo dục đại học công lập)
 Kính gửi: Học viện Nông nghiệp Việt Nam
-Họ và tên: .......................................... Dân tộc:…………………………………….
-Ngày, tháng, năm sinh: …………………………………………………………….
-Nơi sinh: ……………………………………………………………………………
-Số CCCD: .......................................... Ngày cấp: ………………………………….
-Tại: ………………………………………………………………………………….
-Lớp: ................................................... Khoa:............................................................
-Mã sinh viên: ..................................... Số điện thoại:................................................
+Mã sinh viên: Số điện thoại:
 Tôi thuộc đối tượng (ghi rõ đối tượng được quy định tại Nghị định 81/2021/NĐ-CP
-của Chính phủ): ....................................................................................................................
 Căn cứ Nghị định 81/2021/NĐ-CP của Chính phủ tôi làm đơn này đề nghị được Học
 viện xem xét để được miễn, giảm học phí theo quy định hiện hành.
-Hà Nội, ngày.... tháng.... năm 20......
+Hà Nội, ngày.... tháng.... năm 20
 Người đề nghị
 (Ký tên và ghi rõ họ tên)
 Ghi chú: Đơn phải đính kèm theo giấy chứng nhận đối tượng ưu tiên theo quy định.
@@ -4671,19 +4186,12 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ĐƠN ĐỀ NGHỊ HỖ TRỢ CHI PHÍ HỌC TẬP
 (Dùng cho sinh viên đang học tại các cơ sở giáo dục đại học công lập)
 Kính gửi: Học viện Nông nghiệp Việt Nam
-Họ và tên: .......................................... Dân tộc:...........................................................
-Ngày, tháng, năm sinh:………………………………………………………………..
-Nơi sinh: .......................................................................................................................
-Số CCCD: .......................................... Ngày cấp:…………………………………….
-Tại:……………………………………………………………………………………
-Lớp: ................................................... Khoa:...............................................................
-Mã sinh viên: ..................................... Số điện thoại:..................................................
+Mã sinh viên: Số điện thoại:
 Tôi thuộc đối tượng (ghi rõ đối tượng được quy định tại Thông tư liên tịch hướng dẫn
 thực hiện Quyết định 66/2013/QĐ-TTg ngày 11 tháng 11 năm 2013 của Thủ tướng Chính
-phủ):.......................................................................................................................................
 Tôi làm đơn này đề nghị được Học viện xem xét để được hưởng chế độ Hỗ trợ chi
 phí học tập theo quy định hiện hành.
-Hà Nội, ngày.... tháng.... năm 20......
+Hà Nội, ngày.... tháng.... năm 20
 Người đề nghị
 (Ký tên và ghi rõ họ tên)
 Ghi chú: Đơn phải đính kèm theo giấy chứng nhận đối tượng ưu tiên theo quy định.
@@ -4695,20 +4203,13 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ĐƠN ĐỀ NGHỊ TRỢ CẤP XÃ HỘI
 (Dùng cho sinh viên đang học tại các cơ sở giáo dục đại học công lập)
 Kính gửi: Học viện Nông nghiệp Việt Nam
-Họ và tên: .......................................... Dân tộc:...........................................................
-Ngày, tháng, năm sinh:………………………………………………………………..
-Nơi sinh:………………………………………………………………………………
-Số CCCD: .......................................... Ngày cấp: .......................................................
-Tại:……………………………………………………………………………………
-Lớp: ................................................... Khoa: ..............................................................
-Mã sinh viên: ..................................... Số điện thoại:..................................................
+Mã sinh viên: Số điện thoại:
 Tôi thuộc đối tượng (ghi rõ đối tượng được quy định tại Thông tư liên tịch số
 53/1998/TTLT-BGDĐT-BTC-BLĐTB&XH ngày 25/8/1998 của liên Bộ Giáo dục và Đào
 tạo, Bộ Lao động - Thương binh và Xã hội, Bộ Tài chính):
-................................................................................................................................................
 Tôi làm đơn này đề nghị được Học viện xem xét để được hưởng chế độ trợ cấp xã
 hội theo quy định hiện hành.
-Hà Nội, ngày.... tháng.... năm 20......
+Hà Nội, ngày.... tháng.... năm 20
 Người đề nghị
 (Ký tên và ghi rõ họ tên)
 Ghi chú: Đơn phải đính kèm theo Giấy chứng nhận đối tượng ưu tiên theo quy định hiện hành.
@@ -4720,20 +4221,14 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ĐƠN ĐỀ NGHỊ HỖ TRỢ HỌC TẬP
 (Dùng cho học sinh, sinh viên học tại các cơ sở giáo dục công lập)
 Kính gửi: Giám đốc Học viện Nông nghiệp Việt Nam
-Họ và tên: .......................................... Dân tộc:...........................................................
-Ngày, tháng, năm sinh: .................................................................................................
-Nơi sinh: .......................................................................................................................
-Số CCCD: .......................................... Ngày cấp:…………………………………….
-Tại: ................................................................................................................................
-Lớp: ................................................... Khoa: ..............................................................
-Mã sinh viên: ..................................... Số điện thoại:...................................................
+Mã sinh viên: Số điện thoại:
 Thuộc đối tượng: Người dân tộc thiểu số rất ít người
 Căn cứ Nghị định số 57/2017/NĐ-CP ngày 09/5/2017 của Chính phủ về việc Quy
 định chính sách ưu tiên tuyển sinh và hỗ trợ học tập đối với trẻ mẫu giáo, học sinh, sinh
 viên dân tộc thiểu số rất ít người, tôi làm đơn này đề nghị được Học viện xem xét cấp hỗ
 trợ học tập theo quy định và chế độ hiện hành.
 Tôi xin trân trọng cảm ơn.
-Hà Nội, ngày.... tháng.... năm 20......
+Hà Nội, ngày.... tháng.... năm 20
 Người đề nghị
 (Ký tên và ghi rõ họ tên)
 Ghi chú: Đơn phải đính kèm theo giấy chứng nhận đối tượng ưu tiên theo quy định.
@@ -4743,26 +4238,20 @@ Ghi chú: Đơn phải đính kèm theo giấy chứng nhận đối tượng ư
 BỘ NÔNG NGHIỆP VÀ PTNT CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 HỌC VIỆN NÔNG NGHIỆP VIỆT NAM Độc lập - Tự do - Hạnh phúc
 GIẤY XÁC NHẬN
-Họ và tên sinh viên:...............................................................................................................
-Ngày sinh: ................................................... Giới tính: Nam  Nữ 
-Số CCCD: ...................................... Ngày cấp ......................... Nơi cấp:..............................
+Ngày sinh: Giới tính: Nam  Nữ 
+Số CCCD: Ngày cấp Nơi cấp:
 Mã trường theo học (mã quy ước trong tuyển sinh ĐH, CĐ, TCCN): HVN
 Tên trường: Học viện Nông nghiệp Việt Nam
-Ngành học:.............................................................................................................................
 Hệ đào tạo (Đại học, cao đẳng, dạy nghề):
-................................................................................................................................................
-Khóa: .......................................................... Loại hình đào tạo:...........................................
-Lớp: ............................................................. Mã thẻ sinh viên:.............................................
-Khoa: ........................................................... Số điện thoại: .............................................
-Ngày nhập học: ........ /....... / ....... Thời gian ra trường (tháng/năm): ........... / ...... / ...........
-(Thời gian học tại trường: .................. tháng)
-- Số tiền học phí hàng tháng: .............................................. đồng.
+Ngày nhập học: / / Thời gian ra trường (tháng/năm): / /
+(Thời gian học tại trường: tháng)
+- Số tiền học phí hàng tháng: đồng.
 Thuộc diện: - Không miễn giảm 
 - Giảm học phí 
 - Miễn học phí 
 Thuộc đối tượng: - Mồ côi 
 - Không mồ côi 
-- Trong thời gian theo học tại Học viện, anh (chị) ......................................... không
+- Trong thời gian theo học tại Học viện, anh (chị) không
 bị xử phạt hành chính trở lên về các hành vi: cờ bạc, nghiện hút, trộm cắp, buôn lậu...
 - Số tài khoản của Học viện: 104010000000855, tại Ngân hàng Thương mại cổ phần
 Công thương Việt Nam – Chi nhánh Chương Dương.
@@ -4773,41 +4262,22 @@ TRƯỞNG BAN CTCT VÀ CTSV
 
 (Mẫu 06)
 | BỘ NÔNG NGHIỆP VÀ PTNT         | CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM  |     |
-| ------------------------------ | ----------------------------------- | --- |
 | HỌC VIỆN NÔNG NGHIỆP VIỆT NAM  | Độc lập - Tự do - Hạnh phúc         |     |
 GIẤY XÁC NHẬN SINH VIÊN
 Học viện Nông nghiệp Việt Nam
 Xác nhận:
-Sinh viên:......................................................................................................................
-Ngày sinh............................................  Giới tính: Nam      Nữ
-Số CCCD:  .........................  Ngày cấp:  .................................  Nơi cấp:........................
-Hộ khẩu thường trú:......................................................................................................
-Số điện thoại liên hệ:.....................................................................................................
-Hiện đang là sinh viên lớp:  ..........................  Mã sinh viên:........................................
+Ngày sinh Giới tính: Nam Nữ
+Số CCCD: Ngày cấp: Nơi cấp:
+Hiện đang là sinh viên lớp: Mã sinh viên:
 Khoa: (tick dấu “X” vào tên khoa đang học tập)
 | Chăn nuôi            |     | Khoa học xã hội          |
-| -------------------- | --- | ------------------------ |
-|                      |     |                          |
-|                      |     |                          |
 | Công nghệ thông tin  |     | Nông học                 |
-|                      |     |                          |
-|                      |     |                          |
 | Công nghệ thực       |     | Tài nguyên & Môi trường  |
-|                      |     |                          |
 phẩm
 |   Cơ - Điện         |     |   Du lịch & Ngoại ngữ  |
-| ------------------- | --- | ---------------------- |
-|                     |     |                        |
-| Công nghệ sinh học  |     | Thú y                  |
-|                     |     |                        |
 
-| Kinh tế & PTNT  |     | Thuỷ sản  |
-| --------------- | --- | --------- |
-|                 |     |           |
-| Kế toán & QTKD  |     |           |
-
-Khóa học:  .........................  (Từ năm 20 .....  đến năm 20 ...... ).
-Hệ đào tạo (chính quy, VLVH, liên thông …):……………………………………………..
+Khóa học: (Từ năm 20 đến năm 20 ).
+Hệ đào tạo (chính quy, VLVH, liên thông …):
 
 Hà Nội, ngày…… tháng …… năm 202…
 TL. GIÁM ĐỐC
@@ -4817,37 +4287,23 @@ TRƯỞNG BAN CTCT VÀ CTSV
 
 (Mẫu 06a)
 | BỘ NÔNG NGHIỆP VÀ PTNT  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  |     |
-| ----------------------- | ----------------------------------- | --- |
 HỌC VIỆN NÔNG NGHIỆP VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
 GIẤY XÁC NHẬN SINH VIÊN
 Học viện Nông nghiệp Việt Nam
 Xác nhận:
-Sinh viên:.......................................................................................................................
-Ngày sinh............................................  Giới tính: Nam      Nữ
-Số CCCD:  .........................  Ngày cấp:  .................................  Nơi cấp:........................
-Hộ khẩu thường trú:......................................................................................................
-Số điện thoại liên hệ:....................................................................................................
-Hiện đang là sinh viên lớp:  ...............  Mã sinh viên:..................................................
+Ngày sinh Giới tính: Nam Nữ
+Số CCCD: Ngày cấp: Nơi cấp:
+Hiện đang là sinh viên lớp: Mã sinh viên:
 Khoa: (tick dấu “X” vào tên khoa đang học tập)
 |   Chăn nuôi            |     |   Khoa học xã hội        |
-| ---------------------- | --- | ------------------------ |
-|                        |     |                          |
 |   Công nghệ thông tin  |     |   Nông học               |
-|                        |     |                          |
 | Công nghệ thực phẩm    |     | Tài nguyên & Môi trường  |
-|                        |     |                          |
 | Cơ – Điện              |     | Du lịch và Ngoại ngữ     |
-|                        |     |                          |
-| Công nghệ sinh học     |     | Thú y                    |
-|                        |     |                          |
-| Kinh tế & PTNT         |     | Thuỷ sản                 |
-|                        |     |                          |
-| Kế toán & QTKD         |     |                          |
 
-Khóa học:  .........................  (Từ năm 20 .....  đến năm 20 ...... ).
-Hệ đào tạo (chính quy, VLVH, liên thông …):……………………………………………..
+Khóa học: (Từ năm 20 đến năm 20 ).
+Hệ đào tạo (chính quy, VLVH, liên thông …):
 Theo khoản 3, Điều 6, Quyết định số 43/2007/QĐ-BGDĐT ngày 15/8/2007 của Bộ
 Giáo dục và Đào tạo ban hành Quy chế đào tạo đại học và cao đẳng hệ chính quy theo hệ
 thống tín chỉ, đối với sinh viên đào tạo khóa học từ 3 năm đến dưới 5 năm sẽ được kéo dài
@@ -4863,19 +4319,19 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ĐƠN ĐỀ NGHỊ XÁC NHẬN HỌC BỔNG
 Kính gửi: Giám đốc Học viện Nông nghiệp Việt Nam
-Họ và tên sinh viên: ......................................... Giới tính:............................................
-Mã số sinh viên: .............................................. Ngày sinh:..........................................
-Số CCCD: .................................. Ngày cấp: ................ Nơi cấp:.................................
-Hộ khẩu thường trú của gia đình: ............... Mã số sinh viên:......................................
-Hiện đang là sinh viên lớp: ........................ Khoa:......................................................
-Hệ đào tạo (chính quy, VLVH, liên thông …):............................................................
-Khóa học: Từ năm 20 ............ đến 20 ...........
+Họ và tên sinh viên: Giới tính:
+Mã số sinh viên: Ngày sinh:
+Số CCCD: Ngày cấp: Nơi cấp:
+Hộ khẩu thường trú của gia đình: Mã số sinh viên:
+Hiện đang là sinh viên lớp: Khoa:
+Hệ đào tạo (chính quy, VLVH, liên thông …):
+Khóa học: Từ năm 20 đến 20
 Kính đề nghị Giám đốc Học viện Nông nghiệp Việt Nam xác nhận em có kết quả học
 tập và rèn luyện học kỳ……. năm học 20.... - 20.... như sau:
 Điểm chung bình chung học tập:……../4.0 (Loại: …….)
-Kết quả rèn luyện:………/100 (Loại: …......)
-Được cấp học bổng khuyến khích học tập:………………………đ/tháng theo Quyết
-định số ……………/QĐ-HVN ngày …. tháng …. năm 20…
+Kết quả rèn luyện:………/100 (Loại: )
+Được cấp học bổng khuyến khích học tập: đ/tháng theo Quyết
+định số /QĐ-HVN ngày …. tháng …. năm 20…
 Thời gian hưởng: 05 tháng trong năm học 20…. - 20….
 Em xin trân trọng cảm ơn!
 XÁC NHẬN CỦA HỌC VIỆN Hà Nội, ngày … tháng … năm 20…
@@ -4889,22 +4345,17 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 GIẤY XÁC NHẬN
 Phần I: Dùng cho cơ sở giáo dục mầm non, phổ thông xác nhận
-Trường:..........................................................................................................................
-Xác nhận học sinh:.........................................................................................................
-Hiện đang học tại lớp ......................... Học kỳ: ............ Năm học:...............................
+Hiện đang học tại lớp Học kỳ: Năm học:
 Phần II: Dùng cho các cơ sở giáo dục nghề nghiệp, giáo dục đại học xác nhận
-Trường:.........................................................................................................................
-Xác nhận anh/chị:..........................................................................................................
 Hiện là học sinh/sinh viên:
-Năm thứ. ............................ Học kỳ: ............................. Năm học: 20.....-20.................
-Khoa ......................... Khóa học ................. Thời gian khóa học: ................... (năm);
+Năm thứ. Học kỳ: Năm học: 20 -20
+Khoa Khóa học Thời gian khóa học: (năm);
 Hình thức đào
 tạo:
-................................................................................................................................................
-Kỷ luật: ............................................................... (ghi rõ mức độ kỷ luật nếu có).
+Kỷ luật: (ghi rõ mức độ kỷ luật nếu có).
 Đề nghị Phòng Lao động-Thương binh và Xã hội xem xét, giải quyết chế độ ưu đãi
-trong giáo dục đào tạo cho .......................................... theo quy định và chế độ hiện hành.
-Hà Nội, ngày...... tháng...... năm 20......
+trong giáo dục đào tạo cho theo quy định và chế độ hiện hành.
+Hà Nội, ngày tháng năm 20
 TL.GIÁM ĐỐC
 TRƯỞNG BAN CTCT&CTSV
 133
@@ -4915,12 +4366,10 @@ CHI NHÁNH CHƯƠNG DƯƠNG
 Ảnh
 3*4 GIẤY ĐỀ NGHỊ PHÁT HÀNH LẠI THẺ E-PARTNER
 Kính gửi: NH TMCP Công Thương Việt Nam- Chi nhánh Chương Dương
-Họ tên chủ thẻ: .....................................................................  Nam  Nữ
-Số CMND/Hộ chiếu: ..................... Ngày cấp..../...../.... Nơi cấp ...............................................
-Địa chỉ thường trú: ....................................................................................................................... (1)
-Mã SV: ........................ Lớp: ......................... Niên khóa .............................. Hệ: ........................ (2)
-Số thẻ. ........................................................................................................................................... (3)
-Điện thoại .......................................................... .thời hạn hiệu lực:....../......../. ............................ (4)
+Họ tên chủ thẻ:  Nam  Nữ
+Số CMND/Hộ chiếu: Ngày cấp..../ /.... Nơi cấp
+Mã SV: Lớp: Niên khóa Hệ: (2)
+Điện thoại .thời hạn hiệu lực: / /. (4)
 Loại thẻ: Thẻ liên kết S - card
 Lý do xin cấp lại:
  Thẻ hết hạn sử dụng
@@ -4930,7 +4379,7 @@ Lý do xin cấp lại:
  Lý do khác
 Tôi cam đoan những điều khai trên là đúng, sẽ tuân thủ mọi điều kiện và chịu mức phí
 theo quy định của NHTMCPCTVN. Nếu sai tôi hoàn toàn chịu trách nhiệm trước pháp luật.
-Hà Nội, ngày.... tháng........ năm.......
+Hà Nội, ngày.... tháng năm
 CHỦ THẺ
 (Ký, ghi rõ họ tên)
 XÁC NHẬN CỦA HỌC VIỆN VIETNBANK CHƯƠNG DƯƠNG
@@ -4951,20 +4400,15 @@ HỆ THỐNG NH TMCPCT VIỆT NAM đổi:../.../...
 
 VIETNAM NATIONAL UNIVERSITY Socialist Republic of Vietnam
 OF AGRICULTURE Independence – Freedom – Happiness
-Ref. No……………../CTCT&CTSV
 LETTER OF VERIFICATION
 VIET NAM NATIONAL UNIVERSITY OF AGRICULTURE
 verifies that
-Student’s name: ..................................................... Gender: Male  Female 
-Student ID No.: ..................................................... Program period: ..............................
-Class: ........................................................................ Faculty: ..........................................
-Type of training: ....................... Full time  Part time: 
-National ID/Passport No. .................................................................................................
-Date of issue: .....................................................................................................................
-Place of issue: ..................................................................................................................
-Date of Birth: ............................ Place of Birth: .............................................................
+Student’s name: Gender: Male  Female 
+Student ID No.: Program period:
+Type of training: Full time  Part time: 
+Date of Birth: Place of Birth:
 Household registration address:
-This Letter of Verification is issued to certify that .......................................................... .is
+This Letter of Verification is issued to certify that .is
 currently a student of Viet Nam National University of Agriculture.
 Certificate of the University
 Ha Noi, dd mm year 20
@@ -4972,5 +4416,4 @@ Ha Noi, dd mm year 20
 Applicant (signature and full name)
 Authorized by the University’s President
 Vice Director of Student Affairs Office
-.……………………………………. ….…………………………………….
 136
