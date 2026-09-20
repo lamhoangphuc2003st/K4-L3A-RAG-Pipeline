@@ -13,6 +13,7 @@ Cài browser trước khi chạy:
 """
 
 import asyncio
+import html as html_lib
 import json
 import re
 import tempfile
@@ -29,6 +30,9 @@ MIN_ARTICLES = 5
 
 # Bài quá ngắn thường là trang chặn hoặc redirect; bước Task 3 cần >=200 ký tự.
 MIN_CONTENT_LENGTH = 200
+
+# Khối <article>/<main> chỉ được coi là thân bài khi chiếm >= 30% text của trang.
+MIN_REGION_TEXT_SHARE = 0.30
 
 REQUEST_TIMEOUT = 45
 USER_AGENT = (
@@ -52,10 +56,90 @@ ARTICLE_URLS = [
 ]
 
 
+# Thẻ chỉ chứa chrome của trang (menu, logo, quảng cáo), không phải nội dung bài.
+CHROME_TAGS = (
+    "script",
+    "style",
+    "noscript",
+    "nav",
+    "header",
+    "footer",
+    "aside",
+    "form",
+    "iframe",
+    "svg",
+    "select",
+    "button",
+)
+
+# Dòng Markdown chỉ gồm link/ảnh — thường là menu hoặc khối "Tin liên quan".
+# Bao gồm cả heading bọc link (#### [tin khac](url)); heading thật của bài
+# không nằm trong link.
+LINK_ONLY_LINE = re.compile(
+    r"^\s*(?:#{1,6}\s*|[-*+]\s+)?(?:!?\[[^\]]*\]\([^)]*\)[\s,|]*)+$"
+)
+
+
 def _clean_markdown(text: str) -> str:
     """Bỏ dòng trống lặp và khoảng trắng cuối dòng."""
     text = re.sub(r"[ \t]+\n", "\n", text.replace("\r\n", "\n"))
     return re.sub(r"\n{3,}", "\n\n", text).strip()
+
+
+def strip_html_chrome(html: str) -> str:
+    """Bỏ comment và các khối chrome trước khi convert sang Markdown."""
+    html = re.sub(r"<!--.*?-->", " ", html, flags=re.DOTALL)
+    for tag in CHROME_TAGS:
+        html = re.sub(
+            rf"<{tag}\b[^>]*>.*?</{tag}\s*>", " ", html, flags=re.IGNORECASE | re.DOTALL
+        )
+    return html
+
+
+def _text_length(html: str) -> int:
+    return len(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html)).strip())
+
+
+def main_content_region(html: str) -> str:
+    """Chọn khối ``<article>``/``<main>`` chứa thân bài, nếu xác định được.
+
+    Hai cái bẫy đã gặp khi crawl thật:
+
+    * Không lấy khối đầu tiên — tuoitre.vn có 3 thẻ ``<article>`` ~2KB đều là
+      card "tin liên quan", thân bài thật nằm trong ``<main>``.
+    * Không lấy khối dài nhất một cách vô điều kiện — giaoducthoidai.vn có 38
+      thẻ ``<article>`` teaser (dài nhất 359 ký tự) và không có ``<main>``, nên
+      khối dài nhất là một bài hoàn toàn khác chủ đề.
+
+    Vì vậy chỉ dùng khối ứng viên khi nó chiếm phần lớn text của trang; ngược
+    lại coi như trang không bọc thân bài trong ``article``/``main`` và trả về
+    toàn trang để bước lọc dòng link xử lý tiếp.
+    """
+    candidates = [
+        match.group(1)
+        for tag in ("article", "main")
+        for match in re.finditer(
+            rf"<{tag}\b[^>]*>(.*?)</{tag}\s*>", html, re.IGNORECASE | re.DOTALL
+        )
+    ]
+    if not candidates:
+        return html
+
+    page_length = _text_length(html)
+    best = max(candidates, key=_text_length)
+    if page_length and _text_length(best) / page_length >= MIN_REGION_TEXT_SHARE:
+        return best
+    return html
+
+
+def drop_boilerplate_lines(markdown: str) -> str:
+    """Bỏ dòng chỉ chứa link/ảnh (menu, breadcrumb, tin liên quan)."""
+    kept = [
+        line
+        for line in markdown.split("\n")
+        if not (line.strip() and LINK_ONLY_LINE.match(line.strip()))
+    ]
+    return "\n".join(kept)
 
 
 def _title_from_html(html: str, fallback: str) -> str:
@@ -66,7 +150,9 @@ def _title_from_html(html: str, fallback: str) -> str:
     ):
         match = re.search(pattern, html, re.IGNORECASE | re.DOTALL)
         if match:
-            title = re.sub(r"<[^>]+>", "", match.group(1))
+            # Nguồn trả entity dạng &#237; -> unescape truoc khi bo tag.
+            title = html_lib.unescape(match.group(1))
+            title = re.sub(r"<[^>]+>", "", title)
             title = re.sub(r"\s+", " ", title).strip()
             if title:
                 return title
@@ -84,16 +170,23 @@ def fetch_with_markitdown(url: str) -> dict:
     response.encoding = response.apparent_encoding or "utf-8"
     html = response.text
 
+    # Lấy title từ HTML gốc, còn phần convert thì bỏ chrome đi trước.
+    title = _title_from_html(html, fallback=url)
+    body_html = main_content_region(strip_html_chrome(html))
+
     with tempfile.TemporaryDirectory() as tmpdir:
         tmp_path = Path(tmpdir) / "page.html"
-        tmp_path.write_text(html, encoding="utf-8")
+        tmp_path.write_text(body_html, encoding="utf-8")
         converted = MarkItDown().convert(str(tmp_path))
+
+    markdown = _clean_markdown(converted.text_content or "")
+    markdown = _clean_markdown(drop_boilerplate_lines(markdown))
 
     return {
         "url": url,
-        "title": _title_from_html(html, fallback=url),
+        "title": title,
         "date_crawled": datetime.now().isoformat(),
-        "content_markdown": _clean_markdown(converted.text_content or ""),
+        "content_markdown": markdown,
     }
 
 
@@ -117,10 +210,10 @@ async def crawl_article(url: str, crawler: object | None = None) -> dict:
         # Crawl4AI 0.9 trả về object MarkdownGenerationResult, không phải str.
         markdown = getattr(result, "markdown", "") or ""
         markdown = getattr(markdown, "raw_markdown", None) or str(markdown)
-        markdown = _clean_markdown(markdown)
+        markdown = _clean_markdown(drop_boilerplate_lines(_clean_markdown(markdown)))
 
         metadata = getattr(result, "metadata", None) or {}
-        title = (metadata.get("title") or "").strip()
+        title = html_lib.unescape(metadata.get("title") or "").strip()
         if not title:
             title = _title_from_html(getattr(result, "html", "") or "", fallback=url)
 
@@ -168,7 +261,12 @@ async def crawl_all() -> None:
         for index, url in enumerate(ARTICLE_URLS, 1):
             print(f"[{index}/{len(ARTICLE_URLS)}] {url}")
             try:
-                article = await crawl_article(url, crawler)
+                if crawler is None:
+                    # Browser không mở được -> đi thẳng fallback, không thử lại
+                    # Chromium cho từng URL.
+                    article = fetch_with_markitdown(url)
+                else:
+                    article = await crawl_article(url, crawler)
                 validate_article(article)
                 output = DATA_DIR / f"article_{index:02d}.json"
                 output.write_text(
