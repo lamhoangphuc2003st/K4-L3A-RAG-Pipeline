@@ -2,41 +2,18 @@
 
 **Source:** https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html
 
-**Crawled:** 2026-09-20T15:34:11.227432
+**Crawled:** 2026-09-20T16:29:15.556950
 
 ---
 
-[![logo](https://gdtd.1cdn.vn/assets/images/logo_gdtd.png)](https://giaoducthudo.giaoducthoidai.vn/ "Giáo dục thủ đô")
-[](https://giaoducthudo.giaoducthoidai.vn/rss)[](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)[](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)
-  * [](https://giaoducthudo.giaoducthoidai.vn/)
-  * [Giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc)
-  * [Thời sự](https://giaoducthudo.giaoducthoidai.vn/thoi-su)
-  * [Khỏe - Đẹp](https://giaoducthudo.giaoducthoidai.vn/khoe-dep)
-  * [Hướng nghiệp](https://giaoducthudo.giaoducthoidai.vn/huong-nghiep)
-  * [Kinh doanh](https://giaoducthudo.giaoducthoidai.vn/kinh-doanh)
-  * [Văn hóa](https://giaoducthudo.giaoducthoidai.vn/van-hoa)
-  * [Đời sống cộng đồng](https://giaoducthudo.giaoducthoidai.vn/doi-song-cong-dong)
-  * [Học đường](https://giaoducthudo.giaoducthoidai.vn/hoc-duong)
-  * [Media](https://giaoducthudo.giaoducthoidai.vn/media)
-
-  1. [Trang chủ](https://giaoducthudo.giaoducthoidai.vn/)
-  2. [Giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc)
-  3. [Chính sách giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc/chinh-sach-giao-duc)
-
-  * [](https://www.facebook.com/sharer/sharer.php?u=https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html&display=popup&ref=plugin)
-  * [](javascript:; "Chia sẻ Zalo")
-
-[ Theo dõi Giáo dục Thủ đô trên ![](https://gdtd.1cdn.vn/assets/images/ggnewslogo.png) ](https://news.google.com/publications/CAAqBwgKMPb1vQswg5HVAw?hl=vi&gl=VN&ceid=VN%3Avi "Theo dõi Giáo dục Thủ đô trên Google News")
 Chính sách giáo dục
 # Học phí tăng, hỗ trợ sinh viên được mở rộng
 Mạnh Tùng • 21/07/2026 20:56
 Năm học 2026-2027, học phí đại học được điều chỉnh theo Nghị định số 238/2025/NĐ-CP và lộ trình tự chủ của các trường.
-![Sinh viên được hướng dẫn làm hồ sơ vay vốn chương trình bảo lãnh vay và hỗ trợ lãi suất của cộng đồng Cựu sinh viên Phú Thọ - Bách khoa. Ảnh: Lê Nam.](https://cdn.giaoducthoidai.vn/images/3756cddb3a20ea36816643b138886f25f2fa2362c0c7ec66376bba4d90ea631a07d7f961882dbf9c91979b2698a2dd7e/vay-bao-lanh.jpg.avif)Sinh viên được hướng dẫn làm hồ sơ vay vốn chương trình bảo lãnh vay và hỗ trợ lãi suất của cộng đồng Cựu sinh viên Phú Thọ - Bách khoa. Ảnh: Lê Nam.
 Cùng với việc công bố mức thu mới, nhiều cơ sở đào tạo cũng mở rộng quỹ học bổng, chính sách miễn - giảm học phí và hỗ trợ tài chính.
 ## Trường tự chủ áp dụng cơ chế riêng
 Theo Nghị định số 238/2025/NĐ-CP của Chính phủ quy định về chính sách học phí, miễn, giảm, hỗ trợ học phí, hỗ trợ chi phí học tập và giá dịch vụ trong lĩnh vực giáo dục, đào tạo, khung trần học phí đối với các cơ sở giáo dục đại học công lập chưa tự bảo đảm chi thường xuyên trong năm học 2026-2027 được điều chỉnh lên từ 1,71 triệu đến 3,5 triệu đồng/người học/tháng, tùy nhóm ngành đào tạo.
 Về lộ trình các năm tiếp theo, từ năm học 2027-2028 trở đi, mức trần học phí sẽ được điều chỉnh phù hợp với khả năng chi trả của người dân và điều kiện kinh tế - xã hội, nhưng không vượt quá tốc độ tăng chỉ số giá tiêu dùng so với cùng kỳ năm trước do cơ quan nhà nước có thẩm quyền công bố.
-![bk.png](https://cdn.giaoducthoidai.vn/images/3756cddb3a20ea36816643b138886f255d6722b589a7bd347dea92341e805027/bk.png.avif)Lớp học tại Trường Đại học Bách khoa (Đại học Quốc gia TPHCM). Ảnh: N.Q.
 Nghị định cũng quy định rõ cơ chế đối với các cơ sở giáo dục đại học đã thực hiện tự chủ. Theo đó, trường tự bảo đảm chi thường xuyên được thu học phí tối đa bằng 2 lần mức trần tương ứng của cơ sở chưa tự bảo đảm chi thường xuyên.
 Đối với trường tự bảo đảm cả chi thường xuyên và chi đầu tư, mức học phí tối đa bằng 2,5 lần mức trần. Đây là cơ sở pháp lý để các trường xây dựng đề án tài chính phù hợp với thực tế đầu tư và phát triển.
 Về phương thức tính, học phí theo tín chỉ hoặc mô-đun được xác định trên cơ sở tổng học phí toàn khóa chia cho tổng số tín chỉ hoặc mô-đun của chương trình đào tạo. Tổng học phí toàn khóa được tính bằng mức học phí một tháng nhân với 10 tháng và số năm học, đồng thời bảo đảm tổng học phí tính theo tín chỉ không vượt quá tổng học phí tính theo niên chế, qua đó bảo vệ quyền lợi của người học khi chuyển đổi phương thức đào tạo.
@@ -48,7 +25,6 @@ Trường Đại học Khoa học Tự nhiên công bố học phí dự kiến 
 Các chương trình tiên tiến và tăng cường tiếng Anh có học phí từ 49 - 70 triệu đồng/năm, trong đó chương trình tiên tiến ngành Khoa học máy tính là 70 triệu đồng/năm; Công nghệ kỹ thuật hóa học tăng cường tiếng Anh là 59,8 triệu đồng/năm; Hóa học tăng cường tiếng Anh là 58,9 triệu đồng/năm.
 Tại Trường Đại học Kinh tế - Luật, học phí dự kiến được chia thành ba nhóm: chương trình dạy và học bằng tiếng Việt khoảng 35,8 triệu đồng/sinh viên; chương trình Co-op tiếng Anh bán phần khoảng 55 triệu đồng/sinh viên; chương trình dạy và học bằng tiếng Anh khoảng 73,5 triệu đồng/sinh viên.
 Trong khi đó, Trường Đại học Công nghệ Thông tin dự kiến thu học phí từ 41,8 - 140 triệu đồng/năm tùy chương trình đào tạo. Chương trình chuẩn của các ngành thông thường khoảng 41,8 triệu đồng/năm, riêng ngành Thiết kế vi mạch khoảng 52 triệu đồng/năm. Chương trình tiên tiến khoảng 60 triệu đồng/năm. Các chương trình đào tạo bằng tiếng Anh có học phí từ 80 - 85 triệu đồng/năm; riêng ngành Thiết kế vi mạch có mức thu cao hơn do yêu cầu đầu tư đặc thù về thiết bị và đội ngũ.
-![thi-sinh.jpg](https://cdn.giaoducthoidai.vn/images/3756cddb3a20ea36816643b138886f250f62eb5e6227b90e0f106aa3b1a1452aba13d54942d5322bb31a6e82643e48b5/thi-sinh.jpg.avif)Thí sinh tìm hiểu thông tin tuyển sinh Trường Đại học Thủ Dầu Một (TPHCM). Ảnh: TDMU.
 Tại Trường Đại học Công Thương TPHCM (HUIT), học phí khóa tuyển sinh 2026 - 2030 dao động từ 144 đến 179 triệu đồng/toàn khóa tùy ngành đào tạo và chương trình học, áp dụng cho cả hệ cử nhân và kỹ sư. Mức điều chỉnh được xây dựng theo lộ trình, tăng tối đa khoảng 10% so với năm trước.
 Khảo sát đề án tuyển sinh của các trường đại học cho thấy phần lớn cơ sở đào tạo công bố học phí theo năm học, phổ biến từ 20 - 35 triệu đồng/năm. Khối ngành y - dược, các chương trình chất lượng cao, tiên tiến và các trường ngoài công lập có mức học phí cao hơn, thường trên 50 triệu đồng/năm. Trong khi đó, những trường có học phí dưới 20 triệu đồng/năm chủ yếu là các trường đào tạo sư phạm hoặc chưa tự chủ.
 ThS Phạm Thái Sơn, Giám đốc Trung tâm Tuyển sinh và Truyền thông Trường Đại học Công Thương TPHCM, cho biết việc điều chỉnh học phí được xây dựng trên tinh thần minh bạch, có lộ trình và luôn đặt quyền lợi người học lên hàng đầu. Theo ông, mức học phí dự kiến cho khóa 2026 - 2030 được xác định trong khoảng 140 - 170 triệu đồng, tăng tối đa khoảng 10% so với năm trước. Đây không phải là sự thay đổi đột ngột mà nằm trong kế hoạch đã được tính toán nhằm đáp ứng yêu cầu đầu tư cho chất lượng đào tạo, cơ sở vật chất, phòng thí nghiệm, thực hành và các hoạt động hỗ trợ sinh viên.
@@ -57,7 +33,6 @@ ThS Phạm Thái Sơn, Giám đốc Trung tâm Tuyển sinh và Truyền thông 
 Bên cạnh việc điều chỉnh học phí theo lộ trình, nhiều trường đại học cũng mở rộng chính sách học bổng và hỗ trợ tài chính nhằm giảm áp lực chi phí, tạo điều kiện để sinh viên yên tâm học tập.
 Năm học 2026-2027, Trường Đại học Công Thương TPHCM tiếp tục đẩy mạnh các chính sách hỗ trợ tài chính cho sinh viên. Nhà trường cam kết “3 không”: Không tăng học phí trong suốt khóa học; Không thu bất kỳ khoản phí nào ngoài học phí; Không để bất kỳ sinh viên có hoàn cảnh khó khăn nào bị bỏ lại phía sau. Trường có quỹ học bổng hơn 55,7 tỷ đồng với nhiều loại học bổng dành cho sinh viên có thành tích tốt, sinh viên vượt khó và các trường hợp có hoàn cảnh đặc biệt. Cùng với đó là chính sách miễn, giảm học phí theo quy định của Nhà nước, học bổng từ doanh nghiệp và nhiều hoạt động đồng hành nhằm giảm gánh nặng tài chính cho người học.
 Ông Phạm Thái Sơn khẳng định quan điểm của nhà trường là không để sinh viên vì khó khăn tài chính mà bỏ lỡ cơ hội học tập. "Bên cạnh học phí, nhà trường rất quan tâm đến hệ thống hỗ trợ sinh viên, từ học bổng, chính sách miễn giảm đến việc kết nối các nguồn lực xã hội hóa và doanh nghiệp đồng hành. Chúng tôi mong muốn sinh viên khi vào HUIT không chỉ thấy một mức học phí rõ ràng mà còn cảm nhận được sự đồng hành thiết thực của nhà trường trong suốt hành trình học tập", ông Sơn nhấn mạnh.
-![738570868-1437091091782857-4920220820660169472-n-4534.jpg](https://cdn.giaoducthoidai.vn/images/3756cddb3a20ea36816643b138886f2570d8f5da3ccdfc3b85e028595ad55f188a96a7886c075806a53298ff1ed0dab0776c5a1474f0b88fd238fe58c8df89632f1d2c07a594698678350f264773b087a8904041fc31274acb4faf5c0a71469e/738570868-1437091091782857-4920220820660169472-n-4534.jpg.avif)Chuyên gia tư vấn tuyển Trường Đại học Ngân hàng TPHCM trao đổi với thí sinh. Ảnh: HUB.
 Nhiều cơ sở đào tạo khác cũng tăng cường nguồn lực hỗ trợ người học. Trường Đại học Tài chính - Marketing dành khoảng 92 tỷ đồng học bổng mỗi năm với nhiều chương trình dành cho tân sinh viên, sinh viên có thành tích học tập tốt và hoàn cảnh khó khăn. Nhà trường cũng giữ ổn định học phí trong toàn khóa, dao động 30 - 65 triệu đồng/năm tùy chương trình, đồng thời giảm 15% học phí toàn khóa cho sinh viên học tại hai phân hiệu Huế và Quảng Ngãi.
 Trường Đại học Mở TPHCM công bố quỹ học bổng gần 53 tỷ đồng, trong đó dành 500 suất học bổng khuyến khích học tập với mức hỗ trợ từ 50 - 100% học phí học kỳ đầu. Trường Đại học Công nghiệp TPHCM dành khoảng 70 tỷ đồng học bổng cho sinh viên diện chính sách và có hoàn cảnh khó khăn.
 Tại Trường Đại học Bách khoa (Đại học Quốc gia TPHCM), bên cạnh các chương trình học bổng giá trị, sinh viên còn có cơ hội tiếp cận chương trình bảo lãnh vay học phí do Ban Đại diện Cộng đồng Cựu sinh viên Phú Thọ - Bách khoa (BKA) triển khai. Chương trình bảo lãnh 100% học phí học kỳ chính. Sinh viên thực hiện thanh toán lãi suất định kỳ 6 tháng/lần và hoàn trả nợ gốc cho ngân hàng khi hết thời hạn bảo lãnh. Sau khi hoàn tất nghĩa vụ trả nợ gốc và lãi, toàn bộ khoản lãi suất sẽ được BKA hoàn trả cho sinh viên vào cuối kỳ vay.
@@ -65,141 +40,44 @@ Theo giaoducthoidai.vn
 Link bài gốcCopy Link https://giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-post785725.html
 Copy Link
 Link đã được copy https://giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-post785725.html
-  * [Chia sẻ Facebook](https://www.facebook.com/sharer/sharer.php?u=https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html&display=popup&ref=plugin)
-  * [Chia sẻ Zalo](javascript:;)
 
 Bài liên quan
-[![Quy định mức trần học phí với cơ sở giáo dục đại học công lập năm học 2026–2027](https://gdtd.1cdn.vn/thumbs/540x360/2026/07/19/cdn.giaoducthoidai.vn-images-e68bd0ae7e0a4d2e84e451c6db68f2d4430bd00a14a67a22daf553afcc9a0165b7d5eb8e35f972874c2d36fe7e6f023d-_nckhjpg4.jpg.webp)](https://giaoducthudo.giaoducthoidai.vn/quy-dinh-muc-tran-hoc-phi-voi-co-so-giao-duc-dai-hoc-cong-lap-nam-hoc-2026-2027-217778.html)
-### [Quy định mức trần học phí với cơ sở giáo dục đại học công lập năm học 2026–2027](https://giaoducthudo.giaoducthoidai.vn/quy-dinh-muc-tran-hoc-phi-voi-co-so-giao-duc-dai-hoc-cong-lap-nam-hoc-2026-2027-217778.html)
 Năm học 2026 – 2027, Chính phủ quy định mức trần học phí đối với cơ sở giáo dục đại học công lập chưa tự đảm bảo chi thường xuyên.
-  * ####  [học phí](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-ptag.html "học phí")
-  * ####  [hỗ trợ sinh viên](https://giaoducthudo.giaoducthoidai.vn/ho-tro-sinh-vien-ptag.html "hỗ trợ sinh viên")
-  * ####  [chính sách](https://giaoducthudo.giaoducthoidai.vn/chinh-sach-ptag.html "chính sách")
-  * ####  [giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc-ptag.html "giáo dục")
-  * ####  [học phí tăng](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ptag.html "học phí tăng")
 
 Đọc tiếp
-[![Học liên thông có được miễn giảm học phí?](https://gdtd.1cdn.vn/thumbs/540x360/2026/07/21/cdn.giaoducthoidai.vn-images-e68bd0ae7e0a4d2e84e451c6db68f2d4430bd00a14a67a22daf553afcc9a0165cd5e0f1c231e9c94c62c949746d74171-_hocphi.jpg.webp)](https://giaoducthudo.giaoducthoidai.vn/hoc-lien-thong-co-duoc-mien-giam-hoc-phi-217905.html)
-#### [Học liên thông có được miễn giảm học phí?](https://giaoducthudo.giaoducthoidai.vn/hoc-lien-thong-co-duoc-mien-giam-hoc-phi-217905.html)
 
 Gửi bình luận
 Bình luận của bạn đã được gửi và sẽ hiển thị sau khi được duyệt bởi ban biên tập.
 Ban biên tập giữ quyền biên tập nội dung bình luận để phù hợp với qui định nội dung của Báo.
 (0) Bình luận
 Xếp theo:
-  * [Thời gian](javascript:;)
-  * [Số người thích](javascript:;)
 
 Đọc tiếp
-[![Học liên thông có được miễn giảm học phí?](https://gdtd.1cdn.vn/thumbs/540x360/2026/07/21/cdn.giaoducthoidai.vn-images-e68bd0ae7e0a4d2e84e451c6db68f2d4430bd00a14a67a22daf553afcc9a0165cd5e0f1c231e9c94c62c949746d74171-_hocphi.jpg.webp)](https://giaoducthudo.giaoducthoidai.vn/hoc-lien-thong-co-duoc-mien-giam-hoc-phi-217905.html)
-#### [Học liên thông có được miễn giảm học phí?](https://giaoducthudo.giaoducthoidai.vn/hoc-lien-thong-co-duoc-mien-giam-hoc-phi-217905.html)
-[Đọc thêm Chính sách giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc/chinh-sach-giao-duc)
-  * [![Bộ GD&ĐT yêu cầu các cơ sở giáo dục không chạy theo thành tích](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/20/cafefcdn.com-thumb_w-1200-203337114487263232-2026-9-20-_avatar1789876395875-1789876396354861561004.jpg)](https://giaoducthudo.giaoducthoidai.vn/bo-gd-dt-yeu-cau-cac-co-so-giao-duc-khong-chay-theo-thanh-tich-222450.html)
-## [Bộ GD&ĐT yêu cầu các cơ sở giáo dục không chạy theo thành tích](https://giaoducthudo.giaoducthoidai.vn/bo-gd-dt-yeu-cau-cac-co-so-giao-duc-khong-chay-theo-thanh-tich-222450.html)
-  * [![Hưng Yên lập đường dây nóng tiếp nhận phản ánh lạm thu, dạy thêm trái quy định](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/19/cdn.giaoducthoidai.vn-images-5ovqrn4kts6e5fhg22jy1afjfzjw7wv5yrlebynnoxvxbsshwmps1bcqqfct-cmr-_lop-ve.jpg)](https://giaoducthudo.giaoducthoidai.vn/hung-yen-lap-duong-day-nong-tiep-nhan-phan-anh-lam-thu-day-them-trai-quy-dinh-222439.html)
-## [Hưng Yên lập đường dây nóng tiếp nhận phản ánh lạm thu, dạy thêm trái quy định](https://giaoducthudo.giaoducthoidai.vn/hung-yen-lap-duong-day-nong-tiep-nhan-phan-anh-lam-thu-day-them-trai-quy-dinh-222439.html)
-  * [![Hai trường đại học ngành Công an tại TPHCM trở thành phân hiệu của Học viện An ninh nhân dân](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/19/cdn.giaoducthoidai.vn-images-5ovqrn4kts6e5fhg22jy1n4glc3glopdfgir-aplucqn_sidnydnfy6d7ii7af5p-_h.jpg)](https://giaoducthudo.giaoducthoidai.vn/hai-truong-dai-hoc-nganh-cong-an-tai-tphcm-tro-thanh-phan-hieu-cua-hoc-vien-an-ninh-nhan-dan-222435.html)
-## [Hai trường đại học ngành Công an tại TPHCM trở thành phân hiệu của Học viện An ninh nhân dân](https://giaoducthudo.giaoducthoidai.vn/hai-truong-dai-hoc-nganh-cong-an-tai-tphcm-tro-thanh-phan-hieu-cua-hoc-vien-an-ninh-nhan-dan-222435.html)
-  * [![Trẻ mầm non 3-5 tuổi có thể nhận hỗ trợ 150.000-510.000 đồng/tháng](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/19/cdn.giaoducthoidai.vn-images-5ovqrn4kts6e5fhg22jy1nee81k75iu6geawkioz73e7luikfj-ratfkgtwbtpre-_mtn1.jpg)](https://giaoducthudo.giaoducthoidai.vn/tre-mam-non-3-5-tuoi-co-the-nhan-ho-tro-150-000-510-000-dong-thang-222434.html)
-## [Trẻ mầm non 3-5 tuổi có thể nhận hỗ trợ 150.000-510.000 đồng/tháng](https://giaoducthudo.giaoducthoidai.vn/tre-mam-non-3-5-tuoi-co-the-nhan-ho-tro-150-000-510-000-dong-thang-222434.html)
-  * [![Bộ GD&ĐT ban hành Chương trình hành động, xây dựng văn hóa liêm chính trong giáo dục](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/19/cdn.giaoducthoidai.vn-images-5ovqrn4kts6e5fhg22jy1dsayznqr8imw_ddtzpvoda3qto-nj9xypjnayp11fs2vgo0zfuypvckmysjqnpiyq-_pho-cap-gd.jpg)](https://giaoducthudo.giaoducthoidai.vn/bo-gd-dt-ban-hanh-chuong-trinh-hanh-dong-xay-dung-van-hoa-liem-chinh-trong-giao-duc-222428.html)
-## [Bộ GD&ĐT ban hành Chương trình hành động, xây dựng văn hóa liêm chính trong giáo dục](https://giaoducthudo.giaoducthoidai.vn/bo-gd-dt-ban-hanh-chuong-trinh-hanh-dong-xay-dung-van-hoa-liem-chinh-trong-giao-duc-222428.html)
-  * [![Gỡ điểm nghẽn cơ sở vật chất, nâng chất đào tạo nghề vùng khó](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/19/riqucz5tft37o-csgqirgfus7qcfycm-_1787882872483-7153141034438706476-7153141034438706476-b76c35e739262c7928b104cee12df1a2.jpg)](https://giaoducthudo.giaoducthoidai.vn/go-diem-nghen-co-so-vat-chat-nang-chat-dao-tao-nghe-vung-kho-222427.html)
-## [Gỡ điểm nghẽn cơ sở vật chất, nâng chất đào tạo nghề vùng khó](https://giaoducthudo.giaoducthoidai.vn/go-diem-nghen-co-so-vat-chat-nang-chat-dao-tao-nghe-vung-kho-222427.html)
 
 Nổi bật Giáo dục thủ đô
-  * [![Thư của Tổng Bí thư, Chủ tịch nước Tô Lâm gửi các cháu thiếu niên, nhi đồng nhân dịp Tết Trung thu](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/thu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-gui-cac-chau-thieu-nien-nhi-dong-nhan-dip-tet-trung-thu-222451.html)
-### [Thư của Tổng Bí thư, Chủ tịch nước Tô Lâm gửi các cháu thiếu niên, nhi đồng nhân dịp Tết Trung thu](https://giaoducthudo.giaoducthoidai.vn/thu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-gui-cac-chau-thieu-nien-nhi-dong-nhan-dip-tet-trung-thu-222451.html)
-một giờ trước [Thời sự](https://giaoducthudo.giaoducthoidai.vn/thoi-su)
-Nhân dịp Tết Trung thu 2026, ngày 19/9, Tổng Bí thư, Chủ tịch nước Tô Lâm đã có Thư gửi các cháu thiếu niên, nhi đồng ở trong nước và ở ngoài nước, các cháu người nước ngoài ở Việt Nam.
-  * [![Bộ GD&ĐT yêu cầu các cơ sở giáo dục không chạy theo thành tích](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/bo-gd-dt-yeu-cau-cac-co-so-giao-duc-khong-chay-theo-thanh-tich-222450.html)
-### [Bộ GD&ĐT yêu cầu các cơ sở giáo dục không chạy theo thành tích](https://giaoducthudo.giaoducthoidai.vn/bo-gd-dt-yeu-cau-cac-co-so-giao-duc-khong-chay-theo-thanh-tich-222450.html)
-1 giờ trước [Chính sách giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc/chinh-sach-giao-duc)
-Bộ GD&ĐT yêu cầu các cơ sở giáo dục không chạy theo thành tích, không áp chỉ tiêu điểm số, đồng thời cắt giảm hồ sơ, cuộc thi và công việc ngoài chuyên môn để giáo viên tập trung dạy học.
-  * [![Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường dự Phiên thảo luận cấp cao Đại hội đồng Liên hợp quốc khóa 81 tại Hoa Kỳ và thăm cấp Nhà nước tới Canada](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-du-phien-thao-luan-cap-cao-dai-hoi-dong-lien-hop-quoc-khoa-81-tai-hoa-ky-va-tham-cap-nha-nuoc-toi-canada-222448.html)
-### [Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường dự Phiên thảo luận cấp cao Đại hội đồng Liên hợp quốc khóa 81 tại Hoa Kỳ và thăm cấp Nhà nước tới Canada](https://giaoducthudo.giaoducthoidai.vn/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-du-phien-thao-luan-cap-cao-dai-hoi-dong-lien-hop-quoc-khoa-81-tai-hoa-ky-va-tham-cap-nha-nuoc-toi-canada-222448.html)
-2 giờ trước [Chính trị](https://giaoducthudo.giaoducthoidai.vn/thoi-su/chinh-tri)
-Ngày 20/9/2026, Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Phiên thảo luận cấp cao Đại hội đồng Liên hợp quốc khóa 81, hoạt động song phương tại Hoa Kỳ và thăm cấp Nhà nước tới Canada.
-  * [![Vụ nam sinh ngã xuống cống tử vong: Chủ tịch Hà Nội chỉ đạo làm rõ trách nhiệm](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/vu-nam-sinh-nga-xuong-cong-tu-vong-chu-tich-ha-noi-chi-dao-lam-ro-trach-nhiem-222449.html)
-### [Vụ nam sinh ngã xuống cống tử vong: Chủ tịch Hà Nội chỉ đạo làm rõ trách nhiệm](https://giaoducthudo.giaoducthoidai.vn/vu-nam-sinh-nga-xuong-cong-tu-vong-chu-tich-ha-noi-chi-dao-lam-ro-trach-nhiem-222449.html)
-2 giờ trước [Pháp luật](https://giaoducthudo.giaoducthoidai.vn/thoi-su/phap-luat)
-Sau vụ nam sinh tử vong dưới cống, TP Hà Nội yêu cầu kiểm tra, làm rõ trách nhiệm của tổ chức, cá nhân liên quan và khẩn trương khắc phục điểm ngập nguy hiểm.
-  * [![Tuần từ 21-27/9 là giai đoạn VÀNG SON của 4 con giáp này: Giàu sang thuận ý trời, đời sống lên hương](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/tuan-tu-21-27-9-la-giai-doan-vang-son-cua-4-con-giap-nay-giau-sang-thuan-y-troi-doi-song-len-huong-222410.html)
-### [Tuần từ 21-27/9 là giai đoạn VÀNG SON của 4 con giáp này: Giàu sang thuận ý trời, đời sống lên hương](https://giaoducthudo.giaoducthoidai.vn/tuan-tu-21-27-9-la-giai-doan-vang-son-cua-4-con-giap-nay-giau-sang-thuan-y-troi-doi-song-len-huong-222410.html)
-5 giờ trước [Horoscope ](https://giaoducthudo.giaoducthoidai.vn/van-hoa/horoscope)
-Tuần từ 21-27/9/2026 mở ra những chuyển biến khá rõ trong vận trình của 4 con giáp may mắn tuần này. Có người được cát tinh nâng đỡ, công việc hanh thông, tài lộc rộng mở và chuyện tình cảm cũng có thêm tín hiệu đáng mừng.
+Thiếu cục bộ một số đầu sách giáo khoa đang được các trường linh hoạt xử lý như mượn từ thư viện, điều chuyển, chia sẻ sách và sử dụng sách điện tử.
+Tử vi hàng ngày 17/9/2026 của 12 con giáp khiến người tuổi Mão dễ rơi vào trạng thái mệt mỏi, nhất là khi khối lượng công việc tăng lên nhưng kết quả chưa được như mong muốn. Tính cầu toàn khiến bạn tự gây áp lực cho chính mình.
+Con số may mắn hôm nay 17/9/2026 theo năm sinh của bạn là số nào, con số may mắn theo 12 con giáp được chọn ra sao, đâu là số đẹp giúp bạn dễ trúng ngay, xem ngay bài viết để có câu trả lời nhanh nhất.
+Những con giáp không thích bị sai khiến dưới đây làm việc gì cũng rất có chủ kiến, nếu họ đã không đồng tình thì dù là lời nói của lãnh đạo, họ cũng sẽ không làm theo.
+Những con giáp có doanh thu bùng nổ cuối tháng 9 cũng không ngờ rằng mình có thể trải nghiệm vận may tốt đến thế cho dù bản thân vẫn nỗ lực và chăm chỉ như trước đây, không thay đổi điều gì.
 
 Đừng bỏ lỡ
-  * [![Tiếp tục phát huy hoạt động Tư vấn tuyển sinh - Hướng nghiệp cho học sinh](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/tiep-tuc-phat-huy-hoat-dong-tu-van-tuyen-sinh-huong-nghiep-cho-hoc-sinh-222444.html)
-### [Tiếp tục phát huy hoạt động Tư vấn tuyển sinh - Hướng nghiệp cho học sinh](https://giaoducthudo.giaoducthoidai.vn/tiep-tuc-phat-huy-hoat-dong-tu-van-tuyen-sinh-huong-nghiep-cho-hoc-sinh-222444.html)
-18 giờ trước [Hướng nghiệp](https://giaoducthudo.giaoducthoidai.vn/huong-nghiep)
-Hội nghị Tổng kết chương trình Tư vấn tuyển sinh - Hướng nghiệp 2026 và triển khai kế hoạch năm 2027 diễn ra tại Trường Đại học Cửu Long.
-  * [![Bộ GD&ĐT ban hành Chương trình hành động, xây dựng văn hóa liêm chính trong giáo dục](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/bo-gd-dt-ban-hanh-chuong-trinh-hanh-dong-xay-dung-van-hoa-liem-chinh-trong-giao-duc-222428.html)
-### [Bộ GD&ĐT ban hành Chương trình hành động, xây dựng văn hóa liêm chính trong giáo dục](https://giaoducthudo.giaoducthoidai.vn/bo-gd-dt-ban-hanh-chuong-trinh-hanh-dong-xay-dung-van-hoa-liem-chinh-trong-giao-duc-222428.html)
-18 giờ trước [Chính sách giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc/chinh-sach-giao-duc)
-Bộ GD&ĐT ban hành Chương trình hành động, tăng cường kỷ cương; xây dựng văn hóa trung thực, liêm chính và thực chất trong các hoạt động giáo dục.
-  * [![Thủ tướng chỉ đạo huy động nguồn lực, in ấn, cung ứng đủ SGK, báo cáo trước 22/9](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/thu-tuong-chi-dao-huy-dong-nguon-luc-in-an-cung-ung-du-sgk-bao-cao-truoc-22-9-222426.html)
-### [Thủ tướng chỉ đạo huy động nguồn lực, in ấn, cung ứng đủ SGK, báo cáo trước 22/9](https://giaoducthudo.giaoducthoidai.vn/thu-tuong-chi-dao-huy-dong-nguon-luc-in-an-cung-ung-du-sgk-bao-cao-truoc-22-9-222426.html)
-19 giờ trước [Chính sách giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc/chinh-sach-giao-duc)
-Văn phòng Chính phủ có văn bản số 9561/VPCP-KGVX truyền đạt ý kiến chỉ đạo của Thủ tướng Lê Minh Hưng về việc cung ứng SGK năm học 2026-2027.
-  * [![Giá vàng ngày 20/9](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/gia-vang-ngay-20-9-222452.html)
-### [Giá vàng ngày 20/9](https://giaoducthudo.giaoducthoidai.vn/gia-vang-ngay-20-9-222452.html)
-5 giờ trước [Kinh tế - Xã hội](https://giaoducthudo.giaoducthoidai.vn/thoi-su/kinh-te-xa-hoi)
-Giá vàng trong nước ngày 20/9 đồng loạt ghi nhận mức giao dịch đi ngang, trong khi đó giá vàng thế giới tiếp tục ghi nhận mức biến động.
-  * [![Bảo hiểm xã hội Việt Nam thông báo quan trọng tới tất cả người dân đang có thẻ Bảo hiểm y tế](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/bao-hiem-xa-hoi-viet-nam-thong-bao-quan-trong-toi-tat-ca-nguoi-dan-dang-co-the-bao-hiem-y-te-222453.html)
-### [Bảo hiểm xã hội Việt Nam thông báo quan trọng tới tất cả người dân đang có thẻ Bảo hiểm y tế](https://giaoducthudo.giaoducthoidai.vn/bao-hiem-xa-hoi-viet-nam-thong-bao-quan-trong-toi-tat-ca-nguoi-dan-dang-co-the-bao-hiem-y-te-222453.html)
-6 giờ trước [Kinh tế - Xã hội](https://giaoducthudo.giaoducthoidai.vn/thoi-su/kinh-te-xa-hoi)
-BHXH Việt Nam khuyến nghị người thuộc nhóm tự đóng BHYT gia hạn trước khi thẻ hết giá trị sử dụng và kiểm tra thông tin sau khi đóng tiền.
+Kiểm tra việc triển khai năm học mới tại Đắk Lắk, Thứ trưởng Phạm Ngọc Thưởng đề nghị các đơn vị sớm ổn định tổ chức, phân công trách nhiệm cụ thể.
+Phụ huynh Hà Nội có thể truy cập ứng dụng iHanoi, vào miniApp "Trường học số quốc gia" để sử dụng miễn phí sách điện tử các môn từ lớp 1 đến lớp 12.
+Sáng 16/9, Thứ trưởng Thường trực Bộ GD&ĐT Phạm Ngọc Thưởng tới thăm, động viên thầy và trò Trường PTNT Tiểu học và THCS Buôn Đôn, Đắk Lắk.
+Ban Bí thư quyết định thi hành kỷ luật khai trừ ra khỏi Đảng đối với Thứ trưởng Bộ Y tế Trần Văn Thuấn và Phó Chủ tịch UBND tỉnh Phú Thọ Nguyễn Huy Ngọc.
+Sẻ chia với những mất mát của các gia đình nạn nhân trong vụ cháy nhà ở phường Tây Hồ, Bí thư Thành ủy Hà Nội Trần Đức Thắng cùng đoàn công tác đã trao hỗ trợ 70 triệu đồng đối với mỗi trường hợp tử vong và 16 triệu đồng đối với mỗi người bị thương đang điều trị tại bệnh viện.
 
 Mới nhất
-  * [![Thư của Tổng Bí thư, Chủ tịch nước Tô Lâm gửi các cháu thiếu niên, nhi đồng nhân dịp Tết Trung thu](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/thu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-gui-cac-chau-thieu-nien-nhi-dong-nhan-dip-tet-trung-thu-222451.html)
-### [Thư của Tổng Bí thư, Chủ tịch nước Tô Lâm gửi các cháu thiếu niên, nhi đồng nhân dịp Tết Trung thu](https://giaoducthudo.giaoducthoidai.vn/thu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-gui-cac-chau-thieu-nien-nhi-dong-nhan-dip-tet-trung-thu-222451.html)
-một giờ trước [Thời sự](https://giaoducthudo.giaoducthoidai.vn/thoi-su)
-Nhân dịp Tết Trung thu 2026, ngày 19/9, Tổng Bí thư, Chủ tịch nước Tô Lâm đã có Thư gửi các cháu thiếu niên, nhi đồng ở trong nước và ở ngoài nước, các cháu người nước ngoài ở Việt Nam.
-  * [![Con số may mắn hôm nay 20/9/2026 theo năm sinh: Tìm SỐ MAY đón LỘC vào nhà](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/con-so-may-man-hom-nay-20-9-2026-theo-nam-sinh-tim-so-may-don-loc-vao-nha-222425.html)
-### [Con số may mắn hôm nay 20/9/2026 theo năm sinh: Tìm SỐ MAY đón LỘC vào nhà](https://giaoducthudo.giaoducthoidai.vn/con-so-may-man-hom-nay-20-9-2026-theo-nam-sinh-tim-so-may-don-loc-vao-nha-222425.html)
-13 giờ trước [Horoscope ](https://giaoducthudo.giaoducthoidai.vn/van-hoa/horoscope)
-Con số may mắn hôm nay 20/9/2026 theo tuổi được chọn ra sao, đâu là con số may mắn theo 12 con giáp giúp bạn dễ trúng ngay, tham khảo ngay trong bài viết dưới đây.
-  * [![Trung Thu đến sớm với học trò vùng khó Cư Prao](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/trung-thu-den-som-voi-hoc-tro-vung-kho-cu-prao-222445.html)
-### [Trung Thu đến sớm với học trò vùng khó Cư Prao](https://giaoducthudo.giaoducthoidai.vn/trung-thu-den-som-voi-hoc-tro-vung-kho-cu-prao-222445.html)
-17 giờ trước [Nhân ái](https://giaoducthudo.giaoducthoidai.vn/doi-song-cong-dong/nhan-ai)
-Học sinh khó khăn tại xã Cư Prao (Đắk Lắk) được trao 300 suất quà Trung Thu và 15 xe đạp, tiếp bước đến trường.
-  * [![Nghệ An giao hơn 2.200 chỉ tiêu giáo viên, nhân viên hợp đồng](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/nghe-an-giao-hon-2-200-chi-tieu-giao-vien-nhan-vien-hop-dong-222443.html)
-### [Nghệ An giao hơn 2.200 chỉ tiêu giáo viên, nhân viên hợp đồng](https://giaoducthudo.giaoducthoidai.vn/nghe-an-giao-hon-2-200-chi-tieu-giao-vien-nhan-vien-hop-dong-222443.html)
-17 giờ trước [Giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc)
-Sở GD&ĐT Nghệ An có quyết định giao 2.253 chỉ tiêu hợp đồng lao động tại các đơn vị sự nghiệp giáo dục công lập trên địa bàn năm 2026-2027.
-  * [![Trường THPT Đồng Hới: 60 năm 'thắp sáng' ngọn lửa tri thức](https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html)](https://giaoducthudo.giaoducthoidai.vn/truong-thpt-dong-hoi-60-nam-thap-sang-ngon-lua-tri-thuc-222442.html)
-### [Trường THPT Đồng Hới: 60 năm 'thắp sáng' ngọn lửa tri thức](https://giaoducthudo.giaoducthoidai.vn/truong-thpt-dong-hoi-60-nam-thap-sang-ngon-lua-tri-thuc-222442.html)
-17 giờ trước [Giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc)
-Ngày 19/9, Trường THPT Đồng Hới (tỉnh Quảng Trị) tổ chức Lễ kỷ niệm 60 năm thành lập trường (1966 - 2026).
+Ngày 16/9, tại Hạ Long, Hội nghị Quốc tế IEEE lần thứ 8 về Mạch và Hệ thống Trí tuệ nhân tạo (AICAS 2026) khai mạc, do Viện Công nghệ Thông tin, Đại học Quốc gia Hà Nội (ĐHQGHN) chủ trì tổ chức.
+Khung kiến trúc tổng thể quốc gia số thiết lập kiến trúc chung ở cấp quốc gia, tạo cơ sở để các bộ, ngành, địa phương xây dựng kiến trúc số phù hợp chức năng, nhiệm vụ, thẩm quyền nhưng vẫn bảo đảm tuân thủ các nguyên tắc và yêu cầu liên thông chung.
+Ba nguyên Chủ tịch Hội đồng trường và một cán bộ vừa được bổ nhiệm giữ chức phó hiệu trưởng tại các trường đại học trực thuộc Bộ VHTTDL. Đợt kiện toàn nhân sự diễn ra trong bối cảnh vai trò của các cơ sở đào tạo ngày càng gắn chặt với yêu cầu xây dựng đội ngũ cán bộ cho toàn ngành.
+Thiếu cục bộ một số đầu sách giáo khoa đang được các trường linh hoạt xử lý như mượn từ thư viện, điều chuyển, chia sẻ sách và sử dụng sách điện tử.
+Kiểm tra việc triển khai năm học mới tại Đắk Lắk, Thứ trưởng Phạm Ngọc Thưởng đề nghị các đơn vị sớm ổn định tổ chức, phân công trách nhiệm cụ thể.
 
-[Xem thêm](javascript:;)
 Tin mới nhất
-  * [![Chân dung các nhân sự vừa được Bộ Chính trị, Ban Bí thư điều động công tác](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/19/cafefcdn.com-thumb_w-1200-203337114487263232-2026-9-19-_avatar1789794767590-1789794767872857035535.jpg)](https://giaoducthudo.giaoducthoidai.vn/chan-dung-cac-nhan-su-vua-duoc-bo-chinh-tri-ban-bi-thu-dieu-dong-cong-tac-222438.html)
-### [Chân dung các nhân sự vừa được Bộ Chính trị, Ban Bí thư điều động công tác](https://giaoducthudo.giaoducthoidai.vn/chan-dung-cac-nhan-su-vua-duoc-bo-chinh-tri-ban-bi-thu-dieu-dong-cong-tac-222438.html)
-  * [![Học sinh toàn quốc tranh tài qua các thử thách sáng tạo số](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/19/cdn.giaoducthoidai.vn-images-5ovqrn4kts6e5fhg22jy1mkq3-f8olehg-q2x5cme51k-ooxtey8bdqnphdgvbk7-_img-4514.jpg)](https://giaoducthudo.giaoducthoidai.vn/hoc-sinh-toan-quoc-tranh-tai-qua-cac-thu-thach-sang-tao-so-222436.html)
-### [Học sinh toàn quốc tranh tài qua các thử thách sáng tạo số](https://giaoducthudo.giaoducthoidai.vn/hoc-sinh-toan-quoc-tranh-tai-qua-cac-thu-thach-sang-tao-so-222436.html)
-  * [![Trí tuệ nhân tạo đặt ra yêu cầu đổi mới vai trò của giáo viên](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/19/cdn.giaoducthoidai.vn-images-5ovqrn4kts6e5fhg22jy1gosvojijrlc3ewjyvlw90lrwtntywcvvkjv4xfozkayryppduc18gdrap-ny3yqtq-_chuyendoiso-1jpg1.jpg)](https://giaoducthudo.giaoducthoidai.vn/tri-tue-nhan-tao-dat-ra-yeu-cau-doi-moi-vai-tro-cua-giao-vien-222432.html)
-### [Trí tuệ nhân tạo đặt ra yêu cầu đổi mới vai trò của giáo viên](https://giaoducthudo.giaoducthoidai.vn/tri-tue-nhan-tao-dat-ra-yeu-cau-doi-moi-vai-tro-cua-giao-vien-222432.html)
-  * [![Gỡ điểm nghẽn cơ sở vật chất, nâng chất đào tạo nghề vùng khó](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/19/riqucz5tft37o-csgqirgfus7qcfycm-_1787882872483-7153141034438706476-7153141034438706476-b76c35e739262c7928b104cee12df1a2.jpg)](https://giaoducthudo.giaoducthoidai.vn/go-diem-nghen-co-so-vat-chat-nang-chat-dao-tao-nghe-vung-kho-222427.html)
-### [Gỡ điểm nghẽn cơ sở vật chất, nâng chất đào tạo nghề vùng khó](https://giaoducthudo.giaoducthoidai.vn/go-diem-nghen-co-so-vat-chat-nang-chat-dao-tao-nghe-vung-kho-222427.html)
-  * [![Ông Nguyễn Văn Phương làm Phó Trưởng Ban Chính sách, chiến lược Trung ương](https://gdtd.1cdn.vn/thumbs/540x360/2026/09/19/cafefcdn.com-thumb_w-1200-203337114487263232-2026-9-18-_avatar1789773547501-17897735477732128024581.jpg)](https://giaoducthudo.giaoducthoidai.vn/ong-nguyen-van-phuong-lam-pho-truong-ban-chinh-sach-chien-luoc-trung-uong-222416.html)
-### [Ông Nguyễn Văn Phương làm Phó Trưởng Ban Chính sách, chiến lược Trung ương](https://giaoducthudo.giaoducthoidai.vn/ong-nguyen-van-phuong-lam-pho-truong-ban-chinh-sach-chien-luoc-trung-uong-222416.html)
 
 --Quảng cáo---
-  * [Giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc)
-  * [Thời sự](https://giaoducthudo.giaoducthoidai.vn/thoi-su)
-  * [Khỏe - Đẹp](https://giaoducthudo.giaoducthoidai.vn/khoe-dep)
-  * [Hướng nghiệp](https://giaoducthudo.giaoducthoidai.vn/huong-nghiep)
-  * [Kinh doanh](https://giaoducthudo.giaoducthoidai.vn/kinh-doanh)
-  * [Văn hóa](https://giaoducthudo.giaoducthoidai.vn/van-hoa)
-  * [Đời sống cộng đồng](https://giaoducthudo.giaoducthoidai.vn/doi-song-cong-dong)
-  * [Học đường](https://giaoducthudo.giaoducthoidai.vn/hoc-duong)
-  * [Media](https://giaoducthudo.giaoducthoidai.vn/media)
-  * [Giải cờ vua 2025](https://giaoducthudo.giaoducthoidai.vn/giai-co-vua-2025)
-  * [Video](https://giaoducthudo.giaoducthoidai.vn/video)
-  * [Sài Gòn 24/7](https://giaoducthudo.giaoducthoidai.vn/sai-gon-247)
-  * [Video](https://giaoducthudo.giaoducthoidai.vn/video)
 
 **CHUYÊN TRANG GIÁO DỤC THỦ ĐÔ - BÁO GIÁO DỤC VÀ THỜI ĐẠI**
 Cơ quan chủ quản: BỘ GIÁO DỤC VÀ ĐÀO TẠO.
@@ -212,74 +90,15 @@ Toà soạn: 14 Lê Trực, Ba Đình, Hà Nội
 Phụ trách chuyên trang: Hoàng Quang Kiên
 Email: giaoducthudo.ecoms@gmail.com
 ® Ghi rõ nguồn “Báo Giáo dục & Thời đại” khi phát hành lại thông tin từ website.
-![ecoms](https://gdtd.1cdn.vn/assets/images/ecoms.jpg)
 Liên hệ Truyền thông - Quảng cáo
 Phương Dung: 097 5972 115
 Châu Ly: 086 6228 118
 POWERED BY [ONECMS](https://onecms.vn) - A PRODUCT OF NEKO
-  * [Giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc)
-    * [Tiêu điểm 24/7](https://giaoducthudo.giaoducthoidai.vn/giao-duc/tieu-diem-247)
-    * [Chính sách giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc/chinh-sach-giao-duc)
-    * [Tuyển sinh - du học](https://giaoducthudo.giaoducthoidai.vn/giao-duc/tuyen-sinh-du-hoc)
-    * [Giáo dục bốn phương](https://giaoducthudo.giaoducthoidai.vn/giao-duc/giao-duc-bon-phuong)
-  * [Thời sự](https://giaoducthudo.giaoducthoidai.vn/thoi-su)
-    * [Chính trị](https://giaoducthudo.giaoducthoidai.vn/thoi-su/chinh-tri)
-    * [Kinh tế - Xã hội](https://giaoducthudo.giaoducthoidai.vn/thoi-su/kinh-te-xa-hoi)
-    * [Pháp luật](https://giaoducthudo.giaoducthoidai.vn/thoi-su/phap-luat)
-  * [Khỏe - Đẹp](https://giaoducthudo.giaoducthoidai.vn/khoe-dep)
-    * [Dinh dưỡng học đường](https://giaoducthudo.giaoducthoidai.vn/khoe-dep/dinh-duong-hoc-duong)
-    * [Giới tính](https://giaoducthudo.giaoducthoidai.vn/khoe-dep/gioi-tinh)
-    * [Thể thao](https://giaoducthudo.giaoducthoidai.vn/khoe-dep/the-thao)
-    * [Đẹp +](https://giaoducthudo.giaoducthoidai.vn/khoe-dep/dep)
-    * [Bệnh phụ nữ](https://giaoducthudo.giaoducthoidai.vn/khoe-dep/benh-phu-nu)
-    * [Tình dục học](https://giaoducthudo.giaoducthoidai.vn/khoe-dep/tinh-duc-hoc)
-    * [Tim mạch](https://giaoducthudo.giaoducthoidai.vn/khoe-dep/tim-mach)
-    * [Huyết áp](https://giaoducthudo.giaoducthoidai.vn/khoe-dep/huyet-ap)
-    * [Tiểu đường](https://giaoducthudo.giaoducthoidai.vn/khoe-dep/tieu-duong)
-  * [Hướng nghiệp](https://giaoducthudo.giaoducthoidai.vn/huong-nghiep)
-    * [Góc phụ huynh](https://giaoducthudo.giaoducthoidai.vn/huong-nghiep/goc-phu-huynh)
-    * [Trắc nghiệm hướng nghiệp](https://giaoducthudo.giaoducthoidai.vn/huong-nghiep/trac-nghiem-huong-nghiep)
-    * [Góc chuyên gia tư vấn](https://giaoducthudo.giaoducthoidai.vn/huong-nghiep/goc-chuyen-gia-tu-van)
-  * [Kinh doanh](https://giaoducthudo.giaoducthoidai.vn/kinh-doanh)
-    * [Tiêu dùng](https://giaoducthudo.giaoducthoidai.vn/kinh-doanh/tieu-dung)
-    * [Thương hiệu](https://giaoducthudo.giaoducthoidai.vn/kinh-doanh/thuong-hieu)
-  * [Văn hóa](https://giaoducthudo.giaoducthoidai.vn/van-hoa)
-    * [Tử vi - Phong Thủy](https://giaoducthudo.giaoducthoidai.vn/van-hoa/tu-vi-phong-thuy)
-    * [Thế giới Sao](https://giaoducthudo.giaoducthoidai.vn/van-hoa/the-gioi-sao)
-    * [Trải nghiệm (Ăn - Xem - Đi)](https://giaoducthudo.giaoducthoidai.vn/van-hoa/trai-nghiem-an-xem-di)
-    * [Horoscope ](https://giaoducthudo.giaoducthoidai.vn/van-hoa/horoscope)
-  * [Đời sống cộng đồng](https://giaoducthudo.giaoducthoidai.vn/doi-song-cong-dong)
-    * [Gia đình](https://giaoducthudo.giaoducthoidai.vn/doi-song-cong-dong/gia-dinh)
-    * [Nhân ái](https://giaoducthudo.giaoducthoidai.vn/doi-song-cong-dong/nhan-ai)
-    * [Forum](https://giaoducthudo.giaoducthoidai.vn/doi-song-cong-dong/forum)
-    * [Khoa học - công nghệ](https://giaoducthudo.giaoducthoidai.vn/doi-song-cong-dong/khoa-hoc-cong-nghe)
-  * [Học đường](https://giaoducthudo.giaoducthoidai.vn/hoc-duong)
-    * [Kĩ năng sống](https://giaoducthudo.giaoducthoidai.vn/hoc-duong/ki-nang-song)
-    * [Bí quyết thi cử](https://giaoducthudo.giaoducthoidai.vn/hoc-duong/bi-quyet-thi-cu)
-    * [Gương sáng](https://giaoducthudo.giaoducthoidai.vn/hoc-duong/guong-sang)
-  * [Media](https://giaoducthudo.giaoducthoidai.vn/media)
-    * [Infographic](https://giaoducthudo.giaoducthoidai.vn/media/infographic)
-    * [Video](https://giaoducthudo.giaoducthoidai.vn/media/video)
-    * [Trailer](https://giaoducthudo.giaoducthoidai.vn/media/trailer)
-  * [Giải cờ vua 2025](https://giaoducthudo.giaoducthoidai.vn/giai-co-vua-2025)
-  * [Video](https://giaoducthudo.giaoducthoidai.vn/video)
-  * [Sài Gòn 24/7](https://giaoducthudo.giaoducthoidai.vn/sai-gon-247)
-  * [Video](https://giaoducthudo.giaoducthoidai.vn/video)
 
-[![logo](https://gdtd.1cdn.vn/assets/images/logo_gdtd.png)](https://giaoducthudo.giaoducthoidai.vn/)
-[Chính sách giáo dục](https://giaoducthudo.giaoducthoidai.vn/giao-duc/chinh-sach-giao-duc)
 Học phí tăng, hỗ trợ sinh viên được mở rộng
-  * [](https://www.facebook.com/sharer/sharer.php?u=https://giaoducthudo.giaoducthoidai.vn/hoc-phi-tang-ho-tro-sinh-vien-duoc-mo-rong-217966.html&display=popup&ref=plugin)
-  * [](javascript:; "Chia sẻ Zalo")
 
 Gửi bình luận
-[Hủy](javascript://) [Gửi](javascript://)
 1  / 4
   * Facebook
   * Twitter
   * Pinterest
-
-![](https://cdn.giaoducthoidai.vn/images/3756cddb3a20ea36816643b138886f25f2fa2362c0c7ec66376bba4d90ea631a07d7f961882dbf9c91979b2698a2dd7e/vay-bao-lanh.jpg.avif)
-![](https://cdn.giaoducthoidai.vn/images/3756cddb3a20ea36816643b138886f255d6722b589a7bd347dea92341e805027/bk.png.avif)
-![](https://cdn.giaoducthoidai.vn/images/3756cddb3a20ea36816643b138886f250f62eb5e6227b90e0f106aa3b1a1452aba13d54942d5322bb31a6e82643e48b5/thi-sinh.jpg.avif)
-![](https://cdn.giaoducthoidai.vn/images/3756cddb3a20ea36816643b138886f2570d8f5da3ccdfc3b85e028595ad55f188a96a7886c075806a53298ff1ed0dab0776c5a1474f0b88fd238fe58c8df89632f1d2c07a594698678350f264773b087a8904041fc31274acb4faf5c0a71469e/738570868-1437091091782857-4920220820660169472-n-4534.jpg.avif)

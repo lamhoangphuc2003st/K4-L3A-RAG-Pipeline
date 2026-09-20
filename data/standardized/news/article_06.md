@@ -2,67 +2,16 @@
 
 **Source:** https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-dang-ky-o-ky-tuc-xa-nam-hoc-2026-2027
 
-**Crawled:** 2026-09-20T15:34:27.611598
+**Crawled:** 2026-09-20T16:29:49.362057
 
 ---
 
 Tổng đài:
-  * [ 1900.055.559 ](tel:1900.055.559> "1900.055.559")
-  * [ 1900.055.559 ](tel:1900.055.559> "1900.055.559")
-  * [ 1900.055.559 ](tel:1900.055.559> "1900.055.559")
-  * [ 1900.055.559 ](tel:1900.055.559> "1900.055.559")
 
-[English ![English](https://ktxhcm.edu.vn/templates/ktx/templates/en.svg)](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-dang-ky-o-ky-tuc-xa-nam-hoc-2026-2027)
 Tổng đài:
-  * [ 1900.055.559 ](tel:1900.055.559 "1900.055.559")
-  * [ 1900.055.559 ](tel:1900.055.559 "1900.055.559")
-  * [ 1900.055.559 ](tel:1900.055.559 "1900.055.559")
-  * [ 1900.055.559 ](tel:1900.055.559 "1900.055.559")
-
-  * [Hỗ trợ đăng ký phòng ở](https://huongdan.ktxhcm.edu.vn)
-  * [Thanh tra pháp chế](https://ttpc.ktxhcm.edu.vn/)
-  * [ Tham quan KTX trực tuyến](https://thamquan.ktxhcm.edu.vn)
-
-[ ![](https://ktxhcm.edu.vn/templates/ktx/templates/en.svg) ](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-dang-ky-o-ky-tuc-xa-nam-hoc-2026-2027)
-[ ![Trung tâm Quản lý Ký túc xá](https://ktxhcm.edu.vn/uploads/infos/logo-ktx.png) ](https://ktxhcm.edu.vn/ "Trung tâm Quản ý Ký túc xá và Khu đô thị ĐHQG-HCM")
-  * [Trang chủ](https://ktxhcm.edu.vn/)
-  * [Giới thiệu](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-dang-ky-o-ky-tuc-xa-nam-hoc-2026-2027)
-    * [Giới thiệu chung](https://ktxhcm.edu.vn/gioi-thieu/gioi-thieu-chung)
-      * [Giới thiệu về Trung tâm](https://ktxhcm.edu.vn/gioi-thieu/gioi-thieu-chung/thong-tin-chung-ve-ktx)
-      * [Tầm nhìn - Sứ mạng](https://ktxhcm.edu.vn/gioi-thieu/gioi-thieu-chung/tam-nhin-su-mang)
-      * [Bộ nhận diện thương hiệu](https://ktxhcm.edu.vn/gioi-thieu/gioi-thieu-chung/bo-nhan-dien-thuong-hieu)
-      * [Bài ca truyền thống](https://ktxhcm.edu.vn/gioi-thieu/gioi-thieu-chung/bai-ca-truyen-thong)
-    * [Cơ cấu tổ chức](https://ktxhcm.edu.vn/gioi-thieu/co-cau-to-chuc "Cơ cấu tổ chức")
-      * [Hội đồng quản lý](https://ktxhcm.edu.vn/gioi-thieu/co-cau-to-chuc/hoi-dong-quan-ly "Hội đồng quản lý")
-      * [Ban Giám Đốc](https://ktxhcm.edu.vn/gioi-thieu/co-cau-to-chuc/ban-giam-doc)
-      * [Các phòng thuộc](https://ktxhcm.edu.vn/gioi-thieu/co-cau-to-chuc/cac-phong-truc-thuoc)
-      * [Các ban thuộc](https://ktxhcm.edu.vn/gioi-thieu/co-cau-to-chuc/cac-ban-truc-thuoc)
-  * [Tin tức và sự kiện](https://ktxhcm.edu.vn/news)
-    * [Tin tức - Sự kiện](https://ktxhcm.edu.vn/news/su-kien)
-    * [Hoạt động đoàn thể](https://ktxhcm.edu.vn/news/hoat-dong-doan-the)
-    * [Videos poscast](https://ktxhcm.edu.vn/news/video-poscast)
-    * [Tuyên truyền Bầu cử](https://ktxhcm.edu.vn/news/tuyen-truyen-bau-cu)
-  * [Sinh viên nội trú](https://sv.ktxhcm.edu.vn/)
-    * [Biểu mẫu](https://ktxhcm.edu.vn/sinh-vien-noi-tru/bieu-mau)
-    * [Thông tin hướng dẫn](https://huongdan.ktxhcm.edu.vn/)
-    * [Đăng ký nội trú](https://sv.ktxhcm.edu.vn/)
-    * [Câu hỏi thường gặp](https://ktxhcm.edu.vn/sinh-vien-noi-tru/cau-hoi-thuong-gap)
-    * [Thông báo](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu)
-    * [Qui chế/Quy định](https://ktxhcm.edu.vn/sinh-vien-noi-tru/qui-che-quy-di-nh)
-    * [ANTT/PCCC](https://ktxhcm.edu.vn/sinh-vien-noi-tru/antt-pccc)
-    * [Góc sức khỏe](https://ktxhcm.edu.vn/sinh-vien-noi-tru/goc-suc-khoe)
-  * [Thông báo](https://ktxhcm.edu.vn/notice)
-    * [Thông báo tổ chức - hoạt động](https://ktxhcm.edu.vn/notice/thong-bao-to-chuc-hoat-dong)
-    * [Thông báo dành cho sinh viên](https://ktxhcm.edu.vn/notice/thong-bao-danh-cho-sinh-vien)
-    * [Thông báo mời thầu](https://ktxhcm.edu.vn/notice/thong-bao-moi-thau)
-  * [Liên kết](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-dang-ky-o-ky-tuc-xa-nam-hoc-2026-2027)
-    * [Đại học Quốc Gia TP.HCM](https://vnuhcm.edu.vn/)
-    * [Công đoàn ĐHQG-HCM](http://congdoan.vnuhcm.edu.vn/)
-    * [Trang sinh viên KTX](https://sv.ktxhcm.edu.vn/)
-  * [Liên hệ](https://ktxhcm.edu.vn/contact)
 
 ## Về việc đăng ký ở Ký túc xá năm học 2026-2027
-11/08/2026 Thông báo dành cho sinh viên 27181
+11/08/2026 Thông báo dành cho sinh viên 27184
 Trung tâm Quản lý Ký túc xá và Khu đô thị ĐHQG-HCM (Trung tâm) thông báo đến người học có nhu cầu ở Ký túc xá (KTX) năm học 2026-2027 như sau:
 **1. Đối tượng, điều kiện đăng ký**
 **1.1. Đối tượng**
@@ -114,59 +63,20 @@ Người học xem hướng dẫn đăng ký, thanh toán, … cần tải các 
 Trong quá trình thực hiện, người học cần hỗ trợ vui lòng liên hệ BQLCN hoặc Phòng Công tác sinh viên - Chuyển đổi số, số tổng đài: 1900.05.55.59 hoặc tra cứu số nội bộ tại địa chỉ: [ktxhcm.edu.vn/contac](https://ktxhcm.edu.vn/contact)t để được hỗ trợ.
 Trân trọng./.
 ## Tin nổi bật
-  * [ Tăng cường năng lực phòng cháy, chữa cháy, đảm bảo an ninh, an toàn cho sinh viên nội trú](https://ktxhcm.edu.vn/news/su-kien/tang-cuong-nang-luc-phong-chay-chua-chay-dam-bao-an-ninh-an-toan-cho-sinh-vien-noi-tru)
-  * [ Khởi đầu năm học mới vì một ký túc xá an toàn, văn minh](https://ktxhcm.edu.vn/news/su-kien/khoi-dau-nam-hoc-moi-vi-mot-ky-tuc-xa-an-toan-van-minh)
-  * [ Triển khai diễn tập phòng cháy, chữa cháy và cứu nạn, cứu hộ quy mô lớn tại Ký túc xá ĐHQG-HCM](https://ktxhcm.edu.vn/news/su-kien/trien-khai-dien-tap-phong-chay-chua-chay-va-cuu-nan-cuu-ho-quy-mo-lon-tai-ky-tuc-xa-dhqg-hcm)
-  * [ Tăng cường phối hợp, nâng cao chất lượng công tác sinh viên nội trú tại Ký túc xá ĐHQG-HCM với các cơ sở đào tạo](https://ktxhcm.edu.vn/news/su-kien/tang-cuong-phoi-hop-nang-cao-chat-luong-cong-tac-sinh-vien-noi-tru)
-  * [ Đổi mới công tác dịch vụ, lấy sự hài lòng của sinh viên làm thước đo chất lượng](https://ktxhcm.edu.vn/news/su-kien/doi-moi-cong-tac-dich-vu-lay-su-hai-long-cua-sinh-vien-lam-thuoc-do-chat-luong)
-  * [ Ra quân ngày cao điểm các hoạt động tình nguyện tại Khu đô thị ĐHQG-HCM](https://ktxhcm.edu.vn/news/su-kien/ra-quan-ngay-cao-di-m-cac-ho-t-d-ng-tinh-nguy-n-t-i-khu-do-th-dhqg-hcm)
 
 ## Bài viết cùng chuyên mục
-[ ![](https://ktxhcm.edu.vn/images/Nam_2025/tongbao/biaphanmem1cua.png#joomlaImage://local-images/Nam_2025/tongbao/biaphanmem1cua.png?width=500&height=314) Triển khai chính thức ứng dụng phần mềm Một cửa phục vụ sinh viên ](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/trien-khai-chinh-thuc-ung-dung-phan-mem-mot-cua-phuc-vu-sinh-vien "Triển khai chính thức ứng dụng phần mềm Một cửa phục vụ sinh viên")
-[ ![](https://ktxhcm.edu.vn/images/Nam_2025/tongbao/thong-bao-2000x1000.png#joomlaImage://local-images/Nam_2025/tongbao/thong-bao-2000x1000.png?width=500&height=314) Về việc đăng ký thi giấy phép lái xe mô tô hạng A1 (dưới 125cc), A (trên 125cc) tháng 10, 11, 12/2026 ](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-dang-ky-thi-giay-phep-lai-xe-mo-to-hang-a1-duoi-125cc-a-tren-125cc-thang-10-11-12-2026 "Về việc đăng ký thi giấy phép lái xe mô tô hạng A1 \(dưới 125cc\), A \(trên 125cc\) tháng 10, 11, 12/2026")
-[ ![](https://ktxhcm.edu.vn/images/Nam_2025/tongbao/desenho-de-fundo-do-anuncio_23-2151168500.jpeg#joomlaImage://local-images/Nam_2025/tongbao/desenho-de-fundo-do-anuncio_23-2151168500.jpeg?width=500&height=314) Về việc công nhận kết quả rèn luyện sinh viên nội trú Ký túc xá ĐHQG-HCM năm học 2025-2026 ](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-cong-nhan-ket-qua-ren-luyen-sinh-vien-noi-tru-ky-tuc-xa-dhqg-hcm-nam-hoc-2025-2026 "Về việc công nhận kết quả rèn luyện sinh viên nội trú Ký túc xá ĐHQG-HCM năm học 2025-2026")
-[ ![](https://ktxhcm.edu.vn/images/Nam_2025/tongbao/thong-bao.jpeg#joomlaImage://local-images/Nam_2025/tongbao/thong-bao.jpeg?width=500&height=314) Về việc thực hiện đóng bổ sung chênh lệch lệ phí phòng ở và dịch vụ tăng thêm năm học 2026-2027 ](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-thuc-hien-dong-bo-sung-chenh-lech-le-phi-phong-o-va-dich-vu-tang-them-nam-hoc-2026-2027 "Về việc thực hiện đóng bổ sung chênh lệch lệ phí phòng ở và dịch vụ tăng thêm năm học 2026-2027")
-[ ![](https://ktxhcm.edu.vn/images/Nam_2025/tongbao/tbbhyt.png#joomlaImage://local-images/Nam_2025/tongbao/tbbhyt.png?width=500&height=314) Về việc tham gia bảo hiểm y tế, bảo hiểm tai nạn và tổ chức chăm sóc sức khỏe ban đầu năm học 2026-2027 ](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-tham-gia-bao-hiem-y-te-bao-hiem-tai-nan-va-to-chuc-cham-soc-suc-khoe-ban-dau-nam-hoc-2026-2027 "Về việc tham gia bảo hiểm y tế, bảo hiểm tai nạn và tổ chức chăm sóc sức khỏe ban đầu năm học 2026-2027")
-[ ![](https://ktxhcm.edu.vn/images/nam2026/thang7/biathongbao2026.png#joomlaImage://local-images/nam2026/thang7/biathongbao2026.png?width=500&height=314) Về việc đăng ký ở Ký túc xá tháng 8 năm 2026 và năm học 2026-2027 ](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-dang-ky-o-ky-tuc-xa-thang-8-nam-2026-va-nam-hoc-2026-2027 "Về việc đăng ký ở Ký túc xá tháng 8 năm 2026 và năm học 2026-2027")
 ### Liên hệ
 **Địa chỉ:** Đường Tạ Quang Bửu, Khu phố 33, Phường Linh Xuân, TP. Hồ Chí Minh.
-**Hotline:** [ 1900.055.559](tel:1900.055.559)
 info@ktxhcm.edu.vn
 ### Giới thiệu
-  * [ Về Trung tâm Quản lý Ký túc xá và Khu đô thị ĐHQG-HCM ](https://ktxhcm.edu.vn/gioi-thieu/gioi-thieu-chung)
 
 ### Tổ chức đoàn thể
-  * [ Công đoàn ](https://ktxhcm.edu.vn/cong-doan)
-  * [ Chi đoàn ](https://ktxhcm.edu.vn/chi-doan)
 
 ### Đơn vị thuộc
-  * [ Phòng An ninh trật tự ](https://ktxhcm.edu.vn/phong-an-ninh-trat-tu)
-  * [ Phòng Công tác Sinh viên - Chuyển đổi số ](https://ktxhcm.edu.vn/phong-cong-tac-sinh-vien-chuyen-doi-so)
-  * [ Phòng Dịch vụ và Chăm sóc sức khỏe ](https://ktxhcm.edu.vn/phong-dich-vu-va-cham-soc-suc-khoe)
-  * [ Phòng Hạ tầng ](https://ktxhcm.edu.vn/phong-ha-tang)
-  * [ Phòng Kế hoạch - Tài chính ](https://ktxhcm.edu.vn/phong-ke-hoach-tai-chinh)
-  * [ Phòng Quản trị - Thiết bị ](https://ktxhcm.edu.vn/phong-quan-tri-thiet-bi)
-  * [ Phòng Tổng hợp ](https://ktxhcm.edu.vn/phong-tong-hop)
 
 ### Đơn vị thuộc
-  * [ Ban quản lý Cụm nhà AG ](https://ktxhcm.edu.vn/ban-qu-n-ly-c-m-nha-ag)
-  * [ Ban quản lý Cụm nhà AH ](https://ktxhcm.edu.vn/ban-qu-n-ly-c-m-nha-ah)
-  * [ Ban quản lý Cụm nhà BA ](https://ktxhcm.edu.vn/ban-qu-n-ly-c-m-nha-ba)
-  * [ Ban quản lý Cụm nhà BB ](https://ktxhcm.edu.vn/ban-qu-n-ly-c-m-nha-bb)
-  * [ Ban quản lý Cụm nhà BC ](https://ktxhcm.edu.vn/ban-qu-n-ly-c-m-nha-bc)
-  * [ Ban quản lý Cụm nhà BD ](https://ktxhcm.edu.vn/ban-qu-n-ly-c-m-nha-bd)
-  * [ Ban quản lý Cụm nhà BE ](https://ktxhcm.edu.vn/ban-qu-n-ly-c-m-nha-be)
 
 * * *
 Bản quyền©2024 thuộc Trung tâm Quản lý Ký túc xá và Khu đô thị ĐHQG-HCM.
-Thiết kế và xây dựng bởi [Phòng Công tác sinh viên - Chuyển đổi số](https://cntt-dl.ktxhcm.edu.vn/).
 Theo dõi chúng tôi trên:
-[ ](https://www.facebook.com/ttqlktx.kdt "Facebook")
-[ ](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-dang-ky-o-ky-tuc-xa-nam-hoc-2026-2027#twitter_link "Twitter")
-[ ](https://www.youtube.com/channel/UC7JCKLMZ9F0yaUNe-lA2BYg "Youtube")
-[ ](https://ktxhcm.edu.vn/sinh-vien-noi-tru/thong-bao-menu/ve-viec-dang-ky-o-ky-tuc-xa-nam-hoc-2026-2027#google_link "Google plus")
 ×
-[ TRỢ LÝ AI  ](javascript:void\(0\))
-[Chatbot AI - TRỢ LÝ AI CỦA KTXHCM](https://trolyai.ktxhcm.edu.vn/) ×
-![Support](https://ktxhcm.edu.vn/images/lg500.png#joomlaImage://local-images/lg500.png?width=500&height=500)
-[](https://www.youtube.com/channel/UC7JCKLMZ9F0yaUNe-lA2BYg "Youtube") [](https://www.facebook.com/ttqlktx.kdt "Facebook") [](tel:1900055559 "Hotline")

@@ -2,170 +2,15 @@
 
 **Source:** https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-vinuni-438111.html
 
-**Crawled:** 2026-09-20T15:34:14.043093
+**Crawled:** 2026-09-20T16:29:19.962150
 
 ---
 
-[Tin mới](https://baolamdong.vn/tin-tuc-24h "Tim mới")
-[**Chủ Nhật,** 20/09/2026](https://baolamdong.vn/am-duong-lich-hom-nay)
-  * [Đọc báo in](https://baolamdong.vn/an-pham)
-
-[ ![Báo Lâm Đồng - Tin mới Đắk Nông, Bình Thuận, Lâm Đồng, tin tức Tây Nguyên mới nhất, chính thống](https://daknong.1cdn.vn/assets/static/images/logo-lamdong.png) ![Báo Lâm Đồng - Tin mới Đắk Nông, Bình Thuận, Lâm Đồng, tin tức Tây Nguyên mới nhất, chính thống](https://daknong.1cdn.vn/assets/static/images/logo-lamdong-small.png) ](https://baolamdong.vn/ "Báo Lâm Đồng - Tin mới Đắk Nông, Bình Thuận, Lâm Đồng, tin tức Tây Nguyên mới nhất, chính thống")
-  * **Lâm Đồng** _21°C_ / 16 - 24°C![](https://asset.1cdn.vn/all/weather/64x64/day/353.png)
-
 Đang hiển thị
-  * Lâm Đồng21°C![](https://asset.1cdn.vn/all/weather/64x64/day/353.png)
 
 Tỉnh thành khác
 Không tìm thấy kết quả
   * Đăng nhập
-
-  * [Lam Dong News](https://en.baolamdong.vn/)
-
-  * [](https://baolamdong.vn/ "Trang chủ")
-  * [Mới nhất](https://baolamdong.vn/tin-tuc-24h "Mới nhất")
-  * [Chính trị](https://baolamdong.vn/chinh-tri "Chính trị")
-    * [Bảo vệ nền tảng tư tưởng](https://baolamdong.vn/chinh-tri/bao-ve-nen-tang-tu-tuong "Bảo vệ nền tảng tư tưởng")
-    * [Học và làm theo Bác Hồ](https://baolamdong.vn/chinh-tri/hoc-va-lam-theo-bac-ho "Học và làm theo Bác Hồ")
-    * [Xây dựng Đảng](https://baolamdong.vn/chinh-tri/xay-dung-dang "Xây dựng Đảng")
-    * [Đoàn đại biểu Quốc hội - HĐND](https://baolamdong.vn/chinh-tri/doan-dai-bieu-quoc-hoi-hdnd "Đoàn đại biểu Quốc hội - HĐND")
-    * [Thông tin đối ngoại](https://baolamdong.vn/chinh-tri/thong-tin-doi-ngoai "Thông tin đối ngoại")
-    * [Nghị quyết và cuộc sống](https://baolamdong.vn/chinh-tri/nghi-quyet-va-cuoc-song "Nghị quyết và cuộc sống")
-  * [Thời sự](https://baolamdong.vn/thoi-su "Thời sự")
-    * [Thời sự Lâm Đồng ](https://baolamdong.vn/thoi-su/thoi-su-lam-dong "Thời sự Lâm Đồng ")
-    * [Dòng chảy thông tin](https://baolamdong.vn/thoi-su/dong-chay-thong-tin "Dòng chảy thông tin")
-    * [Tin Tây Nguyên](https://baolamdong.vn/thoi-su/tin-tay-nguyen "Tin Tây Nguyên")
-  * [Kinh tế](https://baolamdong.vn/kinh-te "Kinh tế")
-    * [Nông nghiệp - Nông thôn](https://baolamdong.vn/kinh-te/nong-nghiep-nong-thon "Nông nghiệp - Nông thôn")
-    * [Công nghiệp - Xây dựng](https://baolamdong.vn/kinh-te/cong-nghiep-xay-dung "Công nghiệp - Xây dựng")
-    * [Thương mại - Dịch vụ](https://baolamdong.vn/kinh-te/thuong-mai-dich-vu "Thương mại - Dịch vụ")
-    * [Thuế - Tài chính](https://baolamdong.vn/kinh-te/thue-tai-chinh "Thuế - Tài chính")
-    * [Khởi nghiệp](https://baolamdong.vn/kinh-te/khoi-nghiep "Khởi nghiệp")
-  * [Đời sống](https://baolamdong.vn/doi-song "Đời sống")
-    * [Thanh niên](https://baolamdong.vn/doi-song/thanh-nien "Thanh niên")
-    * [Y tế - Sức khỏe](https://baolamdong.vn/doi-song/y-te-suc-khoe "Y tế - Sức khỏe")
-    * [Giáo dục - Đào tạo](https://baolamdong.vn/doi-song/giao-duc-dao-tao "Giáo dục - Đào tạo")
-    * [Việc tử tế](https://baolamdong.vn/doi-song/viec-tu-te "Việc tử tế")
-    * [An sinh - Cuộc sống](https://baolamdong.vn/doi-song/an-sinh-cuoc-song "An sinh - Cuộc sống")
-    * [Nhịp cầu nhân ái](https://baolamdong.vn/doi-song/nhip-cau-nhan-ai "Nhịp cầu nhân ái")
-    * [Mẹo vặt](https://baolamdong.vn/doi-song/meo-vat "Mẹo vặt")
-    * [Nên biết](https://baolamdong.vn/doi-song/nen-biet "Nên biết")
-  * [Pháp luật](https://baolamdong.vn/phap-luat "Pháp luật")
-    * [An ninh trật tự](https://baolamdong.vn/phap-luat/an-ninh-trat-tu "An ninh trật tự")
-    * [Pháp luật - Đời sống](https://baolamdong.vn/phap-luat/phap-luat-doi-song "Pháp luật - Đời sống")
-    * [Nhịp cầu bạn đọc](https://baolamdong.vn/phap-luat/nhip-cau-ban-doc "Nhịp cầu bạn đọc")
-  * [Quốc phòng - An ninh](https://baolamdong.vn/quoc-phong-an-ninh "Quốc phòng - An ninh")
-    * [Quốc phòng toàn dân](https://baolamdong.vn/quoc-phong-an-ninh/quoc-phong-toan-dan "Quốc phòng toàn dân")
-    * [Vì an ninh Tổ quốc](https://baolamdong.vn/quoc-phong-an-ninh/vi-an-ninh-to-quoc "Vì an ninh Tổ quốc")
-    * [Vũ khí - Trang bị](https://baolamdong.vn/quoc-phong-an-ninh/vu-khi-trang-bi "Vũ khí - Trang bị")
-  * [Văn hóa - Giải trí](https://baolamdong.vn/van-hoa-giai-tri "Văn hóa - Giải trí")
-    * [Biển đảo Việt Nam](https://baolamdong.vn/van-hoa-giai-tri/bien-dao-viet-nam "Biển đảo Việt Nam")
-    * [Thơ](https://baolamdong.vn/van-hoa-giai-tri/tho "Thơ")
-    * [Đất nước con người](https://baolamdong.vn/van-hoa-giai-tri/dat-nuoc-con-nguoi "Đất nước con người")
-    * [Truyện ngắn](https://baolamdong.vn/van-hoa-giai-tri/truyen-ngan "Truyện ngắn")
-    * [Tản văn](https://baolamdong.vn/van-hoa-giai-tri/tan-van "Tản văn")
-    * [Di sản - Truyền thống](https://baolamdong.vn/van-hoa-giai-tri/di-san-truyen-thong "Di sản - Truyền thống")
-    * [SEA Games 33](https://baolamdong.vn/van-hoa-giai-tri/sea-games-33 "SEA Games 33")
-    * [Thể thao 360](https://baolamdong.vn/van-hoa-giai-tri/the-thao-360 "Thể thao 360")
-    * [Showbiz](https://baolamdong.vn/van-hoa-giai-tri/showbiz "Showbiz")
-  * [Du lịch](https://baolamdong.vn/du-lich "Du lịch")
-    * [Khám phá](https://baolamdong.vn/du-lich/kham-pha "Khám phá")
-    * [Thông tin du lịch](https://baolamdong.vn/du-lich/thong-tin-du-lich "Thông tin du lịch")
-    * [Ăn gì - Ở đâu](https://baolamdong.vn/du-lich/an-gi-o-dau "Ăn gì - Ở đâu")
-    * [Điểm đến](https://baolamdong.vn/du-lich/diem-den "Điểm đến")
-  * [Chính sách](https://baolamdong.vn/chinh-sach "Chính sách")
-  * [Công nghệ - Chuyển đổi số](https://baolamdong.vn/cong-nghe-chuyen-doi-so "Công nghệ - Chuyển đổi số")
-    * [Khoa học - công nghệ](https://baolamdong.vn/cong-nghe-chuyen-doi-so/khoa-hoc-cong-nghe "Khoa học - công nghệ")
-    * [Chuyển đổi số](https://baolamdong.vn/cong-nghe-chuyen-doi-so/chuyen-doi-so "Chuyển đổi số")
-    * [Ô tô - Xe máy](https://baolamdong.vn/cong-nghe-chuyen-doi-so/o-to-xe-may "Ô tô - Xe máy")
-  * [Video](https://baolamdong.vn/video "Video")
-    * [Tin tức Lâm Đồng](https://baolamdong.vn/video/tin-tuc-lam-dong "Tin tức Lâm Đồng")
-    * [Thời sự](https://baolamdong.vn/video/thoi-su "Thời sự")
-    * [Phóng sự](https://baolamdong.vn/video/phong-su "Phóng sự")
-
-  * [Lam Dong News](https://en.baolamdong.vn/)
-
-  * [Chính trị](https://baolamdong.vn/chinh-tri "Chính trị")
-    * [Bảo vệ nền tảng tư tưởng](https://baolamdong.vn/chinh-tri/bao-ve-nen-tang-tu-tuong "Bảo vệ nền tảng tư tưởng")
-    * [Học và làm theo Bác Hồ](https://baolamdong.vn/chinh-tri/hoc-va-lam-theo-bac-ho "Học và làm theo Bác Hồ")
-    * [Xây dựng Đảng](https://baolamdong.vn/chinh-tri/xay-dung-dang "Xây dựng Đảng")
-    * [Đoàn đại biểu Quốc hội - HĐND](https://baolamdong.vn/chinh-tri/doan-dai-bieu-quoc-hoi-hdnd "Đoàn đại biểu Quốc hội - HĐND")
-    * [Thông tin đối ngoại](https://baolamdong.vn/chinh-tri/thong-tin-doi-ngoai "Thông tin đối ngoại")
-    * [Nghị quyết và cuộc sống](https://baolamdong.vn/chinh-tri/nghi-quyet-va-cuoc-song "Nghị quyết và cuộc sống")
-  * [Thời sự](https://baolamdong.vn/thoi-su "Thời sự")
-    * [Thời sự Lâm Đồng ](https://baolamdong.vn/thoi-su/thoi-su-lam-dong "Thời sự Lâm Đồng ")
-    * [Dòng chảy thông tin](https://baolamdong.vn/thoi-su/dong-chay-thong-tin "Dòng chảy thông tin")
-    * [Tin Tây Nguyên](https://baolamdong.vn/thoi-su/tin-tay-nguyen "Tin Tây Nguyên")
-  * [Kinh tế](https://baolamdong.vn/kinh-te "Kinh tế")
-    * [Nông nghiệp - Nông thôn](https://baolamdong.vn/kinh-te/nong-nghiep-nong-thon "Nông nghiệp - Nông thôn")
-    * [Công nghiệp - Xây dựng](https://baolamdong.vn/kinh-te/cong-nghiep-xay-dung "Công nghiệp - Xây dựng")
-    * [Thương mại - Dịch vụ](https://baolamdong.vn/kinh-te/thuong-mai-dich-vu "Thương mại - Dịch vụ")
-    * [Thuế - Tài chính](https://baolamdong.vn/kinh-te/thue-tai-chinh "Thuế - Tài chính")
-    * [Khởi nghiệp](https://baolamdong.vn/kinh-te/khoi-nghiep "Khởi nghiệp")
-  * [Đời sống](https://baolamdong.vn/doi-song "Đời sống")
-    * [Thanh niên](https://baolamdong.vn/doi-song/thanh-nien "Thanh niên")
-    * [Y tế - Sức khỏe](https://baolamdong.vn/doi-song/y-te-suc-khoe "Y tế - Sức khỏe")
-    * [Giáo dục - Đào tạo](https://baolamdong.vn/doi-song/giao-duc-dao-tao "Giáo dục - Đào tạo")
-    * [Việc tử tế](https://baolamdong.vn/doi-song/viec-tu-te "Việc tử tế")
-    * [An sinh - Cuộc sống](https://baolamdong.vn/doi-song/an-sinh-cuoc-song "An sinh - Cuộc sống")
-    * [Nhịp cầu nhân ái](https://baolamdong.vn/doi-song/nhip-cau-nhan-ai "Nhịp cầu nhân ái")
-    * [Mẹo vặt](https://baolamdong.vn/doi-song/meo-vat "Mẹo vặt")
-    * [Nên biết](https://baolamdong.vn/doi-song/nen-biet "Nên biết")
-  * [Pháp luật](https://baolamdong.vn/phap-luat "Pháp luật")
-    * [An ninh trật tự](https://baolamdong.vn/phap-luat/an-ninh-trat-tu "An ninh trật tự")
-    * [Pháp luật - Đời sống](https://baolamdong.vn/phap-luat/phap-luat-doi-song "Pháp luật - Đời sống")
-    * [Nhịp cầu bạn đọc](https://baolamdong.vn/phap-luat/nhip-cau-ban-doc "Nhịp cầu bạn đọc")
-  * [Quốc phòng - An ninh](https://baolamdong.vn/quoc-phong-an-ninh "Quốc phòng - An ninh")
-    * [Quốc phòng toàn dân](https://baolamdong.vn/quoc-phong-an-ninh/quoc-phong-toan-dan "Quốc phòng toàn dân")
-    * [Vì an ninh Tổ quốc](https://baolamdong.vn/quoc-phong-an-ninh/vi-an-ninh-to-quoc "Vì an ninh Tổ quốc")
-    * [Vũ khí - Trang bị](https://baolamdong.vn/quoc-phong-an-ninh/vu-khi-trang-bi "Vũ khí - Trang bị")
-  * [Văn hóa - Giải trí](https://baolamdong.vn/van-hoa-giai-tri "Văn hóa - Giải trí")
-    * [Biển đảo Việt Nam](https://baolamdong.vn/van-hoa-giai-tri/bien-dao-viet-nam "Biển đảo Việt Nam")
-    * [Thơ](https://baolamdong.vn/van-hoa-giai-tri/tho "Thơ")
-    * [Đất nước con người](https://baolamdong.vn/van-hoa-giai-tri/dat-nuoc-con-nguoi "Đất nước con người")
-    * [Truyện ngắn](https://baolamdong.vn/van-hoa-giai-tri/truyen-ngan "Truyện ngắn")
-    * [Tản văn](https://baolamdong.vn/van-hoa-giai-tri/tan-van "Tản văn")
-    * [Di sản - Truyền thống](https://baolamdong.vn/van-hoa-giai-tri/di-san-truyen-thong "Di sản - Truyền thống")
-    * [SEA Games 33](https://baolamdong.vn/van-hoa-giai-tri/sea-games-33 "SEA Games 33")
-    * [Thể thao 360](https://baolamdong.vn/van-hoa-giai-tri/the-thao-360 "Thể thao 360")
-    * [Showbiz](https://baolamdong.vn/van-hoa-giai-tri/showbiz "Showbiz")
-  * [Du lịch](https://baolamdong.vn/du-lich "Du lịch")
-    * [Khám phá](https://baolamdong.vn/du-lich/kham-pha "Khám phá")
-    * [Thông tin du lịch](https://baolamdong.vn/du-lich/thong-tin-du-lich "Thông tin du lịch")
-    * [Ăn gì - Ở đâu](https://baolamdong.vn/du-lich/an-gi-o-dau "Ăn gì - Ở đâu")
-    * [Điểm đến](https://baolamdong.vn/du-lich/diem-den "Điểm đến")
-  * [Chính sách](https://baolamdong.vn/chinh-sach "Chính sách")
-  * [Công nghệ - Chuyển đổi số](https://baolamdong.vn/cong-nghe-chuyen-doi-so "Công nghệ - Chuyển đổi số")
-    * [Khoa học - công nghệ](https://baolamdong.vn/cong-nghe-chuyen-doi-so/khoa-hoc-cong-nghe "Khoa học - công nghệ")
-    * [Chuyển đổi số](https://baolamdong.vn/cong-nghe-chuyen-doi-so/chuyen-doi-so "Chuyển đổi số")
-    * [Ô tô - Xe máy](https://baolamdong.vn/cong-nghe-chuyen-doi-so/o-to-xe-may "Ô tô - Xe máy")
-  * [Video](https://baolamdong.vn/video "Video")
-    * [Tin tức Lâm Đồng](https://baolamdong.vn/video/tin-tuc-lam-dong "Tin tức Lâm Đồng")
-    * [Thời sự](https://baolamdong.vn/video/thoi-su "Thời sự")
-    * [Phóng sự](https://baolamdong.vn/video/phong-su "Phóng sự")
-  * [Đất và người Lâm Đồng](https://baolamdong.vn/dat-va-nguoi-lam-dong "Đất và người Lâm Đồng")
-  * [Góc ảnh](https://baolamdong.vn/goc-anh "Góc ảnh")
-  * [Multimedia](https://baolamdong.vn/multimedia "Multimedia")
-    * [Emagazine-Longforms](https://baolamdong.vn/multimedia/emagazinelongforms "Emagazine-Longforms")
-    * [Infographic](https://baolamdong.vn/multimedia/infographic "Infographic")
-    * [Lâm Đồng Series](https://baolamdong.vn/multimedia/lam-dong-series "Lâm Đồng Series")
-    * [Ảnh](https://baolamdong.vn/multimedia/anh "Ảnh")
-    * [Video](https://baolamdong.vn/multimedia/video "Video")
-  * [Trang địa phương](https://baolamdong.vn/trang-dia-phuong "Trang địa phương")
-  * [Thông tin](https://baolamdong.vn/thong-tin "Thông tin")
-  * [ĐạiHộiĐảng](https://baolamdong.vn/daihoidang "ĐạiHộiĐảng")
-    * [DẤU ẤN NHIỆM KỲ 2020-2025](https://baolamdong.vn/daihoidang/dau-an-nhiem-ky-20202025 "DẤU ẤN NHIỆM KỲ 2020-2025")
-    * [ĐẠI HỘI CẤP CƠ SỞ](https://baolamdong.vn/daihoidang/dai-hoi-cap-co-so "ĐẠI HỘI CẤP CƠ SỞ")
-    * [ĐẠI HỘI ĐẠI BIỂU ĐẢNG BỘ TỈNH LÂM ĐỒNG LẦN THỨ I, NHIỆM KỲ 2025-2030](https://baolamdong.vn/daihoidang/dai-hoi-dai-bieu-dang-bo-tinh-lam-dong-lan-thu-i-nhiem-ky-20252030 "ĐẠI HỘI ĐẠI BIỂU ĐẢNG BỘ TỈNH LÂM ĐỒNG LẦN THỨ I, NHIỆM KỲ 2025-2030")
-  * [Tết 2026](https://baolamdong.vn/tet-2026 "Tết 2026")
-    * [Mừng Đảng - Mừng xuân](https://baolamdong.vn/tet-2026/mung-dang-mung-xuan "Mừng Đảng - Mừng xuân")
-    * [Lâm Đồng vươn mình](https://baolamdong.vn/tet-2026/lam-dong-vuon-minh "Lâm Đồng vươn mình")
-    * [Giữ hồn Tết xưa](https://baolamdong.vn/tet-2026/giu-hon-tet-xua "Giữ hồn Tết xưa")
-    * [Xuân yêu thương](https://baolamdong.vn/tet-2026/xuan-yeu-thuong "Xuân yêu thương")
-    * [Lâm Đồng - Trải nghiệm đa sắc](https://baolamdong.vn/tet-2026/lam-dong-trai-nghiem-da-sac "Lâm Đồng - Trải nghiệm đa sắc")
-
-  * [](https://www.facebook.com/sharer/sharer.php?u=https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-vinuni-438111.html&display=popup&ref=plugin)
-  * [](https://baolamdong.vn/print/438111.html)
 
 Giáo dục - Đào tạo
 # Chi tiết học phí 2026 của VinUni
@@ -237,15 +82,8 @@ Sinh viên hoàn thành học phí theo từng kỳ (kỳ Thu vào tháng 8-9 v�
   * **Cú pháp:** [Mã số SV] - [Họ tên] - [Nội dung khoản phí].
 
 Việc nắm vững các mốc thời gian và chính sách miễn giảm sẽ giúp sinh viên tối ưu hóa nguồn lực tài chính, sẵn sàng cho hành trình kiến tạo tương lai tại VinUni.
-  * [Chia sẻ Facebook](https://www.facebook.com/sharer/sharer.php?u=https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-vinuni-438111.html&display=popup&ref=plugin "Chia sẻ Facebook")
-  * [](https://baolamdong.vn/print/438111.html "In")
-
-  * [học phí 2026](https://baolamdong.vn/hoc-phi-2026-ptag.html "học phí 2026")
 
 ### Bài liên quan
-  * [![Chi tiết học phí 2026 của đại học Y Hà Nội](https://daknong.1cdn.vn/thumbs/540x360/2026/04/24/chi-tiet-hoc-phi-2026-cua-dai-hoc-y-ha-noi.jpg)](https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-dai-hoc-y-ha-noi-438105.html "Chi tiết học phí 2026 của đại học Y Hà Nội")
-## [Chi tiết học phí 2026 của đại học Y Hà Nội](https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-dai-hoc-y-ha-noi-438105.html "Chi tiết học phí 2026 của đại học Y Hà Nội")
-[Cập nhật mới nhất học phí Đại học Y Hà Nội 2026, cách tính tín chỉ và chính sách học bổng giúp sĩ tử chủ động lộ trình tài chính vào trường y.](https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-dai-hoc-y-ha-noi-438105.html "Chi tiết học phí 2026 của đại học Y Hà Nội")
 
 ### Đọc tiếp
 Gửi bình luận
@@ -254,21 +92,12 @@ Ban biên tập giữ quyền biên tập nội dung bình luận để phù h�
 x
 x
 ### Đọc tiếp
-[![Chi tiết học phí 2026 và xét tuyển các trường Y Dược phía Nam](https://daknong.1cdn.vn/thumbs/540x360/2026/04/21/chi-tiet-hoc-phi-2026-va-xet-tuyen-cac-truong-y-duoc-phia-nam.jpg)](https://baolamdong.vn/chi-tiet-hoc-phi-2026-va-xet-tuyen-cac-truong-y-duoc-phia-nam-437486.html "Chi tiết học phí 2026 và xét tuyển các trường Y Dược phía Nam")
-## [Chi tiết học phí 2026 và xét tuyển các trường Y Dược phía Nam](https://baolamdong.vn/chi-tiet-hoc-phi-2026-va-xet-tuyen-cac-truong-y-duoc-phia-nam-437486.html "Chi tiết học phí 2026 và xét tuyển các trường Y Dược phía Nam")
-[![Đại học Ngoại thương công bố học phí 2026: Cao nhất 88 triệu đồng](https://daknong.1cdn.vn/thumbs/540x360/2026/04/21/dai-hoc-ngoai-thuong-cong-bo-hoc-phi-nam-2026-cao-nhat-88-trieu-dong.jpg)](https://baolamdong.vn/dai-hoc-ngoai-thuong-cong-bo-hoc-phi-2026-cao-nhat-88-trieu-dong-437484.html "Đại học Ngoại thương công bố học phí 2026: Cao nhất 88 triệu đồng")
-## [Đại học Ngoại thương công bố học phí 2026: Cao nhất 88 triệu đồng](https://baolamdong.vn/dai-hoc-ngoai-thuong-cong-bo-hoc-phi-2026-cao-nhat-88-trieu-dong-437484.html "Đại học Ngoại thương công bố học phí 2026: Cao nhất 88 triệu đồng")
-###  [](javascript:; "Xem thêm")
 ### Đọc nhiều
-[![Báo Lâm Đồng - Tin mới Đắk Nông, Bình Thuận, Lâm Đồng, tin tức Tây Nguyên mới nhất, chính thống](https://daknong.1cdn.vn/assets/static/images/logo-lamdong-small.png)](https://baolamdong.vn/ "Báo Lâm Đồng - Tin mới Đắk Nông, Bình Thuận, Lâm Đồng, tin tức Tây Nguyên mới nhất, chính thống")
-[Giáo dục - Đào tạo](https://baolamdong.vn/doi-song/giao-duc-dao-tao)
 Chi tiết học phí 2026 của VinUni
-  * [](https://www.facebook.com/sharer/sharer.php?u=https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-vinuni-438111.html&display=popup&ref=plugin "Chia sẻ Facebook")
 
   * Cỡ chữ
 Mặc định
 
-[![Báo Lâm Đồng - Tin mới Đắk Nông, Bình Thuận, Lâm Đồng, tin tức Tây Nguyên mới nhất, chính thống](https://daknong.1cdn.vn/assets/static/images/logo-lamdong.png)](https://baolamdong.vn/ "Báo Lâm Đồng - Tin mới Đắk Nông, Bình Thuận, Lâm Đồng, tin tức Tây Nguyên mới nhất, chính thống")
 BÁO LÂM ĐỒNG ĐIỆN TỬ
 Giám đốc: Lê Huy Toàn
 Phó Giám đốc phụ trách báo điện tử: Vũ Ngọc Tú
@@ -281,61 +110,30 @@ Giấy phép hoạt động báo in và báo điện tử số 232/GP-BTTT cấp
 Điện thoại: (0263) 3822473; (0263) 3810443 - Fax: (0263) 3827608.
 Hotline: 0977885454
 Kết nối chúng tôi tại:
-  * [](https://www.youtube.com/@baolamong7685)
-  * [](https://www.facebook.com/baolamdongonline)
-
-  * [Chính trị](https://baolamdong.vn/chinh-tri "Chính trị")
-  * [Thời sự](https://baolamdong.vn/thoi-su "Thời sự")
-  * [Kinh tế](https://baolamdong.vn/kinh-te "Kinh tế")
-  * [Đời sống](https://baolamdong.vn/doi-song "Đời sống")
-  * [Pháp luật](https://baolamdong.vn/phap-luat "Pháp luật")
-  * [Quốc phòng - An ninh](https://baolamdong.vn/quoc-phong-an-ninh "Quốc phòng - An ninh")
-  * [Văn hóa - Giải trí](https://baolamdong.vn/van-hoa-giai-tri "Văn hóa - Giải trí")
-  * [Du lịch](https://baolamdong.vn/du-lich "Du lịch")
-  * [Chính sách](https://baolamdong.vn/chinh-sach "Chính sách")
-  * [Công nghệ - Chuyển đổi số](https://baolamdong.vn/cong-nghe-chuyen-doi-so "Công nghệ - Chuyển đổi số")
-  * [Video](https://baolamdong.vn/video "Video")
 
 POWERED BY [ONECMS](https://onecms.vn/) - A PRODUCT OF NEKO
 Gửi bình luận
-[Hủy](javascript://) [Gửi](javascript://)
 ×
-  * [Đăng nhập](https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-vinuni-438111.html#auth-tab1)
-  * [Tạo tài khoản](https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-vinuni-438111.html#auth-tab2)
-  * [Lấy lại mật khẩu](https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-vinuni-438111.html#auth-tab3)
 
 Đăng nhập với email
-Đăng nhập [Lấy lại mật khẩu](javascript:;)
 Đăng nhập với
-  * [Google](javascript:;)
-  * [Facebook](javascript:;)
-  * [Apple](javascript:;)
 
 Tạo tài khoản Báo Lâm Đồng
 Để sử dụng đầy đủ tính năng đọc báo
 Tạo tài khoản
 Đăng nhập với
-  * [Google](javascript:;)
-  * [Facebook](javascript:;)
-  * [Apple](javascript:;)
 
 Khi bấm tạo tài khoản bạn đã đồng ý với quy định của tòa soạn
 Lấy lại mật khẩu
 Lấy lại mật khẩu
 ×
-  * [Đổi mật khẩu tài khoản](https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-vinuni-438111.html#auth-tab1)
 
 Cập nhật
 #### Đổi mật khẩu tài khoản của bạn
 Bạn vui lòng nhập mật khẩu cũ và mật khẩu mới để hoàn tất
 ×
-  * [Đổi ảnh đại diện](https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-vinuni-438111.html#auth-tab1)
 
-![](https://baolamdong.vn/chi-tiet-hoc-phi-2026-cua-vinuni-438111.html)
 Cập nhật
 #### Đổi ảnh đại diện
 Bạn vui lòng chọn ảnh dung lượng không quá 300kb, kích thước không quá 500px
 1  / 0
-  * [Facebook](javascript:; "Share facebook")
-  * [Twitter](javascript:; "Share twitter")
-  * [Pinterest](javascript:; "Share pinterest")

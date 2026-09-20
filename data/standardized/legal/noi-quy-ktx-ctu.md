@@ -156,12 +156,9 @@ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT
 (Kèm theo Nội quy, ban hành kèm theo QĐ số 1944/QĐ-ĐHCT, ngày 04/6/2013
  của Hiệu trưởng Trường ĐHCT)
 TT     Nội dung vi phạm Số lần vi phạm – Hình thức xử lý Ghi chú
-|             |                |            | Lần 1                        | Lần 2 | Lẩn 3 |     |
-| ----------- | -------------- | ---------- | ---------------------------- | ----- | ----- | --- |
 | 01 -  Tàng  | trữ  vũ  khí,  | chất  nổ,  | Khi vi phạm, SV sẽ bị xử lý: |       |       |     |
 chất cháy, hóa chất độc hại. 1. Chấm dứt Hợp đồng trước thời hạn, buộc
 | - Tàng trữ, mua bán hoặc sử  |     |     | ra khỏi KTX.           |     |     |     |
-| ---------------------------- | --- | --- | ---------------------- | --- | --- | --- |
 | dụng chất ma túy.            |     |     | 2. Tùy mức độ vi phạm: |     |     |     |
 - Tàng trữ, lưu hành, truy cập,  - (1) có thể đề nghị nhà trường xử lý kỷ luật
 sử dụng sản phẩm văn hóa đồi  (theo  Thông  tư  số  10/2016//TT-BGDĐT,
@@ -169,30 +166,23 @@ trụy hoặc tham gia các hoạt  ngày 05/4/2016 của Bộ Giáo dục và �
 động  mê  tín  dị  đoan,  hoạt  tạo, ban hành Quy chế công tác sinh viên
 động tôn giáo trái phép. đối với chương trình đào tạo đại học hệ
 | -  Chứa                       | chấp,  che  | giấu  hàng  | chính quy),                                |     |     |     |
-| ----------------------------- | ----------- | ----------- | ------------------------------------------ | --- | --- | --- |
 | cấm, hàng lậu.                |             |             | - (2)  hoặc giao cho cơ quan chức năng xử  |     |     |     |
 | - Lấy cắp tài sản, chứa chấp  |             |             | lý mức cao hơn.                            |     |     |     |
 tiêu thụ tài sản do người khác
 lấy cắp.
-| -  Đánh  | bạc  dưới  | mọi  hình  |     |     |     |     |
-| -------- | ---------- | ---------- | --- | --- | --- | --- |
 thức.
 | -  Đánh  | nhau,  tổ  | chức  hoặc  |     |     |     |     |
-| -------- | ---------- | ----------- | --- | --- | --- | --- |
 tham gia tổ chức đánh nhau.
 02 Ra vào KTX quá giờ quy định  Nhắc nhở Khiển trách  Cảnh cáo  Nếu tiếp
 | không có lý do chính đáng. |     |     |     | toàn KTX | toàn KTX | tục tái  |
-| -------------------------- | --- | --- | --- | -------- | -------- | -------- |
 phạm, buộc
 ra khỏi
 KTX  (3)
 03 Gây  ồn  ào,  làm  mất  trật  tự  Nhắc nhở Khiển trách  Cảnh cáo  (3)
 | khu KTX. |     |     |     | toàn KTX | toàn KTX  |     |
-| -------- | --- | --- | --- | -------- | --------- | --- |
 04 Có thái độ vô lễ với cán bộ,  Tùy mức độ, xử lý từ khiển trách đến buộc
 viên chức của trường tại khu  ra khỏi KTX, hoặc đề nghị nhà trường xử lý
 | KTX; có thái độ không hợp  |     |     | (1) |     |     |     |
-| -------------------------- | --- | --- | --- | --- | --- | --- |
 tác với bộ phận chức năng khi
 kiểm tra phòng ở.
 4
@@ -200,92 +190,66 @@ kiểm tra phòng ở.
 05 Uống rượu bia, hút thuốc lá  Tùy mức độ, xử lý từ khiển trách đến buộc
 trong phòng ở; uống rượu bia  ra khỏi KTX, hoặc đề nghị nhà trường xử lý
 |     | trong khuôn viên KTX và nơi  |     |     |     |     | (1) |     |     |
-| --- | ---------------------------- | --- | --- | --- | --- | --- | --- | --- |
 khác về KTX gây mất trật tự.
 | 06  | Cất giữ dụng cụ nấu ăn trong  |       |        |     |           | Cảnh cáo  | Buộc ra khỏi  |     |
-| --- | ----------------------------- | ----- | ------ | --- | --------- | --------- | ------------- | --- |
 |     | phòng                         | (Trừ  | những  |     | dãy  nhà  | toàn KTX  | KTX           |     |
 được phép nấu ăn).
 | 07  | Tổ chức nấu ăn trong phòng ở |        |      |      |       | Buộc ra  |     |     |
-| --- | ---------------------------- | ------ | ---- | ---- | ----- | -------- | --- | --- |
 |     | (Trừ                         | những  | dãy  | nhà  | được  | khỏi KTX |     |     |
 phép nấu ăn).
 | 08  | Tự ý di chuyển chỗ ở, không    |     |     |     |     | Cảnh cáo  | Buộc ra khỏi  |     |
-| --- | ------------------------------ | --- | --- | --- | --- | --------- | ------------- | --- |
 |     | chấp hành sự bố trí chỗ ở của  |     |     |     |     | toàn KTX  | KTX           |     |
 TT. PVSV.
 | 09  | Tự ý đưa người ngoài vào khu  |     |     |     |     | Cảnh cáo  | Buộc ra khỏi  |     |
-| --- | ----------------------------- | --- | --- | --- | --- | --------- | ------------- | --- |
-|     | vực KTX.                      |     |     |     |     | toàn KTX  | KTX           |     |
 10 Bao  che  người  ngoài  cư  trú  Buộc ra khỏi KTX. Tùy mức độ, có thể đề
 |     | trái phép trong phòng ở. |     |     |     |     | nghị nhà trường xử lý  |     |     |
-| --- | ------------------------ | --- | --- | --- | --- | ---------------------- | --- | --- |
 11 Qua khu vực KTX khác giới. Khiển trách  Cảnh cáo toàn  Buộc ra
-|     |     |     |     |     |     | toàn KTX | KTX | khỏi KTX |
-| --- | --- | --- | --- | --- | --- | -------- | --- | -------- |
 Tiếp khách trong phòng ở (kể  Nhắc nhở Khiển trách  Cảnh cáo
 |     | cả  | SV  | nội  trú  | thuộc  | phòng  |     | toàn KTX | toàn KTX |
-| --- | --- | --- | --------- | ------ | ------ | --- | -------- | -------- |
 12 khác).
 |     | Tiếp                         | người  | khác  | giới  | trong  | Cảnh cáo    | Buộc ra khỏi  |     |
-| --- | ---------------------------- | ------ | ----- | ----- | ------ | ----------- | ------------- | --- |
-|     | phòng ở.                     |        |       |       |        | toàn KTX    | KTX           |     |
 | 13  | Làm hư hỏng cơ sở vật chất,  |        |       |       |        | Cảnh cáo    | Buộc ra khỏi  |     |
 |     | trang thiết bị của KTX.      |        |       |       |        | toàn KTX,   | KTX, bồi      |     |
-|     |                              |        |       |       |        | bồi thường  | thường hư     |     |
-|     |                              |        |       |       |        | hư hỏng     | hỏng          |     |
 14 Không  thực  hiện  vệ  sinh  Nhắc nhở Khiển trách  Cảnh cáo  (3)
 |     | phòng                  | ở   | (Phòng  | ở   | mất  vệ  |     | toàn KTX | toàn KTX,   |
-| --- | ---------------------- | --- | ------- | --- | -------- | --- | -------- | ----------- |
 |     | sinh, không ngăn nắp). |     |         |     |          |     |          | chuyển chỗ  |
 ở khác
 15 Đổ rác không đúng nơi quy  Khiển trách  Cảnh cáo toàn  Buộc ra
 |     | định,  | xả     | rác;  khoan,  |        | đục  lỗ,  | toàn KTX | KTX | khỏi KTX |
-| --- | ------ | ------ | ------------- | ------ | --------- | -------- | --- | -------- |
 |     | viết   | vẽ     | bậy,  dán     | giấy,  | tranh     |          |     |          |
 |     | ảnh,   | quảng  | cáo           | lên    | tường,    |          |     |          |
 bàn, ghế, hành lang và khuôn
 viên KTX.
 16 Làm  tắc  nghẽn  bồn  cầu,  hệ  Khiển trách  Cảnh cáo toàn  Buộc ra
 |     | thống thoát nước.   |     |     |     |     | toàn KTX | KTX | khỏi KTX |
-| --- | ------------------- | --- | --- | --- | --- | -------- | --- | -------- |
 17 Đặt bát hương thờ cúng trong  Buộc phục  Cảnh cáo toàn  Buộc ra
 |     | phòng; trồng các loại thực vật,  |         |      |       |             | hồi nguyên    | KTX | khỏi KTX |
-| --- | -------------------------------- | ------- | ---- | ----- | ----------- | ------------- | --- | -------- |
 |     | cây                              | kiểng,  | hoa  | lan;  | nuôi  cá,   | trạng, khiển  |     |          |
 |     | vật nuôi trong phòng và hành     |         |      |       |             | trách toàn    |     |          |
-|     | lang các dãy nhà.                |         |      |       |             | KTX           |     |          |
 18 Mang  các  thiết  bị,  đồ  dùng  Nhắc nhở Khiển trách  Cảnh cáo  (2)
 |     | không được phép vào phòng ở  |     |     |     |     |     | toàn KTX | toàn KTX |
-| --- | ---------------------------- | --- | --- | --- | --- | --- | -------- | -------- |
 (tủ, kệ…), di chuyển các trang
 thiết bị trong phòng ở ra khỏi
 vị trí đã được bố trí.
 | 19  | Câu,            | móc  | và  | sử  dụng  | điện,  | Truy thu    | Buộc ra khỏi  |     |
-| --- | --------------- | ---- | --- | --------- | ------ | ----------- | ------------- | --- |
 |     | nước trái phép. |      |     |           |        | tiền, cảnh  | KTX           |     |
 5
 
 cáo toàn
 KTX
 | 20 Tự ý sử dụng, làm hỏng các  |             | Buộc ra              |     |     |
-| ------------------------------ | ----------- | -------------------- | --- | --- |
 | thiết  bị                      | chữa  cháy  | hoặc  mở  khỏi KTX,  |     |     |
 | khóa báo động khi không có     |             | bồi thường           |     |     |
 | cháy nổ xảy ra trong khu vực.  |             | hư hỏng              |     |     |
 21 Vi phạm quy định về sử dụng  Tùy mức độ, xử lý từ khiển trách đến buộc
 internet  của  Trường;  cố  tình  ra khỏi KTX, bồi thường thiệt hại và đề
 | can thiệp hoặc phá hỏng các  |     | nghị nhà trường xử lý  |     |     |
-| ---------------------------- | --- | ---------------------- | --- | --- |
 thiết bị WIFI trong phòng ở
 và khu vực KTX.
 | 22 Chậm nộp phí điện, nước (Sau  |     | Cảnh cáo      |     |     |
-| -------------------------------- | --- | ------------- | --- | --- |
 | 7 ngày kể từ ngày hết hạn nộp    |     | toàn KTX,     |     |     |
-| phí).                            |     | truy thu phí  |     |     |
 23 Thiếu ý thức trong việc bảo  Nhắc nhở Khiển trách  Cảnh cáo
 | vệ tài sản gây mất mát; không  |             |         | toàn KTX | toàn KTX |
-| ------------------------------ | ----------- | ------- | -------- | -------- |
 | đóng  khóa                     | cửa  phòng  | ở  khi  |          |          |
 không có SV trong phòng.
 * Lưu ý:  SV bị buộc ra khỏi KTX sẽ không giải quyết cho đăng ký KTX ở học kỳ

@@ -275,23 +275,15 @@ a) Khung học phí (mức sàn - mức trần) đối với cơ sở giáo dụ
 giáo dục phổ thông công lập chưa tự bảo đảm chi thường xuyên như sau:
 Đơn vị: nghìn đồng/học sinh/tháng
 Năm học 2022 - 2023
-| Vùng  |          |           | Trung học  | Trung học  |
-| ----- | -------- | --------- | ---------- | ---------- |
-|       | Mầm non  | Tiểu học  |            |            |
-|       |          |           | cơ sở      | phổ thông  |
 |       | Từ 300   | Từ 300    | Từ 300     | Từ 300     |
 Thành thị
 |     | đến 540  | đến 540  | đến 650  | đến 650  |
-| --- | -------- | -------- | -------- | -------- |
 |     | Từ 100   | Từ 100   | Từ 100   | Từ 200   |
 Nông thôn
 |     | đến 220  | đến 220  | đến 270  | đến 330  |
-| --- | -------- | -------- | -------- | -------- |
-|     | Từ 50    | Từ 50    | Từ 50    | Từ 100   |
 Vùng dân tộc thiểu
 số và miền núi
 |     | đến 110  | đến 110  | đến 170  | đến 220  |
-| --- | -------- | -------- | -------- | -------- |
 Hội đồng nhân dân cấp tỉnh căn cứ vào quy định trên để quyết định khung
 học phí hoặc mức học phí cụ thể đối với cơ sở giáo dục mầm non, giáo dục phổ
 thông công lập thuộc thẩm quyền và quyết định việc sắp xếp, phân loại các vùng
@@ -391,16 +383,11 @@ trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 31 tháng 12 nă
 
 11
 Khoa học xã hội nhân văn, giáo dục và đào tạo,
-| 1.1  |     |     |     | 1.640  |     |
-| ---- | --- | --- | --- | ------ | --- |
 báo chí, thông tin và kinh doanh, quản lý
-| 1.2  Nghệ thuật                     |     |     |     | 1.920  |     |
-| ----------------------------------- | --- | --- | --- | ------ | --- |
 | 2  Khoa học, pháp luật và toán      |     |     |     | 1.920  |     |
 | 3  Kỹ thuật và công nghệ thông tin  |     |     |     | 1.920  |     |
 | 4  Sản xuất, chế biến và xây dựng   |     |     |     | 1.920  |     |
 | 5  Nông, lâm, ngư nghiệp và thú y   |     |     |     | 1.640  |     |
-| 6  Sức khỏe                         |     |     |     | 4.040  |     |
 | 7  Dịch vụ, du lịch và môi trường   |     |     |     | 1.920  |     |
 | 8  An ninh, quốc phòng              |     |     |     | 1.920  |     |
 2. Mức trần học phí từ năm học 2023 - 2024 đến năm học 2026 - 2027 như sau:4
@@ -408,18 +395,13 @@ a)5 Đối với cơ sở giáo dục nghề nghiệp công lập chưa tự b�
 xuyên:
 Đơn vị: Nghìn đồng/học sinh, sinh viên/tháng
 |     |     | Năm học  | Năm học  | Năm học  | Năm học  |
-| --- | --- | -------- | -------- | -------- | -------- |
 TT  Nhóm ngành, nghề đào tạo  2023 -  2024 -  2025 -  2026 -
-|            |                | 2024  | 2025  | 2026  | 2027  |
-| ---------- | -------------- | ----- | ----- | ----- | ----- |
 | Khoa  học  | xã  hội  nhân  | văn,  |       |       |       |
 nghệ thuật, giáo dục và đào
 | 1   |     | 1.248  | 1.328  | 1.360  | 1.600  |
-| --- | --- | ------ | ------ | ------ | ------ |
 tạo, báo chí, thông tin và kinh
 doanh, quản lý
 | 2  Khoa học, pháp luật và toán  |     | 1.326  | 1.411  | 1.445  | 1.700  |
-| ------------------------------- | --- | ------ | ------ | ------ | ------ |
 
 4 Cụm từ “Mức trần học phí từ năm học 2022 - 2023 đến năm học 2025 - 2026 như sau:” được
 sửa đổi bởi cụm từ “Mức trần học phí từ năm học 2023 - 2024 đến năm học 2026 - 2027 như sau:”
@@ -592,47 +574,27 @@ trong lĩnh vực giáo dục, có hiệu lực kể từ ngày 31 tháng 12 nă
 16
 Đơn vị: nghìn đồng/học sinh/tháng
 |     |     |     |     | Năm học  | Năm học  |  Năm học  |  Năm học  |
-| --- | --- | --- | --- | -------- | -------- | --------- | --------- |
 Khối ngành
 |     |     |     |     | 2023 - 2024  | 2024 - 2025  | 2025 - 2026  | 2026 - 2027  |
-| --- | --- | --- | --- | ------------ | ------------ | ------------ | ------------ |
 Khối ngành I: Khoa học giáo
-|     |     |     |     |       1.250   |        1.410   |       1.590   |    1.790   |
-| --- | --- | --- | --- | ------------- | -------------- | ------------- | ---------- |
 dục và đào tạo giáo viên
 | Khối ngành II: Nghệ thuật  |     |     |     | 1.200  |  1.350   | 1.520   | 1.710  |
-| -------------------------- | --- | --- | --- | ------ | -------- | ------- | ------ |
 Khối ngành III: Kinh doanh
-|     |     |     |     | 1.250   | 1.410   | 1.590   | 1.790   |
-| --- | --- | --- | --- | ------- | ------- | ------- | ------- |
 và quản lý, pháp luật
-| Khối  | ngành  IV:  | Khoa  | học  |         |         |          |         |
-| ----- | ----------- | ----- | ---- | ------- | ------- | -------- | ------- |
-|       |             |       |      | 1.350   | 1.520   |  1.710   | 1.930   |
 sự sống, khoa học tự nhiên
 Khối ngành V: Toán, thống
-| kê  máy  | tính,  công  |       | nghệ  |     |     |     |     |
-| -------- | ------------ | ----- | ----- | --- | --- | --- | --- |
-| thông    | tin,  công   | nghệ  | kỹ    |     |     |     |     |
 thuật, kỹ thuật, sản xuất và   1.450    1.640   1.850   2.090
 | chế  biến,  | kiến  trúc  | và      | xây  |     |     |     |     |
-| ----------- | ----------- | ------- | ---- | --- | --- | --- | --- |
-| dựng,       | nông  lâm   | nghiệp  | và   |     |     |     |     |
 thủy sản, thú y
 Khối ngành VI.1: Các khối
-|     |     |     |     | 1.850   | 2.090   | 2.360   | 2.660   |
-| --- | --- | --- | --- | ------- | ------- | ------- | ------- |
 ngành sức khỏe khác
 | Khối ngành VI.2: Y dược  |     |     |     |  2.450   | 2.760   | 3.110   | 3.500   |
-| ------------------------ | --- | --- | --- | -------- | ------- | ------- | ------- |
 Khối ngành VII: Nhân văn,
 khoa học xã hội và hành vi,
 báo chí và thông tin, dịch vụ
 | xã hội, du lịch, khách sạn,  |     |     |     | 1.200   | 1.500   | 1.690   | 1.910   |
-| ---------------------------- | --- | --- | --- | ------- | ------- | ------- | ------- |
 thể dục thể thao, dịch vụ vận
 | tải,  môi  | trường  và  | bảo  | vệ  |     |     |     |     |
-| ---------- | ----------- | ---- | --- | --- | --- | --- | --- |
 môi trường
 b) Cơ sở giáo dục đại học công lập tự bảo đảm chi thường xuyên: Mức học
 phí được xác định tối đa bằng 2 lần mức trần học phí tại điểm a khoản này tương

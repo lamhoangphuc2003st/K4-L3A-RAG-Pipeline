@@ -2,82 +2,17 @@
 
 **Source:** https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html
 
-**Crawled:** 2026-09-20T15:34:17.567515
+**Crawled:** 2026-09-20T16:29:28.153530
 
 ---
 
-Chủ Nhật, 20/09/2026 - 15:34
+Chủ Nhật, 20/09/2026 - 16:29
 Đường dây nóng: **096.733.5089**
 Email:  gdtddientu@gmail.com
-[Báo Giáo dục và Thời đại Online](https://giaoducthoidai.vn "Báo Giáo dục và Thời đại Online")
-##  [Giáo dục Thủ đô](https://giaoducthudo.giaoducthoidai.vn/ "Giáo dục Thủ đô")
-  * [ Trang chủ ](https://giaoducthoidai.vn "Trang chủ")
-  * [Giáo dục ](https://giaoducthoidai.vn/giao-duc/ "Giáo dục ")
-    * [Chính sách](https://giaoducthoidai.vn/chinh-sach/ "Chính sách")
-    * [Địa phương](https://giaoducthoidai.vn/dia-phuong/ "Địa phương")
-    * [Đào tạo - Tuyển sinh](https://giaoducthoidai.vn/tuyen-sinh-du-hoc/ "Đào tạo - Tuyển sinh")
-    * [Bốn phương](https://giaoducthoidai.vn/giao-duc-bon-phuong/ "Bốn phương")
-    * [Giáo dục 24h](https://giaoducthoidai.vn/giao-duc-24h/ "Giáo dục 24h")
-  * [Thời sự](https://giaoducthoidai.vn/thoi-su/ "Thời sự")
-    * [Giáo dục Đô thị](https://giaoducthoidai.vn/giao-duc-do-thi/ "Giáo dục Đô thị")
-    * [Xã hội](https://giaoducthoidai.vn/thoi-su-xa-hoi/ "Xã hội")
-    * [Chính trị](https://giaoducthoidai.vn/chinh-tri/ "Chính trị")
-    * [Kinh tế](https://giaoducthoidai.vn/kinh-te/ "Kinh tế")
-  * [Giáo dục pháp luật](https://giaoducthoidai.vn/phap-luat-phap-luat/ "Giáo dục pháp luật")
-    * [An ninh](https://giaoducthoidai.vn/an-ninh/ "An ninh")
-    * [Pháp đình](https://giaoducthoidai.vn/phap-dinh/ "Pháp đình")
-    * [Bạn đọc - Điều tra](https://giaoducthoidai.vn/goc-nhin/ "Bạn đọc - Điều tra")
-  * [Kết nối](https://giaoducthoidai.vn/ket-noi/ "Kết nối")
-    * [Công đoàn](https://giaoducthoidai.vn/cong-doan/ "Công đoàn")
-    * [Đồng hành](https://giaoducthoidai.vn/dong-hanh/ "Đồng hành")
-    * [Khoa học - Công nghệ](https://giaoducthoidai.vn/khoa-hoc/ "Khoa học - Công nghệ")
-  * [Trao đổi](https://giaoducthoidai.vn/trao-doi/ "Trao đổi")
-    * [Phương pháp](https://giaoducthoidai.vn/phuong-phap/ "Phương pháp")
-    * [Góc chuyên gia](https://giaoducthoidai.vn/goc-chuyen-gia/ "Góc chuyên gia")
-  * [Học đường](https://giaoducthoidai.vn/hoc-duong/ "Học đường")
-    * [Kỹ năng](https://giaoducthoidai.vn/ky-nang-song/ "Kỹ năng")
-    * [Du học](https://giaoducthoidai.vn/du-hoc/ "Du học")
-    * [Gương mặt](https://giaoducthoidai.vn/guong-mat/ "Gương mặt")
-    * [Thể chất](https://giaoducthoidai.vn/the-chat/ "Thể chất")
-  * [Nhân ái](https://giaoducthoidai.vn/nhan-ai/ "Nhân ái")
-  * [Thế giới](https://giaoducthoidai.vn/the-gioi/ "Thế giới")
-    * [Giáo dục Quốc phòng](https://giaoducthoidai.vn/giao-duc-quoc-phong/ "Giáo dục Quốc phòng")
-    * [Thế giới đó đây](https://giaoducthoidai.vn/the-gioi-do-day/ "Thế giới đó đây")
-    * [Chuyện lạ](https://giaoducthoidai.vn/chuyen-la/ "Chuyện lạ")
-  * [Sức khoẻ](https://giaoducthoidai.vn/suc-khoe/ "Sức khoẻ")
-    * [Khoẻ đẹp](https://giaoducthoidai.vn/khoe-dep/ "Khoẻ đẹp")
-    * [Gia đình](https://giaoducthoidai.vn/gia-dinh/ "Gia đình")
-    * [Đẩy lùi Covid-19](https://giaoducthoidai.vn/day-lui-covid/ "Đẩy lùi Covid-19")
-  * [Media](https://giaoducthoidai.vn/video-media/ "Media")
-    * [Infographic](https://giaoducthoidai.vn/infographic-media/ "Infographic")
-    * [Video](https://giaoducthoidai.vn/video/ "Video")
-    * [Nóng 247](https://giaoducthoidai.vn/247-nong/ "Nóng 247")
-    * [Tiêu điểm](https://giaoducthoidai.vn/tieu-diem/ "Tiêu điểm")
-  * [Văn hóa](https://giaoducthoidai.vn/van-hoa/ "Văn hóa")
-    * [Sáng tác](https://giaoducthoidai.vn/sang-tac/ "Sáng tác")
-    * [Đời sống văn hoá](https://giaoducthoidai.vn/doi-song-van-hoa/ "Đời sống văn hoá")
-    * [Sao](https://giaoducthoidai.vn/the-gioi-sao/ "Sao")
-  * [Thể thao](https://giaoducthoidai.vn/the-thao/ "Thể thao")
-    * [Thể thao học đường](https://giaoducthoidai.vn/the-thao-hoc-duong/ "Thể thao học đường")
 
-[Sự kiện](https://giaoducthoidai.vn/dong-su-kien.html "Sự kiện")
-  * [ #Tổng rà soát hệ thống văn bản quy phạm pháp luật](https://giaoducthoidai.vn/chu-de/tong-ra-soat-he-thong-van-ban-quy-pham-phap-luat-251.html "Tổng rà soát hệ thống văn bản quy phạm pháp luật")
-  * [ #Giáo dục nghề nghiệp 2026](https://giaoducthoidai.vn/chu-de/giao-duc-nghe-nghiep-2026-249.html "Giáo dục nghề nghiệp 2026")
-  * [ #Tổng rà soát hệ thống văn bản quy phạm pháp luật](https://giaoducthoidai.vn/chu-de/tong-ra-soat-he-thong-van-ban-quy-pham-phap-luat-251.html "Tổng rà soát hệ thống văn bản quy phạm pháp luật")
-  * [ #Giáo dục nghề nghiệp 2026](https://giaoducthoidai.vn/chu-de/giao-duc-nghe-nghiep-2026-249.html "Giáo dục nghề nghiệp 2026")
-  * [ #Tổng rà soát hệ thống văn bản quy phạm pháp luật](https://giaoducthoidai.vn/chu-de/tong-ra-soat-he-thong-van-ban-quy-pham-phap-luat-251.html "Tổng rà soát hệ thống văn bản quy phạm pháp luật")
-
-[Kết nối](https://giaoducthoidai.vn/ket-noi/ "Kết nối")
-  * [Công đoàn](https://giaoducthoidai.vn/cong-doan/ "Công đoàn")
-  * [Đồng hành](https://giaoducthoidai.vn/dong-hanh/ "Đồng hành")
-  * [Khoa học - Công nghệ](https://giaoducthoidai.vn/khoa-hoc/ "Khoa học - Công nghệ")
-
-[zalo](javascript:void\(0\);) [facebook](javascript:void\(0\); "Chia sẻ qua Facebook") [Bản in](javascript:void\(0\);) [Bình luận](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html#commentbox) [Tin mới](https://giaoducthoidai.vn/tin-moi.html "Tin mới")
 #  Nhiều học bổng và miễn giảm học phí tại Trường Đại học Kiên Giang năm 2026
 Yến Phương - Như Ý 13/07/2026 14:37 (GMT+7)
-Theo dõi báo trên [ ![Theo dõi trên Google News](https://cdn.giaoducthoidai.vn/assets/web/styles/img/gg-news.png) ](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html "Theo dõi trên Google News") [ ![Theo dõi trên Zalo](https://cdn.giaoducthoidai.vn/assets/web/styles/img/social-zalo.svg) ](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html "Theo dõi trên Zalo")
 GD&TĐ - Năm 2026, Trường Đại học Kiên Giang triển khai hàng loạt chính sách học bổng và hỗ trợ tài chính dành cho tân sinh viên nhằm thu hút người học.
-|  ![Trường Đại học Kiên Giang tọa lạc tại số 320A, Quốc lộ 61, xã Châu Thành, tỉnh An Giang.](https://cdn.giaoducthoidai.vn/images/7ht9og6-mWE6fLSBv91S7is_Yo2Sc0Pk_1gW-kHGm3ILSJ8M0QNDK-IXNYdsLQG8yCUs1m2ofCgKI2smm4F9Ew/0-kgu-giang-duong.jpg.avif)  |
 | --- |
 | Trường Đại học Kiên Giang tọa lạc tại số 320A, Quốc lộ 61, xã Châu Thành, tỉnh An Giang.  |
 Nhằm giảm bớt gánh nặng chi phí cho người học, năm 2026, Trường ĐH Kiên Giang tiếp tục mở rộng các chính sách hỗ trợ người học với quy mô lớn; hướng đến nhiều nhóm đối tượng khác nhau, từ sinh viên các ngành sư phạm đến thí sinh có thành tích học tập nổi bật và những ngành đào tạo ưu tiên.
@@ -88,148 +23,59 @@ Sinh viên thuộc diện được hưởng chính sách sẽ được hỗ tr�
 Đối với 24 ngành đào tạo còn lại, Trường ĐH Kiên Giang triển khai nhiều chương trình học bổng với tiêu chí đa dạng.
 Nhà trường dành 20 suất học bổng toàn phần cho thí sinh đạt giải tại các kỳ thi học sinh giỏi cấp tỉnh, quốc gia hoặc quốc tế. Người học được miễn 100% học phí và miễn phí ký túc xá trong toàn khóa học.
 Bên cạnh đó là 100 suất học bổng bán phần dành cho thí sinh đạt học lực Tốt, Giỏi hoặc Xuất sắc trong cả ba năm THPT hoặc đạt giải tại cuộc thi khoa học, kỹ thuật cấp tỉnh. Sinh viên được giảm 50% học phí toàn khóa và miễn phí ký túc xá.
-![0-hoc-bong-kgu.jpg](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) Đại diện Trường ĐH Kiên Giang trao gần 800 suất học bổng tiếp sức học sinh trước mùa thi.
 Đối với những thí sinh có kết quả cao trong Kỳ thi tốt nghiệp THPT năm 2026, Trường ĐH Kiên Giang dành 20 suất học bổng cho thí sinh đạt từ 26 điểm trở lên; với mức hỗ trợ miễn 100% học phí năm học thứ nhất và miễn phí ký túc xá toàn khóa.
 Một điểm đáng chú ý trong chính sách tuyển sinh năm nay là 200 suất học bổng dành cho sinh viên nhập học các ngành Khoa học cây trồng, Chăn nuôi, Công nghệ sinh học và Công nghệ kỹ thuật môi trường.
 Theo đó, sinh viên được miễn 100% học phí học kỳ I và giảm 50% phí ký túc xá trong toàn khóa học. Đây đều là những ngành có vai trò quan trọng trong phát triển nông nghiệp, bảo vệ môi trường và phát triển bền vững của khu vực ĐBSCL.
 **Đồng hành cùng sinh viên từ tuyển sinh đến việc làm**
 Không chỉ triển khai các chương trình học bổng, Trường ĐH Kiên Giang còn duy trì nhiều chính sách đồng hành cùng người học trong suốt quá trình đào tạo. Sau khi nhập học, sinh viên được hướng dẫn tiếp cận các chương trình học bổng, chính sách hỗ trợ theo quy định và các nguồn hỗ trợ khác của nhà trường.
 Năm 2026, Trường ĐH Kiên Giang tuyển sinh 2.230 chỉ tiêu đại học chính quy ở 28 ngành đào tạo, đồng thời mở mới ba ngành gồm: Trí tuệ nhân tạo, Thú y, Quản trị nhà hàng và dịch vụ ăn uống; đáp ứng nhu cầu nguồn nhân lực trong các lĩnh vực công nghệ, nông nghiệp và dịch vụ.
-![0-kgu-tuyen-sinh.jpg](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) Trường ĐH Kiên Giang tuyển sinh 2.230 chỉ tiêu đại học chính quy năm 2026.
 Nhà trường tiếp tục áp dụng 6 phương thức xét tuyển, gồm: xét học bạ THPT; xét điểm thi tốt nghiệp THPT; xét tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ Giáo dục và Đào tạo; xét điểm kỳ thi Đánh giá năng lực của ĐH Quốc gia TPHCM; xét kết quả kỳ thi V-SAT; và xét kết quả học tập trình độ trung cấp, cao đẳng, đại học đối với hệ liên thông.
 Bên cạnh chất lượng đào tạo, nhà trường có mức học phí phù hợp khoảng 7,5 - 8,5 triệu đồng/học kỳ, ký túc xá từ 150.000 đồng/tháng, góp phần giúp sinh viên giảm đáng kể chi phí học tập và sinh hoạt. Hiệu quả đào tạo cũng được thể hiện qua tỷ lệ 82% sinh viên có việc làm ngay sau khi tốt nghiệp và 95% có việc làm sau một năm, khẳng định định hướng đào tạo gắn với nhu cầu của thị trường lao động.
 Thí sinh và phụ huynh có thể xem thông tin tuyển sinh năm 2026 tại tuyensinh.vnkgu.edu.vn, Fanpage Trường Đại học Kiên Giang hoặc liên hệ 0297 396 8888 để được tư vấn.
 ###  Tin liên quan
-###  [ Trường ĐH Kiên Giang khai giảng các lớp vừa làm vừa học, đào tạo từ xa ](https://giaoducthoidai.vn/truong-dh-kien-giang-khai-giang-cac-lop-vua-lam-vua-hoc-dao-tao-tu-xa-post783866.html "Trường ĐH Kiên Giang khai giảng các lớp vừa làm vừa học, đào tạo từ xa")
-###  [ Trường Đại học Kiên Giang nâng cao chất lượng công tác xây dựng Đảng ](https://giaoducthoidai.vn/truong-dai-hoc-kien-giang-nang-cao-chat-luong-cong-tac-xay-dung-dang-post783563.html "Trường Đại học Kiên Giang nâng cao chất lượng công tác xây dựng Đảng")
-###  [ Trường Đại học Kiên Giang ra mắt Ban Giám hiệu nhiệm kỳ mới ](https://giaoducthoidai.vn/truong-dai-hoc-kien-giang-ra-mat-ban-giam-hieu-nhiem-ky-moi-post782141.html "Trường Đại học Kiên Giang ra mắt Ban Giám hiệu nhiệm kỳ mới")
-[Trường Đại học Kiên Giang](https://giaoducthoidai.vn/tu-khoa/truong-dai-hoc-kien-giang-tag36604.html "Trường Đại học Kiên Giang") [chính sách học bổng](https://giaoducthoidai.vn/tu-khoa/chinh-sach-hoc-bong-tag387599.html "chính sách học bổng") [An Giang](https://giaoducthoidai.vn/tu-khoa/an-giang-tag297567.html "An Giang") [tân sinh viên](https://giaoducthoidai.vn/tu-khoa/tan-sinh-vien-tag437571.html "tân sinh viên") [KGU](https://giaoducthoidai.vn/tu-khoa/kgu-tag478462.html "KGU")
 Chia sẻ
-[facebook](javascript:void\(0\); "Chia sẻ qua Facebook") [zalo](javascript:void\(0\);) [Bản in](javascript:void\(0\);) [copy](javascript:void\(0\);)
 Gửi bình luận
-Theo dõi báo trên [ ![Theo dõi trên Google News](https://cdn.giaoducthoidai.vn/assets/web/styles/img/gg-news.png) ](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html "Theo dõi trên Google News") [ ![Theo dõi trên Zalo](https://cdn.giaoducthoidai.vn/assets/web/styles/img/social-zalo.svg) ](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html "Theo dõi trên Zalo")
 ### Bình luận
 Gửi bình luận
 XEM THÊM BÌNH LUẬN
-###  [Cùng chuyên mục](https://giaoducthoidai.vn/ket-noi/ "Kết nối")
-[ ![Hướng tới thế vận hội nghề nghiệp WorldSkills 2026 Thượng Hải](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/huong-toi-the-van-hoi-nghe-nghiep-worldskills-2026-thuong-hai-post793287.html "Hướng tới thế vận hội nghề nghiệp WorldSkills 2026 Thượng Hải")
-###  [ Hướng tới thế vận hội nghề nghiệp WorldSkills 2026 Thượng Hải ](https://giaoducthoidai.vn/huong-toi-the-van-hoi-nghe-nghiep-worldskills-2026-thuong-hai-post793287.html "Hướng tới thế vận hội nghề nghiệp WorldSkills 2026 Thượng Hải")
-1 giờ trước [ ![WorldSkills Shanghai 2026 chuẩn bị diễn ra.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/ky-thi-worldskills-2026-se-chinh-thuc-khai-mac-vao-ngay-229-post793286.html "Kỳ thi Worldskills 2026 sẽ chính thức khai mạc vào ngày 22/9")
-###  [ Kỳ thi Worldskills 2026 sẽ chính thức khai mạc vào ngày 22/9 ](https://giaoducthoidai.vn/ky-thi-worldskills-2026-se-chinh-thuc-khai-mac-vao-ngay-229-post793286.html "Kỳ thi Worldskills 2026 sẽ chính thức khai mạc vào ngày 22/9")
-1 giờ trước [ ![iPhone Duo ra mắt thiết kế gập, vì sao iPhone 18 series vẫn được quan tâm?](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/iphone-duo-ra-mat-thiet-ke-gap-vi-sao-iphone-18-series-van-duoc-quan-tam-post793278.html "iPhone Duo ra mắt thiết kế gập, vì sao iPhone 18 series vẫn được quan tâm?")
-###  [ iPhone Duo ra mắt thiết kế gập, vì sao iPhone 18 series vẫn được quan tâm? ](https://giaoducthoidai.vn/iphone-duo-ra-mat-thiet-ke-gap-vi-sao-iphone-18-series-van-duoc-quan-tam-post793278.html "iPhone Duo ra mắt thiết kế gập, vì sao iPhone 18 series vẫn được quan tâm?")
-4 giờ trước [ ![Sâm Lai Châu được người dân vùng biên kỳ vọng sẽ góp phần giảm nghèo trong thời gian tới.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/lay-ngan-nuoi-dai-de-nguoi-dan-co-viec-lam-va-thu-nhap-post793268.html "‘Lấy ngắn nuôi dài’ để người dân có việc làm và thu nhập")
-###  [ ‘Lấy ngắn nuôi dài’ để người dân có việc làm và thu nhập ](https://giaoducthoidai.vn/lay-ngan-nuoi-dai-de-nguoi-dan-co-viec-lam-va-thu-nhap-post793268.html "‘Lấy ngắn nuôi dài’ để người dân có việc làm và thu nhập")
-4 giờ trước [ ![Trường TH-THCS Victoria Thăng Long 3 tiếp tục ký kết Biên bản ghi nhớ hợp tác \(MOU\)với tổ chức Cengage Learning Asia.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/ket-hop-voi-to-chuc-quoc-te-de-tang-cuong-tieng-anh-cho-hoc-sinh-post793261.html "Kết hợp với tổ chức quốc tế để tăng cường tiếng Anh cho học sinh")
-###  [ Kết hợp với tổ chức quốc tế để tăng cường tiếng Anh cho học sinh ](https://giaoducthoidai.vn/ket-hop-voi-to-chuc-quoc-te-de-tang-cuong-tieng-anh-cho-hoc-sinh-post793261.html "Kết hợp với tổ chức quốc tế để tăng cường tiếng Anh cho học sinh")
-5 giờ trước
+6 giờ trước
 ###  Tin tiêu điểm
-[ ![Thiết giáp hạng nặng trên khung T-72 xuyên thủng tuyến phòng thủ đối phương?](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/thiet-giap-hang-nang-tren-khung-t-72-xuyen-thung-tuyen-phong-thu-doi-phuong-post691694.html "Thiết giáp hạng nặng trên khung T-72 xuyên thủng tuyến phòng thủ đối phương?")
-##  [ Thiết giáp hạng nặng trên khung T-72 xuyên thủng tuyến phòng thủ đối phương? ](https://giaoducthoidai.vn/thiet-giap-hang-nang-tren-khung-t-72-xuyen-thung-tuyen-phong-thu-doi-phuong-post691694.html "Thiết giáp hạng nặng trên khung T-72 xuyên thủng tuyến phòng thủ đối phương?")
-[ Thế giới ](https://giaoducthoidai.vn/the-gioi/ "Thế giới") 16/07/2024 17:00
 GD&TĐ - Những xe bọc thép chở quân sử dụng khung gầm xe tăng chiến đấu chủ lực có lẽ là phương tiện cần thiết với Quân đội Nga hiện nay.
-[ ![Sẽ gọi tái ngũ hàng trăm tiêm kích MiG-31 trong kho dự trữ?](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/se-goi-tai-ngu-hang-tram-tiem-kich-mig-31-trong-kho-du-tru-post691962.html "Sẽ gọi tái ngũ hàng trăm tiêm kích MiG-31 trong kho dự trữ?")
-##  [ Sẽ gọi tái ngũ hàng trăm tiêm kích MiG-31 trong kho dự trữ? ](https://giaoducthoidai.vn/se-goi-tai-ngu-hang-tram-tiem-kich-mig-31-trong-kho-du-tru-post691962.html "Sẽ gọi tái ngũ hàng trăm tiêm kích MiG-31 trong kho dự trữ?")
-[ Thế giới ](https://giaoducthoidai.vn/the-gioi/ "Thế giới") 17/07/2024 13:00
 GD&TĐ - Các nguồn thông tin mở cho biết đến năm 2018, Nga có thể vẫn lưu giữ tới 130 tiêm kích MiG-31 trong các kho dự trữ.
-[ ![\(Ảnh: IZ\)](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/forbes-neu-ten-quoc-gia-co-luc-luong-phao-binh-lon-nhat-the-gioi-post692059.html "Forbes nêu tên quốc gia có lực lượng pháo binh lớn nhất thế giới")
-##  [ Forbes nêu tên quốc gia có lực lượng pháo binh lớn nhất thế giới ](https://giaoducthoidai.vn/forbes-neu-ten-quoc-gia-co-luc-luong-phao-binh-lon-nhat-the-gioi-post692059.html "Forbes nêu tên quốc gia có lực lượng pháo binh lớn nhất thế giới")
-[ Thế giới ](https://giaoducthoidai.vn/the-gioi/ "Thế giới") 18/07/2024 06:01
 GD&TĐ - Quân đội Nga có kho vũ khí pháo lớn nhất và cũng có nguồn cung cấp đạn dược ổn định – Tạp chí Forbes tuyên bố ngày 16/7.
-[ ![Bài học quý giá từ phương tiện chủ chốt trong chiến dịch đặc biệt](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/bai-hoc-quy-gia-tu-phuong-tien-chu-chot-trong-chien-dich-dac-biet-post692151.html "Bài học quý giá từ phương tiện chủ chốt trong chiến dịch đặc biệt")
-##  [ Bài học quý giá từ phương tiện chủ chốt trong chiến dịch đặc biệt ](https://giaoducthoidai.vn/bai-hoc-quy-gia-tu-phuong-tien-chu-chot-trong-chien-dich-dac-biet-post692151.html "Bài học quý giá từ phương tiện chủ chốt trong chiến dịch đặc biệt")
-[ Thế giới ](https://giaoducthoidai.vn/the-gioi/ "Thế giới") 19/07/2024 07:00
 GD&TĐ - Xe tăng chiến đấu chủ lực T-90M do Nga sản xuất đã trở thành một trong những phương tiện chủ chốt trong chiến dịch quân sự đặc biệt ở Ukraine.
-[ ![Đóng hàng loạt tàu đổ bộ Dự án 11711 với cấu hình mới](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/dong-hang-loat-tau-do-bo-du-an-11711-voi-cau-hinh-moi-post692262.html "Đóng hàng loạt tàu đổ bộ Dự án 11711 với cấu hình mới")
-##  [ Đóng hàng loạt tàu đổ bộ Dự án 11711 với cấu hình mới ](https://giaoducthoidai.vn/dong-hang-loat-tau-do-bo-du-an-11711-voi-cau-hinh-moi-post692262.html "Đóng hàng loạt tàu đổ bộ Dự án 11711 với cấu hình mới")
-[ Thế giới ](https://giaoducthoidai.vn/the-gioi/ "Thế giới") 19/07/2024 15:00
 GD&TĐ - Cấu hình mới của tàu đổ bộ Dự án 11711 mang lại khả năng tác chiến cao hơn cho Hải quân Nga.
-[ ![Kỳ thi tốt nghiệp THPT 2024, Đình Thanh xuất sắc ẵm trên tay vị trí thủ khoa toàn tỉnh Lạng Sơn khối A01, với tổng điểm 28,35. Ảnh NVCC.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/nam-sinh-nguoi-tay-do-dau-khoi-a01-tinh-lang-son-tung-bo-vong-loai-hsg-quoc-gia-post692431.html "Nam sinh người Tày đỗ đầu khối A01 tỉnh Lạng Sơn từng bỏ vòng loại HSG quốc gia")
-##  [ Nam sinh người Tày đỗ đầu khối A01 tỉnh Lạng Sơn từng bỏ vòng loại HSG quốc gia ](https://giaoducthoidai.vn/nam-sinh-nguoi-tay-do-dau-khoi-a01-tinh-lang-son-tung-bo-vong-loai-hsg-quoc-gia-post692431.html "Nam sinh người Tày đỗ đầu khối A01 tỉnh Lạng Sơn từng bỏ vòng loại HSG quốc gia")
-[ Học đường ](https://giaoducthoidai.vn/hoc-duong/ "Học đường") 20/07/2024 07:04
 GD&TĐ - Dù điều kiện học tập có phần hạn chế nhưng, Dương Đình Thanh người dân tộc Tày vẫn sở hữu điểm số ba môn Toán, Vật lí và tiếng Anh vô cùng ấn tượng.
-[ ![Ảnh: AP](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/tim-ra-nguyen-nhan-may-tinh-chay-windows-toan-cau-ngung-hoat-dong-post692420.html "Tìm ra nguyên nhân máy tính chạy Windows toàn cầu ngừng hoạt động")
-##  [ Tìm ra nguyên nhân máy tính chạy Windows toàn cầu ngừng hoạt động ](https://giaoducthoidai.vn/tim-ra-nguyen-nhan-may-tinh-chay-windows-toan-cau-ngung-hoat-dong-post692420.html "Tìm ra nguyên nhân máy tính chạy Windows toàn cầu ngừng hoạt động")
-[ Thế giới ](https://giaoducthoidai.vn/the-gioi/ "Thế giới") 19/07/2024 20:19
 GD&TĐ - Trong ngày, tình trạng ngừng hoạt động của các thiết bị máy tính chạy Windows được báo cáo ở nhiều quốc gia khác nhau.
 ###  Tin nổi bật
-[ ![Chuyển mạnh sang tổ chức thực hiện, đưa chính sách giáo dục vào cuộc sống](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/chuyen-manh-sang-to-chuc-thuc-hien-dua-chinh-sach-giao-duc-vao-cuoc-song-post793274.html "Chuyển mạnh sang tổ chức thực hiện, đưa chính sách giáo dục vào cuộc sống")
-###  [ Chuyển mạnh sang tổ chức thực hiện, đưa chính sách giáo dục vào cuộc sống ](https://giaoducthoidai.vn/chuyen-manh-sang-to-chuc-thuc-hien-dua-chinh-sach-giao-duc-vao-cuoc-song-post793274.html "Chuyển mạnh sang tổ chức thực hiện, đưa chính sách giáo dục vào cuộc sống")
-[ Giáo dục ](https://giaoducthoidai.vn/giao-duc/ "Giáo dục ") 4 giờ trước [ ![Tổng Bí thư, Chủ tịch nước Tô Lâm với các Đội viên tiêu biểu toàn quốc. Ảnh: Thống Nhất/TTXVN](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/thu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-gui-cac-chau-thieu-nien-nhi-dong-nhan-dip-tet-trung-thu-post793266.html "Thư của Tổng Bí thư, Chủ tịch nước Tô Lâm gửi các cháu thiếu niên, nhi đồng nhân dịp Tết Trung thu ")
-###  [ Thư của Tổng Bí thư, Chủ tịch nước Tô Lâm gửi các cháu thiếu niên, nhi đồng nhân dịp Tết Trung thu ](https://giaoducthoidai.vn/thu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-gui-cac-chau-thieu-nien-nhi-dong-nhan-dip-tet-trung-thu-post793266.html "Thư của Tổng Bí thư, Chủ tịch nước Tô Lâm gửi các cháu thiếu niên, nhi đồng nhân dịp Tết Trung thu ")
-[ Thời sự ](https://giaoducthoidai.vn/thoi-su/ "Thời sự") 6 giờ trước [ ![Trường Tiểu học Bình Nguyên 1 tăng cường ứng dụng công nghệ trong dạy học, góp phần thúc đẩy chuyển đổi số giáo dục.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/nang-nang-luc-so-thuc-day-doi-moi-day-va-hoc-o-phu-tho-post793273.html "Nâng năng lực số, thúc đẩy đổi mới dạy và học ở Phú Thọ")
-###  [ Nâng năng lực số, thúc đẩy đổi mới dạy và học ở Phú Thọ ](https://giaoducthoidai.vn/nang-nang-luc-so-thuc-day-doi-moi-day-va-hoc-o-phu-tho-post793273.html "Nâng năng lực số, thúc đẩy đổi mới dạy và học ở Phú Thọ")
-[ Học đường ](https://giaoducthoidai.vn/hoc-duong/ "Học đường") 5 giờ trước [ ![Học sinh Trường Tiểu học Yên Hòa, phường Yên Hòa, Hà Nội. Ảnh: Đình Tuệ](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/so-hoa-bua-an-hoc-duong-minh-bach-bang-he-sinh-thai-giam-sat-mo-post793130.html "Số hóa bữa ăn học đường: Minh bạch bằng hệ sinh thái giám sát mở")
-###  [ Số hóa bữa ăn học đường: Minh bạch bằng hệ sinh thái giám sát mở ](https://giaoducthoidai.vn/so-hoa-bua-an-hoc-duong-minh-bach-bang-he-sinh-thai-giam-sat-mo-post793130.html "Số hóa bữa ăn học đường: Minh bạch bằng hệ sinh thái giám sát mở")
-[ Giáo dục ](https://giaoducthoidai.vn/giao-duc/ "Giáo dục ") 8 giờ trước [ ![U23 Việt Nam bị loại khỏi ASIAD 2026 trong trường hợp nào?](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/u23-viet-nam-bi-loai-khoi-asiad-2026-trong-truong-hop-nao-post793208.html "U23 Việt Nam bị loại khỏi ASIAD 2026 trong trường hợp nào?")
-###  [ U23 Việt Nam bị loại khỏi ASIAD 2026 trong trường hợp nào? ](https://giaoducthoidai.vn/u23-viet-nam-bi-loai-khoi-asiad-2026-trong-truong-hop-nao-post793208.html "U23 Việt Nam bị loại khỏi ASIAD 2026 trong trường hợp nào?")
-[ Thể thao ](https://giaoducthoidai.vn/the-thao/ "Thể thao") 9 giờ trước [ ![Thua trắng Brighton, Arsenal đứt mạch 7 trận toàn thắng](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/thua-trang-brighton-arsenal-dut-mach-7-tran-toan-thang-post793255.html "Thua trắng Brighton, Arsenal đứt mạch 7 trận toàn thắng")
-###  [ Thua trắng Brighton, Arsenal đứt mạch 7 trận toàn thắng ](https://giaoducthoidai.vn/thua-trang-brighton-arsenal-dut-mach-7-tran-toan-thang-post793255.html "Thua trắng Brighton, Arsenal đứt mạch 7 trận toàn thắng")
-[ Thể thao ](https://giaoducthoidai.vn/the-thao/ "Thể thao") 8 giờ trước [ ![Việc sản xuất UAV tấn công ở Triều Tiên giống như đạn lảng vảng IAI Harop của Israel. Nguồn ảnh: KCNA](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/trieu-tien-lo-quy-mo-san-xuat-uav-tan-cong-giong-harop-post793237.html "Triều Tiên lộ quy mô sản xuất UAV tấn công giống Harop")
-###  [ Triều Tiên lộ quy mô sản xuất UAV tấn công giống Harop ](https://giaoducthoidai.vn/trieu-tien-lo-quy-mo-san-xuat-uav-tan-cong-giong-harop-post793237.html "Triều Tiên lộ quy mô sản xuất UAV tấn công giống Harop")
-[ Thế giới ](https://giaoducthoidai.vn/the-gioi/ "Thế giới") 9 giờ trước [ ![Trẻ không cố tình cãi cha mẹ mà đang dùng hành vi để thể hiện rằng mình chưa làm được. \(Ảnh: ITN\).](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/3-buoc-khien-con-tu-luoi-bieng-thanh-tu-giac-post793159.html "3 bước khiến con từ lười biếng thành tự giác")
-###  [ 3 bước khiến con từ lười biếng thành tự giác ](https://giaoducthoidai.vn/3-buoc-khien-con-tu-luoi-bieng-thanh-tu-giac-post793159.html "3 bước khiến con từ lười biếng thành tự giác")
-[ Gia đình ](https://giaoducthoidai.vn/gia-dinh/ "Gia đình") 9 giờ trước [ ![Cán bộ, chiến sĩ Đội K90 thực hiện đào tìm tại khu vực đồi núi. Ảnh: Quân khu 9.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/doi-k90-quy-tap-10-hai-cot-liet-si-tai-campuchia-post793222.html "Đội K90 quy tập 10 hài cốt liệt sĩ tại Campuchia")
-###  [ Đội K90 quy tập 10 hài cốt liệt sĩ tại Campuchia ](https://giaoducthoidai.vn/doi-k90-quy-tap-10-hai-cot-liet-si-tai-campuchia-post793222.html "Đội K90 quy tập 10 hài cốt liệt sĩ tại Campuchia")
-[ Thời sự ](https://giaoducthoidai.vn/thoi-su/ "Thời sự") 19/09/2026 20:25 [ ![Tang vật được lực lượng chức năng thu giữ.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/phat-hien-2-nguoi-gia-khach-du-lich-tuon-lau-trung-ga-non-qua-bien-gioi-post793192.html "Phát hiện 2 người giả khách du lịch, tuồn lậu trứng gà non qua biên giới")
-###  [ Phát hiện 2 người giả khách du lịch, tuồn lậu trứng gà non qua biên giới ](https://giaoducthoidai.vn/phat-hien-2-nguoi-gia-khach-du-lich-tuon-lau-trung-ga-non-qua-bien-gioi-post793192.html "Phát hiện 2 người giả khách du lịch, tuồn lậu trứng gà non qua biên giới")
-[ Giáo dục pháp luật ](https://giaoducthoidai.vn/phap-luat-phap-luat/ "Giáo dục pháp luật") 19/09/2026 14:23 [ ![Sinh viên trải nghiệm các gian hàng tại ngày hội Hướng nghiệp và Việc làm lần 5 năm 2026.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/truong-dai-hoc-ung-dung-ai-giup-sinh-vien-cham-viec-lam-truc-tuyen-post793198.html "Trường đại học ứng dụng AI, giúp sinh viên 'chạm việc làm' trực tuyến")
-###  [ Trường đại học ứng dụng AI, giúp sinh viên 'chạm việc làm' trực tuyến ](https://giaoducthoidai.vn/truong-dai-hoc-ung-dung-ai-giup-sinh-vien-cham-viec-lam-truc-tuyen-post793198.html "Trường đại học ứng dụng AI, giúp sinh viên 'chạm việc làm' trực tuyến")
-[ Kết nối ](https://giaoducthoidai.vn/ket-noi/ "Kết nối") 19/09/2026 15:31
 ###  Đừng bỏ lỡ
-[ ![Phó Thủ tướng Chính phủ Lê Tiến Châu phát biểu tại Hội nghị Kết nối đối tác khu vực công UEH năm 2026.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/dai-hoc-can-tien-phong-phat-hien-van-de-thuc-tien-de-xuat-giai-phap-moi-post793285.html "Đại học cần tiên phong phát hiện vấn đề thực tiễn, đề xuất giải pháp mới")
-###  [ Đại học cần tiên phong phát hiện vấn đề thực tiễn, đề xuất giải pháp mới ](https://giaoducthoidai.vn/dai-hoc-can-tien-phong-phat-hien-van-de-thuc-tien-de-xuat-giai-phap-moi-post793285.html "Đại học cần tiên phong phát hiện vấn đề thực tiễn, đề xuất giải pháp mới")
-51 phút trước
+1 giờ trước
 GD&TĐ - Phó Thủ tướng Lê Tiến Châu nhấn mạnh đại học cần tiên phong phát hiện vấn đề từ thực tiễn, đề xuất giải pháp mới, hiệu quả và sáng tạo.
-[ ![Thứ trưởng Bộ GD&ĐT Lê Quân \(bìa phải\) trao Quyết định thành lập và Quyết định cho phép hoạt động đào tạo của Phân hiệu Học viện Tài chính tại TPHCM.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/hoc-vien-tai-chinh-thanh-lap-phan-hieu-tai-tphcm-post793283.html "Học viện Tài chính thành lập Phân hiệu tại TPHCM")
-###  [ Học viện Tài chính thành lập Phân hiệu tại TPHCM ](https://giaoducthoidai.vn/hoc-vien-tai-chinh-thanh-lap-phan-hieu-tai-tphcm-post793283.html "Học viện Tài chính thành lập Phân hiệu tại TPHCM")
-2 giờ trước
+3 giờ trước
 GD&TĐ - 150 tân sinh viên trúng tuyển khóa tuyển sinh đầu tiên của Phân hiệu Học viện Tài chính tại TPHCM.
-[ ![Mang yêu thương đến với thiếu nhi xã Vân Sơn, tỉnh Phú Thọ](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/mang-yeu-thuong-den-voi-thieu-nhi-xa-van-son-tinh-phu-tho-post793282.html "Mang yêu thương đến với thiếu nhi xã Vân Sơn, tỉnh Phú Thọ")
-###  [ Mang yêu thương đến với thiếu nhi xã Vân Sơn, tỉnh Phú Thọ ](https://giaoducthoidai.vn/mang-yeu-thuong-den-voi-thieu-nhi-xa-van-son-tinh-phu-tho-post793282.html "Mang yêu thương đến với thiếu nhi xã Vân Sơn, tỉnh Phú Thọ")
-2 giờ trước
+3 giờ trước
 GD&TĐ - Ngày 19/9, tại xã Vân Sơn, tỉnh Phú Thọ, CLB Tình nguyện viên Thủ đô phối hợp cùng Đoàn Thanh niên Bộ Giáo dục và Đào tạo, cấp ủy chính quyền – Đoàn Thanh niên xã Vân Sơn và các đơn vị đồng hành, tài trợ tổ chức thành công chương trình “Trung thu cho em 2026”.
 
-[ ![Nga tập kích 2 trạm tác chiến điện tử 35D6 và P-18, kiểm soát thêm lãnh thổ](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/nga-tap-kich-2-tram-tac-chien-dien-tu-35d6-va-p-18-kiem-soat-them-lanh-tho-post793269.html "Nga tập kích 2 trạm tác chiến điện tử 35D6 và P-18, kiểm soát thêm lãnh thổ")
-###  [ Nga tập kích 2 trạm tác chiến điện tử 35D6 và P-18, kiểm soát thêm lãnh thổ ](https://giaoducthoidai.vn/nga-tap-kich-2-tram-tac-chien-dien-tu-35d6-va-p-18-kiem-soat-them-lanh-tho-post793269.html "Nga tập kích 2 trạm tác chiến điện tử 35D6 và P-18, kiểm soát thêm lãnh thổ")
-2 giờ trước
+3 giờ trước
 GD&TĐ - Bộ Quốc phòng Nga cho biết đã tập kích 2 trạm tác chiến điện tử 35D6 và P-18 của Ukraine, kiểm soát thêm 5 khu định cư trong ngày.
-[ ![Bác sĩ Võ Minh Thành, Giám đốc Bệnh viện Đại học Y Dược Buôn Ma Thuột thông tin về Chương trình. \(Ảnh: TT\)](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/dia-chi-phau-thuat-mien-phi-cho-nguoi-mac-di-tat-bam-sinh-o-dak-lak-post793280.html "Địa chỉ phẫu thuật miễn phí cho người mắc dị tật bẩm sinh ở Đắk Lắk")
-###  [ Địa chỉ phẫu thuật miễn phí cho người mắc dị tật bẩm sinh ở Đắk Lắk ](https://giaoducthoidai.vn/dia-chi-phau-thuat-mien-phi-cho-nguoi-mac-di-tat-bam-sinh-o-dak-lak-post793280.html "Địa chỉ phẫu thuật miễn phí cho người mắc dị tật bẩm sinh ở Đắk Lắk")
-2 giờ trước
+3 giờ trước
 GD&TĐ - Người mắc khe hở môi, hàm ếch và một số dị tật bẩm sinh có thể đăng ký khám sàng lọc, phẫu thuật miễn phí tại Đắk Lắk.
-[ ![Ban tổ chức trao Giải Nhất Bảng triển vọng cho đội Tung Lok - Republic Polytechnic, Singapore.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/dai-dien-singapore-gianh-giai-nhat-bang-trien-vong-tai-digital-dragons-2026-post793284.html "Đại diện Singapore giành giải Nhất bảng triển vọng tại Digital Dragons 2026")
-###  [ Đại diện Singapore giành giải Nhất bảng triển vọng tại Digital Dragons 2026 ](https://giaoducthoidai.vn/dai-dien-singapore-gianh-giai-nhat-bang-trien-vong-tai-digital-dragons-2026-post793284.html "Đại diện Singapore giành giải Nhất bảng triển vọng tại Digital Dragons 2026")
-2 giờ trước
+3 giờ trước
 GD&TĐ - Đại diện đội Singapore xuất sắc giành giải Nhất bảng triển vọng tại Chung kết Cuộc thi Tìm kiếm tài năng An toàn thông tin 2026 diễn ra tại Đà Nẵng.
-[ ![Tiêm kích F-35 của Mỹ tại căn cứ al-Dhafra ở UAE.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/ky-nguyen-san-lung-may-bay-f-35-cua-my-da-bat-dau-post793248.html "'Kỷ nguyên săn lùng máy bay F-35 của Mỹ đã bắt đầu'")
-###  [ 'Kỷ nguyên săn lùng máy bay F-35 của Mỹ đã bắt đầu' ](https://giaoducthoidai.vn/ky-nguyen-san-lung-may-bay-f-35-cua-my-da-bat-dau-post793248.html "'Kỷ nguyên săn lùng máy bay F-35 của Mỹ đã bắt đầu'")
-2 giờ trước
+3 giờ trước
 GD&TĐ - Ông Mohammad Baqer Ghalibaf cho biết kỷ nguyên "săn lùng" F-35 và F-15 của Mỹ bắt đầu khi cuộc chiến chống Iran bước sang tháng thứ 7.
-[ ![CSGT hướng dẫn sinh viên quét mã QR để truy cập tài liệu. \(Ảnh: NT\)](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/300-sinh-vien-hoc-luat-giao-thong-ngay-tren-sa-hinh-post793276.html "300 sinh viên học luật giao thông ngay trên sa hình")
-###  [ 300 sinh viên học luật giao thông ngay trên sa hình ](https://giaoducthoidai.vn/300-sinh-vien-hoc-luat-giao-thong-ngay-tren-sa-hinh-post793276.html "300 sinh viên học luật giao thông ngay trên sa hình")
-3 giờ trước
+4 giờ trước
 GD&TĐ - Không chỉ nghe phổ biến pháp luật, 300 sinh viên tại Đắk Lắk còn kiểm tra kiến thức và thực hành kỹ năng lái xe an toàn.
-[ ![Quang cảnh lễ khai mạc.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/ca-mau-lan-dau-to-chuc-dai-hoi-tdtt-voi-gan-1700-van-dong-vien-tham-gia-post793272.html "Cà Mau lần đầu tổ chức Đại hội TDTT với gần 1.700 vận động viên tham gia ")
-###  [ Cà Mau lần đầu tổ chức Đại hội TDTT với gần 1.700 vận động viên tham gia ](https://giaoducthoidai.vn/ca-mau-lan-dau-to-chuc-dai-hoi-tdtt-voi-gan-1700-van-dong-vien-tham-gia-post793272.html "Cà Mau lần đầu tổ chức Đại hội TDTT với gần 1.700 vận động viên tham gia ")
-3 giờ trước
+4 giờ trước
 GD&TĐ - Ngày 20/9, tỉnh Cà Mau tổ chức khai mạc Đại hội thể dục thể thao tỉnh lần thứ I năm 2026, với chủ đề “Khỏe để cống hiến - Đoàn kết để phát triển”.
-[ ![TS Nguyễn Sơn Hà, Phó Hiệu trưởng Trường ĐH Luật Huế trao học bổng cho sinh viên hoàn cảnh khó khăn.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/truong-dh-luat-hue-dong-hanh-sinh-vien-co-hoan-canh-kho-khan-post793275.html "Trường ĐH Luật Huế đồng hành sinh viên có hoàn cảnh khó khăn")
-###  [ Trường ĐH Luật Huế đồng hành sinh viên có hoàn cảnh khó khăn ](https://giaoducthoidai.vn/truong-dh-luat-hue-dong-hanh-sinh-vien-co-hoan-canh-kho-khan-post793275.html "Trường ĐH Luật Huế đồng hành sinh viên có hoàn cảnh khó khăn")
 4 giờ trước
 GD&TĐ - Chiều 19/9, Trường ĐH Luật Huế tổ chức buổi lễ trao học bổng đến các sinh viên có hoàn cảnh khó khăn.
-[ ![Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường dự Phiên thảo luận cấp cao Đại hội đồng Liên hợp quốc khóa 81 tại Hoa Kỳ và thăm cấp Nhà nước tới Canada](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-du-phien-thao-luan-cap-cao-dai-hoi-dong-lien-hop-quoc-khoa-81-tai-hoa-ky-va-tham-cap-nha-nuoc-toi-canada-post793279.html "Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường dự Phiên thảo luận cấp cao Đại hội đồng Liên hợp quốc khóa 81 tại Hoa Kỳ và thăm cấp Nhà nước tới Canada")
-###  [ Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường dự Phiên thảo luận cấp cao Đại hội đồng Liên hợp quốc khóa 81 tại Hoa Kỳ và thăm cấp Nhà nước tới Canada ](https://giaoducthoidai.vn/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-du-phien-thao-luan-cap-cao-dai-hoi-dong-lien-hop-quoc-khoa-81-tai-hoa-ky-va-tham-cap-nha-nuoc-toi-canada-post793279.html "Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường dự Phiên thảo luận cấp cao Đại hội đồng Liên hợp quốc khóa 81 tại Hoa Kỳ và thăm cấp Nhà nước tới Canada")
-4 giờ trước
+5 giờ trước
 Ngày 20/9/2026, Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Phiên thảo luận cấp cao Đại hội đồng Liên hợp quốc khóa 81, hoạt động song phương tại Hoa Kỳ và thăm cấp Nhà nước tới Canada.
-[ ![Toàn cảnh buổi phát động.](https://giaoducthoidai.vn/nhieu-hoc-bong-va-mien-giam-hoc-phi-tai-truong-dai-hoc-kien-giang-nam-2026-post784848.html) ](https://giaoducthoidai.vn/phat-dong-huong-ung-chien-dich-lam-cho-the-gioi-sach-hon-nam-2026-post793277.html "Phát động hưởng ứng Chiến dịch làm cho thế giới sạch hơn năm 2026")
-###  [ Phát động hưởng ứng Chiến dịch làm cho thế giới sạch hơn năm 2026 ](https://giaoducthoidai.vn/phat-dong-huong-ung-chien-dich-lam-cho-the-gioi-sach-hon-nam-2026-post793277.html "Phát động hưởng ứng Chiến dịch làm cho thế giới sạch hơn năm 2026")
-4 giờ trước
+5 giờ trước
 GD&TĐ - Bộ Nông nghiệp và Môi trường phối hợp với UBND TP. Hà Nội tổ chức Lễ phát động hưởng ứng Chiến dịch Làm cho thế giới sạch hơn năm 2026.
 Xem thêm
-  * [mẫu áo polo đồng phục](https://dongphuchaianh.com/dong-phuc-cong-ty-cao-cap/ao-polo-dong-phuc/)
 
-##  [Báo Giáo dục và Thời đại Online](https://giaoducthoidai.vn "Báo Giáo dục và Thời đại Online")
 ###  BÁO GIÁO DỤC & THỜI ĐẠI
 CƠ QUAN CỦA BỘ GIÁO DỤC VÀ ĐÀO TẠO - DIỄN ĐÀN TOÀN XÃ HỘI VÌ SỰ NGHIỆP GIÁO DỤC
 Cơ quan chủ quản: BỘ GIÁO DỤC VÀ ĐÀO TẠO
@@ -239,9 +85,6 @@ Phó Tổng Biên tập: Dương Thanh Hương - Nguyễn Đức Tuân
 ® Ghi rõ nguồn "Báo Giáo dục & Thời đại" khi phát hành lại thông tin từ website.
 ###  TRỤ SỞ CHÍNH
 Tòa soạn: 15 Hai Bà Trưng - P.Cửa Nam - Hà Nội.
-Điện thoại: [024 3936 9800](tel:+842439369800)
-Hotline: [0967 335 089](tel:+84967335089)
 Email : gdtddientu@gmail.com
 ###  LIÊN HỆ QUẢNG CÁO, TRUYỀN THÔNG VÀ ĐẶT BÁO
 Phòng Truyền thông và Dự án
-Hotline: [0886 059 988](tel:+84886059988)
